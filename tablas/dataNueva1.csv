@@ -1,0 +1,1630 @@
+fecha,tipo_avión,registro,Operador,numero_total_fallecidos,lugar_accidente
+1902-09-23 00:00:00.000,Wright glider,-,Private,0,"Kitty Hawk, NC"
+1910-04-14 00:00:00.000,Parseval PL 3,se desconoce,se desconoce,0,Plauer See
+1910-04-21 00:00:00.000,Blériot XI,se desconoce,Clément van Maasdijk,0,"Pau, Basses-Pyrénées"
+1910-04-25 00:00:00.000,Zeppelin LZ.5,Z-II,Heer,0,Weilburg an der Lahn (Hessen)
+1910-05-24 00:00:00.000,Blackburn First Monoplane,Unknown,Blackburn Aircraft,0,"Near Saltburn-by-the-Sea, North Yorkshire"
+1910-06-04 00:00:00.000,Wright Biplane,se desconoce,Imperial Russian Army,0,"Gatchina, St. Petersburg"
+1910-06-28 00:00:00.000,Zeppelin LZ.7,-,DELAG,0,Osnabrück; nr
+1910-07-10 00:00:00.000,Farman Biplane,se desconoce,private (D. Kinet),0,"Ghent, East Flanders"
+1910-08-20 00:00:00.000,Lohner Type Simon I,se desconoce,Rudolf Simon,0,Zagreb (Agram)
+1910-08-20 00:00:00.000,Farman Biplane,se desconoce,Ferdinand de Baeder,0,Douai
+1910-09-08 00:00:00.000,Farman Biplane (?),se desconoce,Private,0,near Tula
+1910-09-08 00:00:00.000,Warchalowski Type I,se desconoce,Karlof Warchalowski,0,Wiener Neustadt
+1910-09-14 00:00:00.000,Zeppelin LZ.6,-,DELAG,0,Baden-Oos
+1910-09-21 00:00:00.000,Lohner-Simon,se desconoce,Rudolf Simon,0,"Banjica, city of Belgrade"
+1910-09-24 00:00:00.000,Bleriot Monoplane,se desconoce,Aleksandr Kuzminski,0,St. Petersburg
+1910-10-01 00:00:00.000,Antoinette IV,se desconoce,Rene Thomas,0,Milan
+1910-10-01 00:00:00.000,Farman III,se desconoce,Captain Bertram Dickson FRGS RHA,0,Milan
+1910-10-16 00:00:00.000,Bleriot Monoplane,se desconoce,Ernest Archer,0,"Twello, Gelderland"
+1910-10-29 00:00:00.000,Wright Model R Baby Grand,-,Walter Brookins,0,Belmont Park racetrack in New York
+1910-10-29 00:00:00.000,Blériot XI,-,Blériot French Team,0,"Belmont Park racetrack, New York"
+1910-12-16 00:00:00.000,Coandă-1910,se desconoce,Henri Coanda,0,Issy-les-Moulineaux
+0,Lohner Type Bussard,se desconoce,Private,0,unk.
+1910-04-14 00:00:00.000,Parseval PL 3,se desconoce,se desconoce,0,Plauer See
+1910-04-21 00:00:00.000,Blériot XI,se desconoce,Clément van Maasdijk,0,"Pau, Basses-Pyrénées"
+1910-04-25 00:00:00.000,Zeppelin LZ.5,Z-II,Heer,0,Weilburg an der Lahn (Hessen)
+1910-05-24 00:00:00.000,Blackburn First Monoplane,Unknown,Blackburn Aircraft,0,"Near Saltburn-by-the-Sea, North Yorkshire"
+1910-06-04 00:00:00.000,Wright Biplane,se desconoce,Imperial Russian Army,0,"Gatchina, St. Petersburg"
+1910-06-28 00:00:00.000,Zeppelin LZ.7,-,DELAG,0,Osnabrück; nr
+1910-07-10 00:00:00.000,Farman Biplane,se desconoce,private (D. Kinet),0,"Ghent, East Flanders"
+1910-08-20 00:00:00.000,Lohner Type Simon I,se desconoce,Rudolf Simon,0,Zagreb (Agram)
+1910-08-20 00:00:00.000,Farman Biplane,se desconoce,Ferdinand de Baeder,0,Douai
+1910-09-08 00:00:00.000,Farman Biplane (?),se desconoce,Private,0,near Tula
+1910-09-08 00:00:00.000,Warchalowski Type I,se desconoce,Karlof Warchalowski,0,Wiener Neustadt
+1910-09-14 00:00:00.000,Zeppelin LZ.6,-,DELAG,0,Baden-Oos
+1910-09-21 00:00:00.000,Lohner-Simon,se desconoce,Rudolf Simon,0,"Banjica, city of Belgrade"
+1910-09-24 00:00:00.000,Bleriot Monoplane,se desconoce,Aleksandr Kuzminski,0,St. Petersburg
+1910-10-01 00:00:00.000,Antoinette IV,se desconoce,Rene Thomas,0,Milan
+1910-10-01 00:00:00.000,Farman III,se desconoce,Captain Bertram Dickson FRGS RHA,0,Milan
+1910-10-16 00:00:00.000,Bleriot Monoplane,se desconoce,Ernest Archer,0,"Twello, Gelderland"
+1910-10-29 00:00:00.000,Wright Model R Baby Grand,-,Walter Brookins,0,Belmont Park racetrack in New York
+1910-10-29 00:00:00.000,Blériot XI,-,Blériot French Team,0,"Belmont Park racetrack, New York"
+1910-12-16 00:00:00.000,Coandă-1910,se desconoce,Henri Coanda,0,Issy-les-Moulineaux
+0,Lohner Type Bussard,se desconoce,Private,0,unk.
+1920-01-15 00:00:00.000,Avro 504K,G-EADL,Cosmos Engineering Company,0,"Kingswood, Gloucestershire"
+1920-02-11 00:00:00.000,Vickers Vimy,G-UABA,South African Air Force,0,"Korosko, 80 miles North of Wadi Halfa"
+1920-02-12 00:00:00.000,Spijker V.2,80,LVA,0,"Schiphol Airport, Noord-Holland"
+1920-02-17 00:00:00.000,Bristol F.2b,se desconoce,Handley Page Transport,0,"Waddon, Surrey"
+1920-02-23 00:00:00.000,Handley Page O/7,G-EANV,Handley Page Transport,0,"Acadia Siding, Cape Province"
+1920-02-25 00:00:00.000,Handley Page O/400,G-EAMC,Handley Page Transport,0,10 km N of El Shereik
+1920-02-27 00:00:00.000,Vickers Vimy Commercial,G-EAAV,Vickers (Aviation) Ltd.,0,Tabora
+1920-03-02 00:00:00.000,Spijker V.2,39,LVA,0,"Soesterberg AFB, Utrecht"
+1920-03-02 00:00:00.000,Spijker V.2,75,LVA,0,"Soesterberg AFB, Utrecht"
+1920-03-06 00:00:00.000,Vickers FB.27 Vimy Commerical,F8615,SAAF (South African Air Force),0,"Bulawayo, Matabeleland"
+1920-03-18 00:00:00.000,de Havilland DH-4B,105,US Air Mail Services,0,"Orangeville, OH"
+1920-03-18 00:00:00.000,Airco DH.16,G-EACT,Aircraft Transport & Travel Ltd.,0,"English Channel, off Beachy Head, near Eastbourne, East Sussex"
+1920-03-20 00:00:00.000,Breguet 14,3564,Hellenic Army Air Force,0,Bazartzik
+1920-03-20 00:00:00.000,Breguet 14,3600,Hellenic Army Air Force,0,Boz Eyiouk
+1920-03-24 00:00:00.000,Junkers F13/Larsen JL-6,se desconoce,Junkers-Larsen,0,"Roosevelt Field, Mineola, NY"
+1920-03-26 00:00:00.000,Breguet 14,se desconoce,Hellenic Army Air Force,0,NW of village Kalambasi
+1920-03-31 00:00:00.000,Avro 504K,G-EAHW,Handley Page Ltd.(regd owners),0,"Southwark Park, Rotherhithe, London"
+0,Sopwith Dove,G-EAKT,Sopwith Aviation Company,0,se desconoce
+1920-04-10 00:00:00.000,Curtiss R-4,49,US Air Mail Services,0,"Camden, NJ"
+1920-04-15 00:00:00.000,Avro 504K,G-EADS,Vickers Ltd,0,"Brooklands, Weybridge, Surrey"
+1920-04-16 00:00:00.000,Avro 504K,G-EAMI,W. G. Pudney,0,"Banbury, Oxfordshire"
+1920-04-22 00:00:00.000,de Havilland DH-4B,98,US Air Mail Services,0,"Gorton Station, PA"
+1920-04-24 00:00:00.000,Dornier Gs.1,se desconoce,se desconoce,0,Kiel-Holtenau
+1920-04-27 00:00:00.000,Curtiss R-4,46,US Air Mail Services,0,"Llewellyn Park, West Orange, NJ"
+1920-04-30 00:00:00.000,Avro 504K,G-EACV,Vickers Ltd,0,"Joyce Green, near Dartford, Kent"
+1920-05-04 00:00:00.000,de Havilland DH-4B,95,US Air Mail Services,0,"Burton, OH"
+1920-06-10 00:00:00.000,de Havilland DH.16,G-EARU,Aircraft Transport & Travel,0,"Swanley Junction, Swanley, Kent"
+1920-01-15 00:00:00.000,Avro 504K,se desconoce,Cosmos Engineering Company,0,"Kingswood, Gloucestershire"
+1920-02-11 00:00:00.000,Vickers Vimy,se desconoce,South African Air Force,0,"Korosko, 80 miles North of Wadi Halfa"
+1920-02-12 00:00:00.000,Spijker V.2,se desconoce,LVA,0,"Schiphol Airport, Noord-Holland"
+1920-02-17 00:00:00.000,Bristol F.2b,se desconoce,Handley Page Transport,0,"Waddon, Surrey"
+1920-02-27 00:00:00.000,Vickers Vimy Commercial,se desconoce,Vickers (Aviation) Ltd.,0,Tabora
+1920-03-02 00:00:00.000,Spijker V.2,se desconoce,LVA,0,"Soesterberg AFB, Utrecht"
+1920-03-02 00:00:00.000,Spijker V.2,se desconoce,LVA,0,"Soesterberg AFB, Utrecht"
+1920-03-06 00:00:00.000,Vickers FB.27 Vimy Commerical,se desconoce,SAAF (South African Air Force),0,"Bulawayo, Matabeleland"
+1920-03-18 00:00:00.000,de Havilland DH-4B,se desconoce,US Air Mail Services,0,"Orangeville, OH"
+1920-03-18 00:00:00.000,Airco DH.16,se desconoce,Aircraft Transport & Travel Ltd.,0,"English Channel, off Beachy Head, near Eastbourne, East Sussex"
+1920-03-20 00:00:00.000,Breguet 14,se desconoce,Hellenic Army Air Force,0,Bazartzik
+1920-03-20 00:00:00.000,Breguet 14,se desconoce,Hellenic Army Air Force,0,Boz Eyiouk
+1920-03-24 00:00:00.000,Junkers F13/Larsen JL-6,se desconoce,Junkers-Larsen,0,"Roosevelt Field, Mineola, NY"
+1920-03-26 00:00:00.000,Breguet 14,se desconoce,Hellenic Army Air Force,0,NW of village Kalambasi
+1920-03-31 00:00:00.000,Avro 504K,se desconoce,Handley Page Ltd.(regd owners),0,"Southwark Park, Rotherhithe, London"
+0,Sopwith Dove,se desconoce,Sopwith Aviation Company,0,se desconoce
+1920-04-10 00:00:00.000,Curtiss R-4,se desconoce,US Air Mail Services,0,"Camden, NJ"
+1920-04-15 00:00:00.000,Avro 504K,se desconoce,Vickers Ltd,0,"Brooklands, Weybridge, Surrey"
+1920-04-16 00:00:00.000,Avro 504K,se desconoce,W. G. Pudney,0,"Banbury, Oxfordshire"
+1920-04-22 00:00:00.000,de Havilland DH-4B,se desconoce,US Air Mail Services,0,"Gorton Station, PA"
+1920-04-24 00:00:00.000,Dornier Gs.1,se desconoce,se desconoce,0,Kiel-Holtenau
+1920-04-27 00:00:00.000,Curtiss R-4,se desconoce,US Air Mail Services,0,"Llewellyn Park, West Orange, NJ"
+1920-04-30 00:00:00.000,Avro 504K,se desconoce,Vickers Ltd,0,"Joyce Green, near Dartford, Kent"
+1920-05-04 00:00:00.000,de Havilland DH-4B,se desconoce,US Air Mail Services,0,"Burton, OH"
+1920-06-10 00:00:00.000,de Havilland DH.16,se desconoce,Aircraft Transport & Travel,0,"Swanley Junction, Swanley, Kent"
+1930-01-06 00:00:00.000,Stearman C3B,NC8820,Western Air Express,0,"Dupont, Denver, CO"
+1930-01-07 00:00:00.000,Fokker Super Universal,CF-AJG,International Airways of Canada,0,"near Whitby, ON"
+1930-01-11 00:00:00.000,de Havilland DH.60G Moth,G-AAHF,The Hon Henry Charles Hiley Bathurst,0,"Croydon Aiport, Croydon, Surrey"
+1930-01-15 00:00:00.000,Airplane,D-....,Flugschule Böblingen,0,Maxauer Hafen
+1930-01-16 00:00:00.000,Fokker C.Ve,C.Ve 433,LA-KNIL,0,Tjikembar near Sukabumi
+1930-01-16 00:00:00.000,Fokker D.C.I,FD-403,LA-KNIL,0,"Andir, Bandung, West Java"
+1930-01-17 00:00:00.000,Lockheed 3 Air Express,NC7955,Texaco,0,"West Palm Beach, FL"
+1930-01-19 00:00:00.000,de Havilland DH.61 Giant Moth,G-AAEV,Imperial Airways Ltd,0,"Broken Hill, Central Province"
+1930-01-22 00:00:00.000,Fokker F.14,NC329N,Fokker,0,"Teterboro Airport, NJ"
+1930-01-29 00:00:00.000,Centrala Verkstaden Malmslätt S 21 (S 1),41,Swedish Air Force,0,"I 5 läger, F3 Malmen (Östergötland)"
+1930-01-31 00:00:00.000,Vought O2U-1 Corsair,A-7543,US Navy,0,"Long Beach Airport, CA"
+1930-02-01 00:00:00.000,Albatros B.IIa,SE-ABU,Private,0,"Hammars backar, E Ystad"
+1930-02-08 00:00:00.000,Ford 4-AT-A Tri-Motor,NC2492,Private,0,"San Marcos, TX"
+1930-02-14 00:00:00.000,Airplane,se desconoce,Armée de l'Air,0,near Metz
+1930-02-14 00:00:00.000,DH.66 Hercules,G-EBNA,Imperial Airways,0,Gaza
+1930-02-15 00:00:00.000,Lockheed Vega 1,NC7896,Wolverine Flying Service,0,"Lansing, MI"
+1930-02-16 00:00:00.000,Avro 594 Avian III,G-CANL,Winnipeg Flying Club,0,"Winnipeg, Manitoba"
+1930-02-18 00:00:00.000,Avro 594 Avian III,ZS-AAR,C.W.Petchell,0,"Stamford Hill, Durban"
+1930-02-24 00:00:00.000,Boeing 95,NC419E,Western Air Express,0,"13 mi W of Saint George, UT"
+1930-02-25 00:00:00.000,Morane 230,se desconoce,Royal Hellenic Air Force,0,Sedes airport
+1930-02-27 00:00:00.000,Daimler L20 B I,D-1307,Deutsche Luftfahrt,0,Wittenberg
+1930-02-27 00:00:00.000,de Havilland DH.60 Moth,G-EBPM,Cinque Ports Flying Club Ltd,0,"Smarden, West of Ashford, Kent"
+1930-03-02 00:00:00.000,Ford 4-AT-A Tri-Motor,R-131,NYRBA,0,Cordoba
+1930-03-06 00:00:00.000,Junkers W.34b,VH-UGZ,Guinea Airways,0,"Wau, NG"
+1930-01-06 00:00:00.000,Stearman C3B,NC8820,Western Air Express,0,"Dupont, Denver, CO"
+1930-01-07 00:00:00.000,Fokker Super Universal,CF-AJG,International Airways of Canada,0,"near Whitby, ON"
+1930-01-11 00:00:00.000,de Havilland DH.60G Moth,G-AAHF,The Hon Henry Charles Hiley Bathurst,0,"Croydon Aiport, Croydon, Surrey"
+1930-01-15 00:00:00.000,Airplane,D-....,Flugschule Böblingen,0,Maxauer Hafen
+1930-01-16 00:00:00.000,Fokker C.Ve,C.Ve 433,LA-KNIL,0,Tjikembar near Sukabumi
+1930-01-16 00:00:00.000,Fokker D.C.I,FD-403,LA-KNIL,0,"Andir, Bandung, West Java"
+1930-01-17 00:00:00.000,Lockheed 3 Air Express,NC7955,Texaco,0,"West Palm Beach, FL"
+1930-01-19 00:00:00.000,de Havilland DH.61 Giant Moth,G-AAEV,Imperial Airways Ltd,0,"Broken Hill, Central Province"
+1930-01-22 00:00:00.000,Fokker F.14,NC329N,Fokker,0,"Teterboro Airport, NJ"
+1930-01-29 00:00:00.000,Centrala Verkstaden Malmslätt S 21 (S 1),41,Swedish Air Force,0,"I 5 läger, F3 Malmen (Östergötland)"
+1930-01-31 00:00:00.000,Vought O2U-1 Corsair,A-7543,US Navy,0,"Long Beach Airport, CA"
+1930-02-01 00:00:00.000,Albatros B.IIa,SE-ABU,Private,0,"Hammars backar, E Ystad"
+1930-02-14 00:00:00.000,Airplane,se desconoce,Armée de l'Air,0,near Metz
+1930-02-15 00:00:00.000,Lockheed Vega 1,NC7896,Wolverine Flying Service,0,"Lansing, MI"
+1930-02-16 00:00:00.000,Avro 594 Avian III,G-CANL,Winnipeg Flying Club,0,"Winnipeg, Manitoba"
+1930-02-18 00:00:00.000,Avro 594 Avian III,ZS-AAR,C.W.Petchell,0,"Stamford Hill, Durban"
+1930-02-24 00:00:00.000,Boeing 95,NC419E,Western Air Express,0,"13 mi W of Saint George, UT"
+1930-02-25 00:00:00.000,Morane 230,se desconoce,Royal Hellenic Air Force,0,Sedes airport
+1930-02-27 00:00:00.000,Daimler L20 B I,D-1307,Deutsche Luftfahrt,0,Wittenberg
+1930-02-27 00:00:00.000,de Havilland DH.60 Moth,G-EBPM,Cinque Ports Flying Club Ltd,0,"Smarden, West of Ashford, Kent"
+1930-03-06 00:00:00.000,Junkers W.34b,VH-UGZ,Guinea Airways,0,"Wau, NG"
+1940-01-01 00:00:00.000,Messerschmitt Bf 109E-1,3258,3./JG 101 Luftwaffe,0,"Westerland, Schleswig-Holstein"
+1940-01-02 00:00:00.000,Hawker Hurricane Mk I,L1893,80 Sqn RAF,0,"RAF Amiriya, near Alexandria"
+1940-01-03 00:00:00.000,Avro Anson Mk I,N5234,502 (Ulster) Sqn RAF,0,"4 miles E of Rhyl, Denbeighshire"
+1940-01-04 00:00:00.000,North American O-47A,37-354,119th Obs Sqn USAAC,0,"2 miles east of Shushan Airport, New Orleans, Louisiana"
+1940-01-05 00:00:00.000,Fokker G.1 Mercury,306,"4-II-1 LvR, Wapen der Militaire Luchtvaart (ML)",0,"near the Meggelsloot water at De Rijp, Noord-Holland"
+1940-01-05 00:00:00.000,Lockheed Hudson Mk I,N7250,224 Sqn RAF,0,"RAF Prestwick, Ayrshire, Scotland"
+1940-01-05 00:00:00.000,Bristol Blenheim Mk IV,L8741,21 Sqn RAF,0,"RAF Halton, 4 miles SE of Aylesbury, Buckinghamshire"
+1940-01-07 00:00:00.000,Supermarine Spitfire Mk I,L1064,609 (West Riding) Sqn RAF,0,"Near Crook of Alves, Morayshire"
+1940-01-07 00:00:00.000,Bristol Blenheim Mk I,L1214,108 Sqn RAF,0,"RAF Bicester, Oxfordshire"
+1940-01-09 00:00:00.000,Supermarine Spitfire Mk I,N3104,64 Sqn RAF,0,"RAF Hornchurch, Essex, England."
+1940-01-09 00:00:00.000,Fleet,LV-...,Private,0,"Rosario, SF"
+1940-01-10 00:00:00.000,Messerschmitt Bf 108M Taifun,NF+AW,Luftwaffe,0,near Vucht
+1940-01-10 00:00:00.000,Douglas O-46A,35-192,91st Obs Sqn USAAC,0,"10 mi east of Fort Lewis, Washington"
+1940-01-10 00:00:00.000,Airspeed Oxford Mk I,P1941,2 FPP ATA,0,"RAF Sealand, Flintshire"
+1940-01-10 00:00:00.000,Bristol Blenheim Mk IV,L8873,104 Sqn RAF,0,"RAF Bicester, Oxfordshire"
+1940-01-11 00:00:00.000,Supermarine Spitfire Mk I,N3036,66 Sqn RAF,0,"RAF Duxford, Cambridgeshire, England."
+1940-01-11 00:00:00.000,Hawker Demon Mk I,A1-54,25 Sqn RAAF,0,"off Yanchep Beach, NW of Perth, WA"
+1940-01-12 00:00:00.000,Gloster Gladiator Mk I,K7944,112 Sqn RAF,0,RAF stn Helwan
+1940-01-12 00:00:00.000,Hawker Hart B4,F19-blue X,F19,0,se desconoce
+1940-01-12 00:00:00.000,Hawker Hart (B4A),se desconoce,Swedish Air Force,0,Märkäjärvi (Finland)
+1940-01-12 00:00:00.000,Hawker Hart (B4A),732,Swedish Air Force,0,"Ca 10 km SSO Joutsijärvi, SV Märkäjärvi (Finland)"
+1940-01-12 00:00:00.000,Avro Anson Mk I,K6317,269 Sqn RAF,0,"RAF Wick, Caithness, Scotland"
+1940-01-12 00:00:00.000,De Havilland DH.82 Tiger Moth,G-ADWD,12 EFTS RAF,0,"RAF Prestwick, South Ayrshire, Scotland"
+1940-01-13 00:00:00.000,Douglas TBD-1 Devastator,0292,US Navy,0,"Near Salton Sea 20 miles E of Julian, CA"
+1940-01-13 00:00:00.000,Potez 25 A2,2022,Armée de l'Air,0,"Rochefort airfield, Charente-Inférieure"
+1940-01-13 00:00:00.000,Fleet 3,se desconoce,se desconoce,0,"Praia de Torres, RS"
+1940-01-13 00:00:00.000,Dornier Do 17S-O,T5+FH,Aufklärungsgr. Ob. d. Luftw / Aufklärungsgr. 100,0,"English Channel in the Pas De Calais, between Calais and Dover"
+1940-01-14 00:00:00.000,Fairey Gordon I,K2719,112 Sqn RAF,0,Nr RAF Helwan
+1940-01-15 00:00:00.000,Lockheed 14-WF62 Super Electra,G-AFMO,British Airways,0,Heston Airport
+1940-01-15 00:00:00.000,Lockheed Hudson Mk I,N7245,233 Sqn RAF,0,"RAF Leuchars, Fife, Scotland"
+1940-01-15 00:00:00.000,Morane-Saulnier MS 406,n° 63,GC I/9 Armée de l’Air,0,Oran-La Sénia airfield
+1940-01-16 00:00:00.000,Supermarine Spitfire Mk I,K9893,152 (Hyderabad) Sqn RAF,0,"Between Broughton and Kirton, Nottinghamshire"
+1940-01-16 00:00:00.000,Fairey Battle Mk I,P2253,5 Gp TT Flt RAF,0,"Sigglesthorne Grange nr RAF stn Catfoss, Yorkshire"
+1940-01-16 00:00:00.000,Avro Anson Mk I,K8833,48 Sqn RAF,0,"North Sea, East of Great Yarmouth, Norfolk"
+1940-01-16 00:00:00.000,Supermarine Spitfire Mk I,K9885,152 (Hyderabad) Sqn RAF,0,8 miles E of Nottingham
+1940-01-17 00:00:00.000,Airspeed Oxford Mk II,P6803,5 FTS RAF,0,"Tarporley, 23 km ESE RAF Sealand, Cheshire"
+1940-01-18 00:00:00.000,Grumman F3F-1,0229,US Navy,0,Atlantic Ocean
+1940-01-18 00:00:00.000,Fairey Battle Mk I,L5065,7 AOS RAF,0,"Peterston-super-Ely near Cowbridge, Glamorgan"
+1940-01-19 00:00:00.000,Potez 25,1935,Armée de l'Air,0,"Aulnat airfield, Puy-de-Dome"
+1940-01-19 00:00:00.000,Dewoitine D.500,n° 57,C.I.R. Armée de l'Air,0,"Aulnat airfield, Puy-de-Dome"
+1940-01-01 00:00:00.000,Messerschmitt Bf 109E-1,3258,3./JG 101 Luftwaffe,0,"Westerland, Schleswig-Holstein"
+1940-01-02 00:00:00.000,Hawker Hurricane Mk I,L1893,80 Sqn RAF,0,"RAF Amiriya, near Alexandria"
+1940-01-03 00:00:00.000,Avro Anson Mk I,N5234,502 (Ulster) Sqn RAF,0,"4 miles E of Rhyl, Denbeighshire"
+1940-01-04 00:00:00.000,North American O-47A,37-354,119th Obs Sqn USAAC,0,"2 miles east of Shushan Airport, New Orleans, Louisiana"
+1940-01-05 00:00:00.000,Fokker G.1 Mercury,306,"4-II-1 LvR, Wapen der Militaire Luchtvaart (ML)",0,"near the Meggelsloot water at De Rijp, Noord-Holland"
+1940-01-05 00:00:00.000,Lockheed Hudson Mk I,N7250,224 Sqn RAF,0,"RAF Prestwick, Ayrshire, Scotland"
+1940-01-05 00:00:00.000,Bristol Blenheim Mk IV,L8741,21 Sqn RAF,0,"RAF Halton, 4 miles SE of Aylesbury, Buckinghamshire"
+1940-01-07 00:00:00.000,Supermarine Spitfire Mk I,L1064,609 (West Riding) Sqn RAF,0,"Near Crook of Alves, Morayshire"
+1940-01-07 00:00:00.000,Bristol Blenheim Mk I,L1214,108 Sqn RAF,0,"RAF Bicester, Oxfordshire"
+1940-01-09 00:00:00.000,Supermarine Spitfire Mk I,N3104,64 Sqn RAF,0,"RAF Hornchurch, Essex, England."
+1940-01-09 00:00:00.000,Fleet,LV-...,Private,0,"Rosario, SF"
+1940-01-10 00:00:00.000,Messerschmitt Bf 108M Taifun,NF+AW,Luftwaffe,0,near Vucht
+1940-01-10 00:00:00.000,Douglas O-46A,35-192,91st Obs Sqn USAAC,0,"10 mi east of Fort Lewis, Washington"
+1940-01-10 00:00:00.000,Airspeed Oxford Mk I,P1941,2 FPP ATA,0,"RAF Sealand, Flintshire"
+1940-01-10 00:00:00.000,Bristol Blenheim Mk IV,L8873,104 Sqn RAF,0,"RAF Bicester, Oxfordshire"
+1940-01-11 00:00:00.000,Supermarine Spitfire Mk I,N3036,66 Sqn RAF,0,"RAF Duxford, Cambridgeshire, England."
+1940-01-11 00:00:00.000,Hawker Demon Mk I,A1-54,25 Sqn RAAF,0,"off Yanchep Beach, NW of Perth, WA"
+1940-01-12 00:00:00.000,Gloster Gladiator Mk I,K7944,112 Sqn RAF,0,RAF stn Helwan
+1940-01-12 00:00:00.000,Hawker Hart B4,F19-blue X,F19,0,se desconoce
+1940-01-12 00:00:00.000,Hawker Hart (B4A),se desconoce,Swedish Air Force,0,Märkäjärvi (Finland)
+1940-01-12 00:00:00.000,Hawker Hart (B4A),732,Swedish Air Force,0,"Ca 10 km SSO Joutsijärvi, SV Märkäjärvi (Finland)"
+1940-01-12 00:00:00.000,Avro Anson Mk I,K6317,269 Sqn RAF,0,"RAF Wick, Caithness, Scotland"
+1940-01-12 00:00:00.000,De Havilland DH.82 Tiger Moth,G-ADWD,12 EFTS RAF,0,"RAF Prestwick, South Ayrshire, Scotland"
+1940-01-13 00:00:00.000,Douglas TBD-1 Devastator,0292,US Navy,0,"Near Salton Sea 20 miles E of Julian, CA"
+1940-01-13 00:00:00.000,Potez 25 A2,2022,Armée de l'Air,0,"Rochefort airfield, Charente-Inférieure"
+1940-01-13 00:00:00.000,Fleet 3,se desconoce,se desconoce,0,"Praia de Torres, RS"
+1940-01-13 00:00:00.000,Dornier Do 17S-O,T5+FH,Aufklärungsgr. Ob. d. Luftw / Aufklärungsgr. 100,0,"English Channel in the Pas De Calais, between Calais and Dover"
+1940-01-14 00:00:00.000,Fairey Gordon I,K2719,112 Sqn RAF,0,Nr RAF Helwan
+1940-01-15 00:00:00.000,Lockheed Hudson Mk I,N7245,233 Sqn RAF,0,"RAF Leuchars, Fife, Scotland"
+1940-01-15 00:00:00.000,Morane-Saulnier MS 406,n° 63,GC I/9 Armée de l’Air,0,Oran-La Sénia airfield
+1940-01-16 00:00:00.000,Supermarine Spitfire Mk I,K9893,152 (Hyderabad) Sqn RAF,0,"Between Broughton and Kirton, Nottinghamshire"
+1940-01-16 00:00:00.000,Fairey Battle Mk I,P2253,5 Gp TT Flt RAF,0,"Sigglesthorne Grange nr RAF stn Catfoss, Yorkshire"
+1940-01-16 00:00:00.000,Avro Anson Mk I,K8833,48 Sqn RAF,0,"North Sea, East of Great Yarmouth, Norfolk"
+1940-01-16 00:00:00.000,Supermarine Spitfire Mk I,K9885,152 (Hyderabad) Sqn RAF,0,8 miles E of Nottingham
+1940-01-17 00:00:00.000,Airspeed Oxford Mk II,P6803,5 FTS RAF,0,"Tarporley, 23 km ESE RAF Sealand, Cheshire"
+1940-01-18 00:00:00.000,Grumman F3F-1,0229,US Navy,0,Atlantic Ocean
+1940-01-18 00:00:00.000,Fairey Battle Mk I,L5065,7 AOS RAF,0,"Peterston-super-Ely near Cowbridge, Glamorgan"
+1940-01-19 00:00:00.000,Potez 25,1935,Armée de l'Air,0,"Aulnat airfield, Puy-de-Dome"
+1940-01-19 00:00:00.000,Dewoitine D.500,n° 57,C.I.R. Armée de l'Air,0,"Aulnat airfield, Puy-de-Dome"
+1950-01-02 00:00:00.000,Amiot AAC.1 (Junkers Ju-52),se desconoce,Armée de l'Air,0,13 km NW of Sebdou
+1950-01-04 00:00:00.000,North American F-86A-5-NA Sabre,48-237,4th FIGp /334th FISqn USAF,0,"near Langley AFB, Virginia"
+1950-01-04 00:00:00.000,de Havilland DH.98 Mosquito NF Mk 36,RL260,228 OCU RAF,0,"1/2 mile south of RAF stn Catterick, North Yorkshire, England."
+1950-01-05 00:00:00.000,Curtiss C-46A,PP-XBW,Comp. Itaú de Transportes Aéreos,0,"Itaquaquecetuba, SP"
+1950-01-06 00:00:00.000,de Havilland DH.98 Mosquito PR Mk XVI,2102,Israeli Air Force (IDF/AF),0,????.
+1950-01-06 00:00:00.000,Gloster Meteor F Mk 4,VT178,1 Sqn RAF,0,"RAF Tangmere, Chichester, West Sussex, England"
+1950-01-07 00:00:00.000,Beechcraft 18,XB-JOD,Banco de México,0,"near Las Juntas, JAL"
+1950-01-08 00:00:00.000,De Havilland DH-82A Tiger Moth,ZK-AIK,Auckland Aero Club,0,"Sea off Port Charles, Waikato"
+1950-01-08 00:00:00.000,Gloster Meteor F Mk III,EE472,616 (South Yorkshire) Sqn RAF,0,"near RAF Finningley, South Yorkshire, England."
+1950-01-09 00:00:00.000,Fieseler Fi 156 Storch,N-AD,Luftforsvaret (RNoAF),0,Bardufoss
+1950-01-10 00:00:00.000,Beechcraft C-45F Expeditor,MM61704,Aeronautica Militare Italiana (AMI),0,Padova-Brusegana
+1950-01-10 00:00:00.000,McDonnell FH-1 Phantom,111753,United States Marine Corps (USMC),0,"MCAS Cherry Point, NC"
+1950-01-10 00:00:00.000,De Havilland DH.82A Tiger Moth,VT-CMX,Bombay Flying Club,0,"near Piploda, Nagar Parishad, Ratlam district, Madhya Pradesh"
+1950-01-10 00:00:00.000,Avro Anson C Mk 19,VP531,58 Sqn RAF,0,"Loughor estuary, off Burry Port, west of Llanelli, Carmarthenshire"
+1950-01-11 00:00:00.000,Douglas C-54G-5-DO,45-0570,United States Air Force (USAF),0,"Kodiak AFB, AK"
+1950-01-12 00:00:00.000,Republic F-84E Thunderjet,49-2037,309th FSqn /31st FGp USAF,0,"Turner AFB, Albany, Georgia"
+1950-01-12 00:00:00.000,Gloster Meteor T Mk 7,VW314,226 OCU RAF,0,"RAF Stradishall, Suffolk, England"
+1950-01-12 00:00:00.000,Avro Lancaster B Mk III GR,SW373,210 Sqn RAF,0,"RAF St. Eval, Cornwall, England."
+1950-01-12 00:00:00.000,Cessna,N....,Private,0,"Ruby, AK"
+1950-01-13 00:00:00.000,Lockheed A-28A Hudson,6052,Força Aérea Brasileira (FAB),0,"Fortaleza, CE"
+1950-01-13 00:00:00.000,de Havilland Canada DHC-1 Chipmunk,VT-...,C.P. and Berar Flying Club,0,Delbahar
+1950-01-13 00:00:00.000,Avro Anson T Mk 21,VV986,ATCS RAF,0,"RAF Watchfield, 7.2 miles NE of Royal Wootton Bassett, Wiltshire"
+1950-01-14 00:00:00.000,De Havilland DH-89B Dominie,ZK-ALC,NZ National Airways Corporation,0,"Rotorua Aerodrome, Rotorua"
+1950-01-14 00:00:00.000,De Havilland DH.82 Tiger Moth,ZS-AIY,Rand Flying Club,0,"Rustenburg Airfield, Rustenburg, North West Province"
+1950-01-14 00:00:00.000,De Havilland DH.94 Moth Minor,VH-ADJ,Aero Club of Broken Hill,0,"Kajuligan Station, near Ivanhoe, NSW."
+1950-01-16 00:00:00.000,Gloster Meteor F Mk 4,VT261,92 Sqn RAF,0,"near RAF Linton-on-Ouse, North Yorkshire, England"
+1950-01-16 00:00:00.000,Boeing B-29,se desconoce,United States Air Force (USAF),0,"Bear Field, IN"
+1950-01-17 00:00:00.000,North American F-6D Mustang (P-51D),44-72106,Armee de l'Air,0,near BA Fribourg
+1950-01-17 00:00:00.000,de Havilland DH.98 Mosquito FB Mk VI,PZ393,204 AFS RAF,0,"RAF stn Brize Norton, Oxfordshire, England."
+1950-01-17 00:00:00.000,de Havilland DH.89A Dragon Rapide,YV-P-BPE,Riego Oil Co,0,"Tucacas, Falcón"
+1950-01-17 00:00:00.000,Bristol Beaufighter TT Mk 21,A8-354,30 TT Sqn RAAF,0,"RAAF Deniliquin, Riverina region of New South Wales."
+1950-01-18 00:00:00.000,Douglas DC-3,PI-C184,Trans Asiatic Airlines,0,Yangon-Mingaladon Airport (RGN)
+1950-01-19 00:00:00.000,de Havilland DH.98 Mosquito FB Mk VI,RF680,204 AFS RAF,0,"RAF stn Brize Norton, Oxfordshire, England."
+1950-01-19 00:00:00.000,FFVS J 22A,22.167,Swedish Air Force,0,F18 Tullinge (Södermanland)
+1950-01-20 00:00:00.000,Handley Page Halifax C.8,G-AITC,World Air Freight Ltd,0,"Brindisi Airport (Aeroporto di Brindisi), Brindisi, Apulia"
+1950-01-22 00:00:00.000,Douglas DC-4-1009,F-BBDB,Air France,0,Paris-Orly Airport (ORY)
+1950-01-23 00:00:00.000,Airplane,se desconoce,se desconoce,0,"Garimpo de Alto Parauai, MT"
+1950-01-05 00:00:00.000,Curtiss C-46A,PP-XBW,Comp. Itaú de Transportes Aéreos,0,"Itaquaquecetuba, SP"
+1950-01-18 00:00:00.000,Douglas DC-3,PI-C184,Trans Asiatic Airlines,0,Yangon-Mingaladon Airport (RGN)
+1950-01-22 00:00:00.000,Douglas DC-4-1009,F-BBDB,Air France,0,Paris-Orly Airport (ORY)
+1960-01-03 00:00:00.000,Taylorcraft Auster 5,ZK-AVF,Private,0,"Homewood, Wairarapa"
+1960-01-03 00:00:00.000,Auster T.7,WE569,654 Sqn Brit. AAC,0,"near Hildesheim, Lower Saxony"
+1960-01-04 00:00:00.000,Curtiss C-46A,PP-SLJ,T.A. Salvador,0,"Dianopolis Airport, TO (DNO)"
+1960-01-05 00:00:00.000,de Havilland Canada DHC-1-200 Chipmunk,1331,Força Aérea Portuguesa,0,Vilarinho/Cacia
+1960-01-05 00:00:00.000,Percival Provost T1,XF905,6 FTS RAF,0,"RAF High Ercall, 7 miles NE of Shrewsbury, Shropshire, England."
+1960-01-05 00:00:00.000,Percival Provost T1,WV537,6 FTS RAF,0,"RAF High Ercall, 7 miles NE of Shrewsbury, Shropshire, England."
+1960-01-05 00:00:00.000,Vickers 701 Viscount,G-AMNY,BEA,0,Malta-Luqa Airport (MLA)
+1960-01-06 00:00:00.000,Douglas R4D-8 (Super DC-3),17154,US Navy,0,Byrd Station
+1960-01-07 00:00:00.000,Vought F8U-2 Crusader,145571,US Navy VF-84,0,USS Independence
+1960-01-07 00:00:00.000,North American FJ-4B Fury (F-86H),143516,United States Navy (USN),0,se desconoce
+1960-01-07 00:00:00.000,Ilyushin Il-12,CCCP-01438,"Aeroflot, Northern",0,Leningrad-Shosseynaya Airport (LED)
+1960-01-08 00:00:00.000,Hawker Hunter F Mk 6,XJ675,93 Sqn RAF,0,"5 miles NE of Aurich, Lower Saxony"
+1960-01-09 00:00:00.000,de Havilland Canada DHC-1 Chipmunk 22,VH-BWE,Royal Aero Club of South Australia,0,"Parafield, 18 Km N of Adelaide, SA"
+1960-01-11 00:00:00.000,Bristol 171 Sycamore 4,VH-INO,Ansett-ANA,0,"Nundle State Forest, NSW"
+1960-01-11 00:00:00.000,Gloster Meteor T Mk 7,VW472,Ferry Sqn RAF,0,"nr RAF Manby, Lincolnshire"
+1960-01-12 00:00:00.000,Scottish Aviation Twin Pioneer 2,PI-C430,Philippine Air Lines,0,Plaridel Airport
+1960-01-14 00:00:00.000,Republic F-84G Thunderjet (2x),se desconoce,Türk Hava Kuvvetleri,0,Samsun
+1960-01-15 00:00:00.000,Saab J29F Tunnan,296608,Swedish Air Force,0,"Fält 32, Heden, Boden (Norrbotten)"
+1960-01-15 00:00:00.000,de Havilland Canada DHC-2 Beaver,NZ6010,Antarctic Flt RNZAF,0,Beardmore Glacier
+1960-01-18 00:00:00.000,Lockheed F-104A-25-LO Starfighter,56-0873,538 FISqn /4700 ADWg USAF,0,"4 miles NE of McLoud, OK"
+1960-01-19 00:00:00.000,Hawker Hunter F51,47-415,Flyvevåbnet,0,Skrydstrup AB (SKS)
+1960-01-20 00:00:00.000,Westland Whirlwind HAR 7,XM664,727 NAS FAA RN,0,"English Channel, 4 miles off RNAS Portland, Dorset"
+1960-01-20 00:00:00.000,Sud Aviation SE 3130 Alouette II,9201,Força Aérea Portuguesa,0,se desconoce
+1960-01-20 00:00:00.000,Westland Whirlwind HAR.2,XJ728,22 Sqn RAF,0,"Sea off Padstow, Cornwall"
+1960-01-21 00:00:00.000,Republic F-84G Thunderjet,51-9772 ?,Türk Hava Kuvvetleri,0,Bandirma AB
+1960-01-04 00:00:00.000,Curtiss C-46A,PP-SLJ,T.A. Salvador,0,"Dianopolis Airport, TO (DNO)"
+1960-01-05 00:00:00.000,Vickers 701 Viscount,G-AMNY,BEA,0,Malta-Luqa Airport (MLA)
+1960-01-06 00:00:00.000,Douglas R4D-8 (Super DC-3),17154,US Navy,0,Byrd Station
+1960-01-07 00:00:00.000,Ilyushin Il-12,CCCP-01438,"Aeroflot, Northern",0,Leningrad-Shosseynaya Airport (LED)
+1960-01-12 00:00:00.000,Scottish Aviation Twin Pioneer 2,PI-C430,Philippine Air Lines,0,Plaridel Airport
+1970-01-02 00:00:00.000,Northrop F-5A,1311,Royal Thai Air Force (RTAF),0,se desconoce
+1970-01-02 00:00:00.000,Lockheed 18 Learstar II,N13VV,Sky King,0,"North Little Rock Municipal Airport, AR"
+1970-01-02 00:00:00.000,Mooney M20E,N9253V,Private,0,"Los Angeles, CA"
+1970-01-03 00:00:00.000,Fairchild C-123K Provider,54-688,USAF,0,Binh Thuy Air Base (VCA)
+1970-01-04 00:00:00.000,Grumman A-6A Intruder,155639,"VA-75, US Navy",0,"off USS Saratoga, Western Atlantic Ocean"
+1970-01-04 00:00:00.000,Vought F-8B Crusader,145425,United States Navy (USN),0,"near White, GA"
+1970-01-05 00:00:00.000,Fokker F-27 Friendship 600,EC-BOD,Iberia,0,La Palma-Buena Vista Airport
+1970-01-05 00:00:00.000,Gloster Meteor T7 (TF-7),4301,Força Aérea Brasileira (FAB),0,"Campo de Marte, SP"
+1970-01-08 00:00:00.000,Cessna UC-78B Bobcat,N63878,Private,0,"South Haven, MI"
+1970-01-08 00:00:00.000,Taylorcraft BC-12-D,N96698,West Coast Aer,0,"Visalia, CA"
+1970-01-08 00:00:00.000,Piper PA-24-250 Commanche,VH-PAR,Nichols Holdings Pty Ltd,0,"Jandakot Airport, Perth, WA"
+1970-01-09 00:00:00.000,Douglas A-1G Skyraider,52-132612,United States Air Force (USAF),0,"Muang Poi, near, Laos"
+1970-01-10 00:00:00.000,MiG-21U-600,285,JG-1 Luftstreitkräfte,0,Cottbus Air Base
+1970-01-10 00:00:00.000,Beagle B.121 Pup Series 2,G-AXHK,Middleton St. George Aero Club,0,"near Teesside Airport, Middleton St. George, County, Durham"
+1970-01-10 00:00:00.000,Beechcraft D18S,N44CA,Private,0,Freeport
+1970-01-11 00:00:00.000,Piper PA-23-250 Aztec,N6661Y,Private,0,"Bay Minette, AL"
+1980-01-02 00:00:00.000,McDonnell Douglas F-4S Phantom II,153818,US Navy,0,off South Carolina
+1980-01-02 00:00:00.000,McDonnell Douglas F-4S Phantom II,153853,US Navy,0,off South Carolina
+1980-01-02 00:00:00.000,Boeing EC-135P,58-0007,USAF,0,"Hampton-Langley AFB, VA (LFI)"
+1980-01-03 00:00:00.000,Bell 47G-3B-1,ZK-HDQ,Mountain Helicopters Ltd,0,"near Karamea, West Coast"
+1980-01-04 00:00:00.000,Beechcraft C50 Twin Bonanza,N3725B,"Cls Seafood,In",0,Atlantic Ocean
+1980-01-05 00:00:00.000,Lockheed 18 Learstar I,N163R,Private,0,"Palmyra Island, Line Islands"
+1980-01-07 00:00:00.000,McDonnell Douglas F-4J Phantom II,158371,"VF-151, US Navy",0,Off USS Midway (CVA-41)
+1980-01-07 00:00:00.000,DC-9-32,I-DIKB,Alitalia,0,Roma-Fiumicino Airport (FCO)
+1980-01-08 00:00:00.000,Atlas C4M Kudu (AL.60),986,South African Air Force (SAAF),0,se desconoce
+1980-01-08 00:00:00.000,Grumman A-6E Intruder,160426,"VA-196, US Navy",0,"USS Coral Sea (CVA-43), South China Sea, West of NAS Cubi Pt, Philippi"
+1980-01-08 00:00:00.000,Cessna F152 II (Reims),SX-ALL,Aeroclub of Lakonia,0,Sparti Airport (LGSP)
+1980-01-09 00:00:00.000,Mil Mi-8T,se desconoce,Soviet Air Force,0,near Ishkamysh
+1980-01-11 00:00:00.000,Convair CV-440-11,CP-1358,Carga Aéreo Transportada,0,Camiare
+1980-01-11 00:00:00.000,Hughes 500D (369D),N9163F,Alla Ohio Avia,0,"near  Dione, Ky"
+1980-01-12 00:00:00.000,Piper PA-12 Super Cruiser,N92795,Private,0,"near  Beaumont, CA"
+1980-01-13 00:00:00.000,DC-9-32,PK-GND,Garuda,0,Banjarmasin-Sjamsudin Noor Airport (BDJ)
+1980-01-14 00:00:00.000,Westland Sea King HAS2,XZ572,Royal Navy Fleet Air Arm,0,"Atlantic Ocean, off Florida"
+1980-01-14 00:00:00.000,MiG-25RB,se desconoce,Soviet Air Force,0,se desconoce
+1980-01-14 00:00:00.000,Grumman A-6E Intruder,152929,"VA-75, US Navy",0,"USS Saratoga (CVA-60) 100 miles E of Jacksonville, Florida"
+1980-01-15 00:00:00.000,Rockwell Aero Commander 690,N182,Corporate Air,0,"near  Goldsboro, MD"
+1980-01-16 00:00:00.000,Convair PQM-102,56-1453,U.S. Air Force (USAF),0,Gulf of Mexico
+1980-01-17 00:00:00.000,Cessna 182,N4789N,Private,0,"Spring Valley, NY"
+1980-01-18 00:00:00.000,Lockheed F-104G Starfighter,MM6510,Aeronautica Militare Italiana (AMI),0,"Capo Frasca range (OR), Sardinia"
+1980-01-18 00:00:00.000,Piper PA-31-350 Navajo Chieftain,N25VM,Eastern Carib,0,"St. Croix, VI"
+1980-01-18 00:00:00.000,Piper PA-23-250 Aztec C,N238PS,Private,0,"near  St.Thomas, Vi"
+1980-01-18 00:00:00.000,Cessna 172,N92453,T&T Motor Home,0,"near  Key West, FL"
+1980-01-18 00:00:00.000,Piper PA-23-250 Aztec B,N5134Y,Codd Enterprises Inc,0,"Islamorida, FL"
+1980-01-19 00:00:00.000,Bell 206,N789PR,Royal Helicopt,0,"near  Honolulu, Hi"
+1980-01-19 00:00:00.000,Maule M-5,N9069E,Private,0,"Portland, Or"
+1980-01-19 00:00:00.000,Beechcraft B35 Bonanza,N5004C,Private,0,"Kissimmee, FL"
+1980-01-20 00:00:00.000,Dassault Mirage F1CG,130,Elleniki Polemikí Aeroporía,0,se desconoce
+1980-01-20 00:00:00.000,Hughes 369D,N8354F,Rogers Helicop,0,"near  June Lakes, CA"
+1980-01-02 00:00:00.000,Boeing EC-135P,58-0007,USAF,0,"Hampton-Langley AFB, VA (LFI)"
+1980-01-05 00:00:00.000,Lockheed 18 Learstar I,N163R,Private,0,"Palmyra Island, Line Islands"
+1980-01-07 00:00:00.000,DC-9-32,I-DIKB,Alitalia,0,Roma-Fiumicino Airport (FCO)
+1980-01-11 00:00:00.000,Convair CV-440-11,CP-1358,Carga Aéreo Transportada,0,Camiare
+1980-01-13 00:00:00.000,DC-9-32,PK-GND,Garuda,0,Banjarmasin-Sjamsudin Noor Airport (BDJ)
+1990-01-01 00:00:00.000,MDH 500MD ASW,6906,Republic of China Navy,0,se desconoce
+1990-01-03 00:00:00.000,BN-2A Trislander Mk.III,YJ-RV3,Vanair,0,15 km from Port Vila-Bauerfield Airport (VLI)
+1990-01-04 00:00:00.000,FMA IA 58A Pucará,A-560,Fuerza Aérea Argentina,0,"Bella Vista, Comodoro Rivadavia, Chubut"
+1990-01-04 00:00:00.000,Fairchild SA227-AC Metro III,N31138,"Chautauqua Airlines, opf. USAir Express",0,"Hagerstown, MD"
+1990-01-04 00:00:00.000,Cessna 172E,N3531S,"Dawe, John R.",0,"Hammond, LA"
+1990-01-05 00:00:00.000,Lockheed L-100-30 Hercules,D2-THB,Angola Air Charter,0,Menongue Airport (SPP)
+1990-01-05 00:00:00.000,Cessna 185,N9816X,Private,0,"Agua Dulce, CA"
+1990-01-05 00:00:00.000,Piper PA-30-160 Twin Comanche,N7030Y,Nicholas O. Calley,0,"near Tallahassee Regional Airport, Tallahassee, Florida"
+1990-01-05 00:00:00.000,Fokker F-28 Fellowship 4000,LV-MZD,Aerolineas Argentinas,0,"Villa Gesell Airport, BA (VLG)"
+1990-01-06 00:00:00.000,Hughes 269C,N7456F,C.A.R.I. Aviation,0,"Rialto, CA"
+1990-01-08 00:00:00.000,Beechcraft V35B Bonanza,N6741V,"Hayden Machinery,Inc.",0,"W Kingston, RI"
+1990-01-08 00:00:00.000,Cessna 150L,N7950F,Frank G. Fisher,0,"Talladega, AL"
+1990-01-09 00:00:00.000,Douglas A-4M Skyhawk,158162,USMC,0,Yuma MCAS
+1990-01-09 00:00:00.000,Panavia Tornado GR1A,ZA394,RAF,0,"4 mi E of Hexham, Northumberland"
+1990-01-11 00:00:00.000,Boeing KC-135A,59-1494,USAF,0,"Portsmouth-Pease AFB, NH (PSM)"
+1990-01-11 00:00:00.000,Cessna F152 II (Reims),G-BOIP,AV Aviation Ltd,0,"Stanbore Lane, Uckington, Cheltenham, Gloucestershire"
+1990-01-12 00:00:00.000,Douglas A-4M Skyhawk,158149,USMC,0,"near NAS Willow Grove, PA"
+1990-01-16 00:00:00.000,Sikorsky S-62A,VH-NWB,Northwest Air Charter,0,"Panguna, Bougaiville"
+1990-01-16 00:00:00.000,Cessna 172M,N9093H,Reliant Pilot Training Center,0,"Danbury, CT"
+1990-01-16 00:00:00.000,Cessna 402A,N4532Q,Freight Runners Express Inc.,0,"Mosinee, WI"
+1990-01-16 00:00:00.000,Hawker Hunter T66B,802,Royal  Air Force of Oman (RAFO),0,"Thumrait AB, Dhofar Region"
+1990-01-17 00:00:00.000,McDonnell Douglas F-4E Phantom II,73-1163,"4th TFW, USAF",0,"Seminole, OK"
+1990-01-18 00:00:00.000,Hughes 269B,ZK-HPD,se desconoce,0,Tararua Range
+1990-01-19 00:00:00.000,Schleicher ASW 19,ZK-GKC,Private,0,"Glen Lyon Station, Canterbury"
+1990-01-19 00:00:00.000,Mooney M20K,N231FH,Carl Offenbacker,0,"Brogue, PA"
+1990-01-19 00:00:00.000,Cessna 150K,N6017G,Austin R. Stover,0,"E. Prospect, PA"
+1990-01-20 00:00:00.000,Schleicher K 8B,BGA 2336,Private,0,"RAF Weston-on-the-Green, near Bicester, Oxfordshire"
+1990-01-20 00:00:00.000,Cessna 150M,N66787,"Galaxy Aviation, Inc.",0,"Schuyler, NY"
+1990-01-03 00:00:00.000,BN-2A Trislander Mk.III,YJ-RV3,Vanair,0,15 km from Port Vila-Bauerfield Airport (VLI)
+1990-01-04 00:00:00.000,Fairchild SA227-AC Metro III,N31138,"Chautauqua Airlines, opf. USAir Express",0,"Hagerstown, MD"
+1990-01-05 00:00:00.000,Lockheed L-100-30 Hercules,D2-THB,Angola Air Charter,0,Menongue Airport (SPP)
+1990-01-05 00:00:00.000,Fokker F-28 Fellowship 4000,LV-MZD,Aerolineas Argentinas,0,"Villa Gesell Airport, BA (VLG)"
+1990-01-11 00:00:00.000,Boeing KC-135A,59-1494,USAF,0,"Portsmouth-Pease AFB, NH (PSM)"
+2000-01-01 00:00:00.000,Robinson R22 Beta,ZK-HCM,Private,0,"Wanaka, Otago"
+2000-01-02 00:00:00.000,Agusta A109A Mk II,D-HCKV,Private,0,"1 nm SW of Newby Bridge, Cumbria"
+2000-01-04 00:00:00.000,Agusta-Bell AB 206C-1 JetRanger,MM80638,Aviazione dell'Esercito (AVES),0,Gulf of Salerno (SA)
+2000-01-05 00:00:00.000,Sikorsky S-70A-28 (CH-60),12308/T-19,Sikorsky (Türk Kara Kuvvetleri),0,"Pahokee, FL"
+2000-01-06 00:00:00.000,Mil Mi-8T,RA-24187,Tyumenaviatrans,0,Surgut
+2000-01-08 00:00:00.000,Slingsby T.43 Skylark 3F,BGA 954,Denbigh Gliding Club,0,"Lleweni Parc, Mold Road, Denbigh"
+2000-01-10 00:00:00.000,McDonnell Douglas F/A-18D Hornet,164665,VMFA(AW)-242 USMC,0,"near Yuma, Arizona"
+2000-01-14 00:00:00.000,Bell 222UT,N222FV,se desconoce,0,se desconoce
+2000-01-14 00:00:00.000,Agusta A109E Power,G-JRSL,Perment Ltd,0,"Wheelsgate Farm, Washington Lane, Romney Marsh, Kent"
+2000-01-16 00:00:00.000,Auster J/1 Autocrat,ZK-AUX,NZ Vintage Aero Club Inc.,0,"Mangatawhiri, Waikato"
+2000-01-16 00:00:00.000,Cessna 421C Golden Eagle III,D-ILMS,Alster-Flug-Center Lamz GmbH (AFC),0,"near Heringsdorf Airport, Mecklenburg-Vorpommern"
+2000-01-17 00:00:00.000,Robinson R22 Beta,VH-JHZ,se desconoce,0,"Jandakot Airport (YPJT), Jandakot, WA"
+2000-01-18 00:00:00.000,Helibras HB-350BA Esquilo,PP-EOG,Polícia Militar do Estado de São Paulo,0,"Mairiporã, SP"
+2010-01-02 00:00:00.000,Robinson R44 Raven II,RA-04244,ZAO,0,"1.2 km from d.Malo-Boydino, Chastinsky region, Perm region"
+2010-01-03 00:00:00.000,Beechcraft B95,LV-GBW,se desconoce,0,"San Antonio de Areco, BA"
+2010-01-04 00:00:00.000,Airplane,se desconoce,Türk Kara Kuvvetleri (TKK),0,"near Gorece village, Menemen town"
+2010-01-04 00:00:00.000,Antonov An-12BK,ST-AQQ,El Magal Aviation,0,Heglig Airport
+2010-01-07 00:00:00.000,Cessna 337 Super Skymaster,5R-MVQ,Assist Aviation,0,Ivato
+2010-01-08 00:00:00.000,Lancair IV-P,PT-ZVN,Private,0,"near Alfenas Airport (SNFE), Minas Gerais"
+2010-01-09 00:00:00.000,Cessna A185E Skywagon,VH-ELQ,Cloud 9 Seaplanes,0,"Southport Aerodrome,NW of Tipplers Resort, South Stradbroke Island, QL"
+2010-01-12 00:00:00.000,MD Helicopter MD 902 Explorer,D-HPND,Polizei Niedersachsen,0,near Elze
+2010-01-13 00:00:00.000,Aero Vodochody L-39 Albatros,se desconoce,Yemen Air Force,0,near Aden City
+2010-01-15 00:00:00.000,Beechcraft C90GTi King Air,HB-GPL,King's Way (operator) / Finavia SA (owner),0,Les Eplatures - LSGC
+2010-01-04 00:00:00.000,Antonov An-12BK,ST-AQQ,El Magal Aviation,0,Heglig Airport
+2020-01-01 00:00:00.000,Neiva P-56 Paulistinha,PP-ZCG,Private,0,"Monte Verde, Minas Gerais"
+2020-01-02 00:00:00.000,Bayraktar TB2 drone,se desconoce,se desconoce,0,"south of Mitiga Airport, Tripoli"
+2020-01-05 00:00:00.000,several aircraft,se desconoce,se desconoce,0,Manda Bay-Camp Simba Air Base
+2020-01-07 00:00:00.000,CASC CH-4,se desconoce,Royal Saudi Air Force (RSAF),0,Al-Jawf Governorate
+2020-01-08 00:00:00.000,Sikorsky HH-60G Pawe Hawk,se desconoce,United States Air Force (USAF),0,Ain al-Assad Airbase
+2020-01-08 00:00:00.000,Mil Mi-17,se desconoce,Afghan National Army (ANA),0,"Gardiz, Zurik district, Paktia province"
+1910-01-04 00:00:00.000,se desconoce,se desconoce,Ferdinand Léon Delagrange,1,Bordeaux
+1910-07-12 00:00:00.000,French-Wright Biplane,Race No 18,Charles S Rolls,1,"Hengistbury Airfield, Southbourne, Bournemouth"
+1910-10-07 00:00:00.000,Farman Biplane IV,20,Russian Ministry of War,1,St.Petersburg
+1910-12-04 00:00:00.000,Gas balloon,Unregistered,Private,1,"Near Park Cottage, Berstane Road, Kirkwall, Orkney"
+1910-12-22 00:00:00.000,Shorts S.27 Biplane,Unregistered?,Private,1,"English Channel, off Ostend, West Flanders"
+1910-01-04 00:00:00.000,se desconoce,se desconoce,Ferdinand Léon Delagrange,1,Bordeaux
+1910-07-12 00:00:00.000,French-Wright Biplane,Race No 18,Charles S Rolls,1,"Hengistbury Airfield, Southbourne, Bournemouth"
+1910-10-07 00:00:00.000,Farman Biplane IV,20,Russian Ministry of War,1,St.Petersburg
+1910-12-04 00:00:00.000,Gas balloon,Unregistered,Private,1,"Near Park Cottage, Berstane Road, Kirkwall, Orkney"
+1910-12-22 00:00:00.000,Shorts S.27 Biplane,Unregistered?,Private,1,"English Channel, off Ostend, West Flanders"
+1920-01-15 00:00:00.000,Thulin K,D-3,MLD,1,"Den Helder, Noord-Holland"
+1920-02-18 00:00:00.000,Spijker V.2,C29,MLD,1,"De Kooy NAS, Noord-Holland"
+1920-02-23 00:00:00.000,Friedrichshafen FF.33L,V-22,MLD,1,"Veerse Gat, Zeeland"
+1920-03-10 00:00:00.000,de Havilland DH-4B,65,US Air Mail Services,1,"New Paris, IN"
+1920-03-30 00:00:00.000,de Havilland DH-4B,72,US Air Mail Services,1,"Heller Field, Newark, NJ"
+1920-04-07 00:00:00.000,Spijker V.2,32,LVA,1,"Schiphol Airport, Noord-Holland"
+1920-04-11 00:00:00.000,Curtiss JN-4D,44303,US Air Mail Services,1,"Heller Field, NJ"
+1920-04-27 00:00:00.000,Nieuport Delage 30T,F-CGTY,Compagnie générale transaérienne,1,English Channel
+1920-04-28 00:00:00.000,Farman F-40,se desconoce,Compania Colombiana de Navegación Aérea,1,Baranquilla
+1920-05-12 00:00:00.000,de Havilland DH-4B,79,US Air Mail Services,1,"Oskaloosa, IA"
+1920-05-24 00:00:00.000,Curtiss JN-4,G-CAAF,Pacific Aviation Company,1,"Nr. Minoru Park Racecourse, Vancouver, BC"
+1920-06-02 00:00:00.000,Junkers F13,se desconoce,Junkers Flugzeugwerk AG,1,near Dessau
+1920-06-06 00:00:00.000,Martin T-1,204,US Air Mail Services,1,"Cleveland, OH"
+1920-01-11 00:00:00.000,Dayton-Wright (Airco) DH.4,se desconoce,104th Aero Sqn USAAC,1,"Silver Creek, Arizona"
+1920-01-15 00:00:00.000,Thulin K,se desconoce,MLD,1,"Den Helder, Noord-Holland"
+1920-01-24 00:00:00.000,Farman,se desconoce,se desconoce,1,se desconoce
+1920-02-18 00:00:00.000,Spijker V.2,se desconoce,MLD,1,"De Kooy NAS, Noord-Holland"
+1920-02-23 00:00:00.000,Friedrichshafen FF.33L,se desconoce,MLD,1,"Veerse Gat, Zeeland"
+1920-02-26 00:00:00.000,Avro 504K,se desconoce,T.K. Wong Ltd,1,"Kuala Lumpur Racecourse, Ampang Road, Kuala Lumpur"
+1920-03-10 00:00:00.000,de Havilland DH-4B,se desconoce,US Air Mail Services,1,"New Paris, IN"
+1920-03-15 00:00:00.000,Spad,se desconoce,Army Aviation,1,Smyrne
+1920-03-30 00:00:00.000,de Havilland DH-4B,se desconoce,US Air Mail Services,1,"Heller Field, Newark, NJ"
+1920-04-07 00:00:00.000,Spijker V.2,se desconoce,LVA,1,"Schiphol Airport, Noord-Holland"
+1920-04-11 00:00:00.000,Curtiss JN-4D,se desconoce,US Air Mail Services,1,"Heller Field, NJ"
+1920-04-12 00:00:00.000,Curtiss JN-4 Canuck,se desconoce,Private,1,"Sioux Falls, SD"
+1920-04-27 00:00:00.000,Nieuport Delage 30T,se desconoce,Compagnie générale transaérienne,1,English Channel
+1920-04-28 00:00:00.000,Farman F-40,se desconoce,Compania Colombiana de Navegación Aérea,1,Baranquilla
+1920-05-12 00:00:00.000,de Havilland DH-4B,se desconoce,US Air Mail Services,1,"Oskaloosa, IA"
+1920-05-23 00:00:00.000,Bauhaus B-3 (Home Built Airplane),se desconoce,W K Bauhaus,1,"Carpinteria, CA"
+1920-05-24 00:00:00.000,Curtiss JN-4,se desconoce,Pacific Aviation Company,1,"Nr. Minoru Park Racecourse, Vancouver, BC"
+1920-05-27 00:00:00.000,Nieuport 21E.1,se desconoce,Aviação Militar,1,"near Villa Proletaria, RJ"
+1920-06-02 00:00:00.000,Junkers F13,se desconoce,Junkers Flugzeugwerk AG,1,near Dessau
+1920-06-06 00:00:00.000,Martin T-1,se desconoce,US Air Mail Services,1,"Cleveland, OH"
+1920-06-11 00:00:00.000,Sopwith Camel,se desconoce,Hellenic Army Air Force,1,Sarahanli
+1930-01-05 00:00:00.000,de Havilland DH.60 Moth,A7-10,1 Sqn RAAF,1,"1.5 km from RAAF Laverton, VIC"
+1930-01-09 00:00:00.000,Curtiss Robin,NC,Curtiss Flying Service,1,Woodbine GA
+1930-01-10 00:00:00.000,Boeing 95,NC184E,Boeing Air Transport,1,"Brownson, near Sidney, Nebraska"
+1930-01-15 00:00:00.000,Martin T4M-1,A-7852,US Navy,1,"Pacific Ocean off San Diego, CA"
+1930-01-18 00:00:00.000,de Havilland DH.60 Moth,G-EBWZ,Mrs Marjorie Hazeldene Stevens (regd. owner),1,"Victory Park, Chertsey Road, Addlestone, Surrey"
+1930-01-28 00:00:00.000,de Havilland DH.60 Moth,VH-UFJ,A.J.Murphy,1,"18 miles from Miles, QLD"
+1930-02-03 00:00:00.000,Pitcairn PA-6,NC801H,Colonial Air Transport,1,"Hartford, CT"
+1930-02-13 00:00:00.000,Armstrong Whitworth Siskin Mk IIa (DC),J9191,32 Sqn RAF,1,"Epsom, Surrey"
+1930-02-20 00:00:00.000,Curtiss F7C-1 Seahawk,A-7665,US Marine Corps,1,"Potomac River near Quantico, VA"
+1930-02-20 00:00:00.000,Curtiss F7C-1 Seahawk,A-7664,US Marine Corps,1,"Potomac River near Quantico, VA"
+1930-02-25 00:00:00.000,Martinsyde F.4 Buzzard,MA-32,Finnish Air Force,1,Utti
+1930-02-25 00:00:00.000,Boeing F2B-1,A-7453,US Navy,1,Pacific Ocean off Panama
+1930-02-28 00:00:00.000,Breguet 19,B-,Aéronautique Militaire Belge,1,Diegem
+1930-03-03 00:00:00.000,Hansa-Brandenburg B.I,A-81,Austrian Air Force,1,Graz-Thalerhof
+1930-03-05 00:00:00.000,se desconoce,F-,"CIDNA, Compagnie Internationale de Navigation Aérienn",1,Near Vienna
+1930-01-05 00:00:00.000,de Havilland DH.60 Moth,A7-10,1 Sqn RAAF,1,"1.5 km from RAAF Laverton, VIC"
+1930-01-09 00:00:00.000,Curtiss Robin,NC,Curtiss Flying Service,1,Woodbine GA
+1930-01-10 00:00:00.000,Boeing 95,NC184E,Boeing Air Transport,1,"Brownson, near Sidney, Nebraska"
+1930-01-15 00:00:00.000,Martin T4M-1,A-7852,US Navy,1,"Pacific Ocean off San Diego, CA"
+1930-01-18 00:00:00.000,de Havilland DH.60 Moth,G-EBWZ,Mrs Marjorie Hazeldene Stevens (regd. owner),1,"Victory Park, Chertsey Road, Addlestone, Surrey"
+1930-01-28 00:00:00.000,de Havilland DH.60 Moth,VH-UFJ,A.J.Murphy,1,"18 miles from Miles, QLD"
+1930-02-03 00:00:00.000,Pitcairn PA-6,NC801H,Colonial Air Transport,1,"Hartford, CT"
+1930-02-13 00:00:00.000,Armstrong Whitworth Siskin Mk IIa (DC),J9191,32 Sqn RAF,1,"Epsom, Surrey"
+1930-02-20 00:00:00.000,Curtiss F7C-1 Seahawk,A-7665,US Marine Corps,1,"Potomac River near Quantico, VA"
+1930-02-20 00:00:00.000,Curtiss F7C-1 Seahawk,A-7664,US Marine Corps,1,"Potomac River near Quantico, VA"
+1930-02-25 00:00:00.000,Martinsyde F.4 Buzzard,MA-32,Finnish Air Force,1,Utti
+1930-02-25 00:00:00.000,Boeing F2B-1,A-7453,US Navy,1,Pacific Ocean off Panama
+1930-02-28 00:00:00.000,Breguet 19,B-,Aéronautique Militaire Belge,1,Diegem
+1930-03-03 00:00:00.000,Hansa-Brandenburg B.I,A-81,Austrian Air Force,1,Graz-Thalerhof
+1930-03-05 00:00:00.000,se desconoce,F-,"CIDNA, Compagnie Internationale de Navigation Aérienn",1,Near Vienna
+1940-01-02 00:00:00.000,Curtiss Hawk 75 A,n° 13,GC I/5 Armée de l'Air,1,"Malancourt, Meuse"
+1940-01-03 00:00:00.000,Bristol Blenheim Mk I,L1410,18 Sqn RAF,1,"Hagbenden in Eynatten, near Eupen, Liège"
+1940-01-03 00:00:00.000,Morane-Saulnier MS 406,n°76,GC III/7 Armée de l'Air,1,"Plichancourt, Marne"
+1940-01-04 00:00:00.000,Koolhoven FK.56,81,Koolhoven,1,"Pernis near Waalhaven, Zuid-Holland"
+1940-01-07 00:00:00.000,Hawker Hurricane Mk 1,L2074,11 Gp Pool RAF,1,"Mynydd William Meyrick, Nant-y-Moel, Ogmore Valley, Glamorgan"
+1940-01-11 00:00:00.000,Stearman NS-1,0203,US Navy,1,"two miles east of Stump Field, Pensacola, FL"
+1940-01-12 00:00:00.000,Hawker Hart B4,F19-X,F19,1,se desconoce
+1940-01-13 00:00:00.000,Douglas TBD-1 Devastator,0373,US Navy,1,"Near Salton Sea 20 miles E of Julian, CA"
+1940-01-16 00:00:00.000,Grumman F2F-1,9673,US Navy,1,Atlantic Ocean
+1940-01-18 00:00:00.000,North American Harvard Mk 1,N7144,2 FTS RAF,1,"near Chipping Norton, Oxfordshire"
+1940-01-02 00:00:00.000,Curtiss Hawk 75 A,n° 13,GC I/5 Armée de l'Air,1,"Malancourt, Meuse"
+1940-01-03 00:00:00.000,Bristol Blenheim Mk I,L1410,18 Sqn RAF,1,"Hagbenden in Eynatten, near Eupen, Liège"
+1940-01-03 00:00:00.000,Morane-Saulnier MS 406,n°76,GC III/7 Armée de l'Air,1,"Plichancourt, Marne"
+1940-01-04 00:00:00.000,Koolhoven FK.56,81,Koolhoven,1,"Pernis near Waalhaven, Zuid-Holland"
+1940-01-07 00:00:00.000,Hawker Hurricane Mk 1,L2074,11 Gp Pool RAF,1,"Mynydd William Meyrick, Nant-y-Moel, Ogmore Valley, Glamorgan"
+1940-01-11 00:00:00.000,Stearman NS-1,0203,US Navy,1,"two miles east of Stump Field, Pensacola, FL"
+1940-01-12 00:00:00.000,Hawker Hart B4,F19-X,F19,1,se desconoce
+1940-01-13 00:00:00.000,Douglas TBD-1 Devastator,0373,US Navy,1,"Near Salton Sea 20 miles E of Julian, CA"
+1940-01-16 00:00:00.000,Grumman F2F-1,9673,US Navy,1,Atlantic Ocean
+1940-01-18 00:00:00.000,North American Harvard Mk 1,N7144,2 FTS RAF,1,"near Chipping Norton, Oxfordshire"
+1950-01-06 00:00:00.000,North American Harvard T.2B,FX305,RAF College,1,"Coleby Hall, near Waddington, Lincolnshire"
+1950-01-12 00:00:00.000,de Havilland DH.103 Hornet F Mk 3,PX351,64 Sqn RAF,1,"RAF Linton-on-Ouse, North Yorkshire, England,"
+1950-01-16 00:00:00.000,Gloster Meteor F4,I-046,Fuerza Aérea Argentina,1,"La Pastora, BA"
+1950-01-16 00:00:00.000,Avro Lancaster MR Mk III,RF292,210 Sqn RAF,1,"RAF St. Eval, Cornwall, England"
+1950-01-17 00:00:00.000,de Havilland DH.103 Hornet F Mk 3,PX388,65 (East India) Sqn RAF,1,Remscheid
+1950-01-18 00:00:00.000,Vought F4U-4 Corsair,80830,United States Navy; VF ATU #4,1,"NAAS Cabaniss Field, 15mi. S, TX"
+1950-01-20 00:00:00.000,Fairey Firefly F Mk  1,11-14,861 Sqn Marine Luchtvaartdienst,1,"near Valkenburg NAS, Zuid-Holland"
+1950-01-24 00:00:00.000,Republic F-84E-15-RE Thunderjet,49-2422,27th FEWg /522nd FESqn USAF,1,"near Kopo-ri,"
+1960-01-04 00:00:00.000,Cessna 182 Skylane,N....,Fly-Safe Aviation,1,"Tucson Muni Airport, AZ"
+1960-01-06 00:00:00.000,Grumman F11F-1 Tiger,141871,United States Navy (USN),1,"near NAS Key West, FL"
+1960-01-06 00:00:00.000,Hawker Hunter F6,N-278,324 Sqn Koninklijke Luchtmacht (KLu),1,"near Marssum, Friesland"
+1960-01-06 00:00:00.000,Convair F-102A Delta Dagger,56-1103,United States Air Force (USAF),1,"near Hill AFB, UT"
+1960-01-07 00:00:00.000,de Havilland DH.112 Venom FB.4,J-1793,Swiss Air Force,1,"Eiken, GR"
+1960-01-08 00:00:00.000,Vought F8U-1 Crusader,143745,VMF-334 USMC,1,"NAS El Toro, CA"
+1960-01-08 00:00:00.000,Saab S 29C(E) Tunnan,293908,Swedish Air Force,1,"Porsiforsen, Stora och Lilla Lule älv, 80 km NV Boden (Lappland)"
+1960-01-08 00:00:00.000,Saab S 29C(E) Tunnan,293928,Swedish Air Force,1,"Porsiforsen, Stora och Lilla Lule älv, 80 km NV Boden (Lappland)"
+1960-01-09 00:00:00.000,Piper J3C-65 Cub,N98364,Private,1,"Lake Wales, WV"
+1960-01-10 00:00:00.000,Beechcraft,N....,Private,1,"near Kendalia, TX"
+1960-01-13 00:00:00.000,Piper PA-18-150 Super Cub,ZK-BPJ,Auckland Aero Club,1,Great Barrier Island
+1960-01-13 00:00:00.000,Fiat G.59-4A,MM53522,Aeronautica Militare Italiana (AMI),1,20 km from Cagliari
+1960-01-15 00:00:00.000,Lisunov Li-2,CCCP-19405,"Aeroflot, Uralsk",1,68 km W of Sverdlovsk
+1960-01-16 00:00:00.000,Douglas F3D-2 Skyknight,125839,U.S. Navy,1,se desconoce
+1960-01-19 00:00:00.000,Percival Provost T Mk 1,WV664,2 FTS RAF,1,"5 miles NNE of Pocklington, North Yorkshire"
+1960-01-19 00:00:00.000,Vought F8U-1 Crusader,146921,United States Marine Corps (USMC),1,"MCAS El Toro, CA"
+1960-01-20 00:00:00.000,Lockheed T-33A Shooting Star,55-4377,United States Air Force (USAF),1,"Ellington AFB, TX"
+1960-01-21 00:00:00.000,Republic F-84G Thunderjet,MU-Z,Luftforsvaret (RNoAF),1,Kåsa/Holøydal
+1960-01-15 00:00:00.000,Lisunov Li-2,CCCP-19405,"Aeroflot, Uralsk",1,68 km W of Sverdlovsk
+1970-01-01 00:00:00.000,Cessna 140A,N5611C,se desconoce,1,"Miami, FL"
+1970-01-03 00:00:00.000,Cessna 172,N7829U,East Hampton,1,"Between Westerly, RI, and East Hampton, NY"
+1970-01-04 00:00:00.000,Cessna 180,N3143D,se desconoce,1,"near Karluk, AK"
+1970-01-04 00:00:00.000,Cessna 150H,N22419,Sisk Aviation,1,"Collinsville, IL"
+1970-01-04 00:00:00.000,Cessna 150H,N22519,Private,1,"Collinsville ,IL"
+1970-01-06 00:00:00.000,Mikoyan-Gurevich MiG-21PFM,4312,Czechoslovak Air Force,1,Ceské Budejovice
+1970-01-06 00:00:00.000,Cessna 177 Cardinal,D-E...,FSV Eggenfelden,1,Lohbruck/Wurmannsquick (Bayern)
+1970-01-07 00:00:00.000,McDonnell Douglas F-4E Phantom II,67-0357,United States Air Force (USAF),1,se desconoce
+1970-01-07 00:00:00.000,LTV A-7A Corsair II,153231,U.S. Navy (USN),1,"near Ban Namm/Muang Phalan, Laos"
+1970-01-07 00:00:00.000,Canadair CF-104 Starfighter,12721,Canadian Armed Forces (CAF),1,CFB Baden-Soellingen
+1970-01-09 00:00:00.000,Bell 47G3B1/M,VH-AHG,Rotor-Work Pty Ltd,1,"24km S of Waratah, TAS"
+1970-01-11 00:00:00.000,Douglas A-1H Skyraider,52-134570,United States Air Force (USAF),1,"Mu Gia Pass, Khammouan Province, Laos"
+1970-01-11 00:00:00.000,McDonnell Douglas F-4J Phantom II,155750,US Navy,1,Gulf of Tonkin
+1970-01-11 00:00:00.000,Cessna 206 Super Skywagon,N5085U,Lisle Air Serv,1,"near Jackson, CA"
+1970-01-12 00:00:00.000,Republic F-84F Thunderstreak,53-7013,Türk Hava Kuvvetleri,1,Balikesir
+1970-01-12 00:00:00.000,Republic F-84F Thunderstreak,53-7165,Türk Hava Kuvvetleri,1,Balikesir
+1980-01-03 00:00:00.000,Bell 206B JetRanger,N30TA,Air Logistics,1,"N Montegut, LA"
+1980-01-06 00:00:00.000,Midget Mustang,N288D,se desconoce,1,"Parker, Az"
+1980-01-08 00:00:00.000,LTV A-7E Corsair II,159297,U.S. Navy (USN),1,USS Coral Sea
+1980-01-10 00:00:00.000,Cessna 172I,N589RA,Ross School Of,1,"N Tulsa, OK"
+1980-01-12 00:00:00.000,Cessna 152,N48956,Tampa Flying S,1,"Tampa, FL"
+1980-01-13 00:00:00.000,Beechcraft M35 Bonanza,N9320Y,se desconoce,1,"N Leesburg, FL"
+1980-01-14 00:00:00.000,Beechcraft 35-33 Debonair,N620V,se desconoce,1,"Mcalester, OK"
+1980-01-15 00:00:00.000,Lockheed F-104G Starfighter,47780,Elliniki Polemikí Aeroporía,1,Arta
+1980-01-16 00:00:00.000,Hughes 369HS,ZK-HPD,Alpine Helicopters Ltd,1,"Lake Manapouri, Fiordland NP"
+1980-01-16 00:00:00.000,Cessna 152,N49002,Superstition,1,"Mesa, Az"
+1980-01-18 00:00:00.000,Piper PA-23 Apache,N1376P,Area Corp,1,"New Bern, NC"
+1980-01-19 00:00:00.000,Cessna 150J,N51274,se desconoce,1,"Newton, KS"
+1980-01-22 00:00:00.000,Beechcraft E55 Baron,N39PG,se desconoce,1,"Amherstdale, Wv"
+1980-01-23 00:00:00.000,Aeronca 7AC Champion,N83586,se desconoce,1,"N Stevenson, WA"
+1990-01-06 00:00:00.000,Cessna F172F Skyhawk (Reims),OH-CSI,Private,1,Sipoo
+1990-01-07 00:00:00.000,Cessna 182P,N1283S,Private,1,"Napa, CA"
+1990-01-07 00:00:00.000,Bowers Fly Baby,N91089,Private,1,"Troy, NC"
+1990-01-08 00:00:00.000,Dassault Mirage 2000C,10,Armée de l'Air,1,Digione
+1990-01-11 00:00:00.000,Air Command 532,unreg.,Private,1,"Hansen, ID"
+1990-01-11 00:00:00.000,Bell UH-1B,N15SX,Coastal Corporation,1,"9 miles West of San Diego, TX"
+1990-01-13 00:00:00.000,Cessna R172K,N758UV,Private,1,"Lone Pine, CA"
+1990-01-15 00:00:00.000,Dassault Mirage 2000EAD,746,Abu Dhabi Air Force,1,Bordeaux-Marignane
+1990-01-16 00:00:00.000,McDonnell Douglas F-15D Eagle,80-0059,USAF,1,"Mount Susitna, AK"
+1990-01-16 00:00:00.000,Cessna 402B,N87163,Superior Aviation,1,"Appleton, WI"
+2000-01-02 00:00:00.000,Cessna 421B,N421CF,Private,1,"Telluride, CO"
+2000-01-05 00:00:00.000,Cessna 172R,N156RA,Airline Training Academy,1,Atlantic Ocean
+2000-01-06 00:00:00.000,Beechcraft D95A Travel Air,N5918S,Superior Aviation Inc.,1,"Dunbar, WI"
+2000-01-08 00:00:00.000,Pitts S-1X,N900SH,Private,1,"Upland, CA"
+2000-01-09 00:00:00.000,Slater P-51,N656S,Private,1,"Hampstead, NC"
+2000-01-09 00:00:00.000,Mooney M20M,N2135X,Private,1,"Mount Pleasant , SC"
+2000-01-14 00:00:00.000,Cessna 152,N95552,"Central Flying Service, Inc.",1,"Carlisle, AR"
+2000-01-14 00:00:00.000,Pilatus PC-7 Turbo Trainer,HB-HOO,Pilatus Aircraft Ltd.,1,"Broomfield, CO"
+2000-01-19 00:00:00.000,Mikoyan-Gurevich MiG-29,FC-59,3 Sqn Algerian Air Force,1,near Bousfer Air Base
+2010-01-04 00:00:00.000,Cessna 150M,HK-1952-G,Aeroclub de Colombia,1,"la Vereda El Palmar, Finca la Unión"
+2010-01-14 00:00:00.000,Pacific Aerospace CT-4E Air Trainer,NZ1990,CFS RNZAF,1,"Raumai, Whanganui 4"
+2010-01-14 00:00:00.000,Sukhoi Su-27SM Flanker-B Mod. 1,86 red,23rd Interceptor Aviation Regiment Russian Air Force,1,Thirty kilometers away from Dzhemgi Air Base
+2010-01-16 00:00:00.000,Eipper Quicksilver GT-500,AC-S28,Private,1,Culiacan
+2020-01-04 00:00:00.000,TM-1 Thunder Mustang,N151WR,Private,1,"Santa Clarita, CA"
+2020-01-06 00:00:00.000,Cessna 172H Skyhawk,N1612F,Private,1,"near Newbern, Jasper County, GA"
+2020-01-07 00:00:00.000,Cessna F152 (Reims),HB-CCN,Flugschule Eichenberger AG,1,"Ruedikerwald near Schongau, LU / 1.2 km SW of Buttwil airfield (LSZU)"
+1910-01-04 00:00:00.000,Blériot XI,se desconoce,Private,1,"Croix d'Hins, near Bordeaux"
+1910-04-02 00:00:00.000,Blériot XI,se desconoce,Private,1,Bay of Biscay off  San Sebastian
+1910-05-13 00:00:00.000,Levavasseur Antoinette Monoplane,se desconoce,Private,1,Lyon
+1910-06-02 00:00:00.000,Zoselley Model 1910,se desconoce,Private,1,Budapest
+1910-06-18 00:00:00.000,Farman Biplane,se desconoce,Thaddäus Robl,1,"near Stettin, Pommern (now Szczecin, PL)"
+1910-07-03 00:00:00.000,Levavasseur Antoinette Monoplane,se desconoce,Private,1,Rheims
+1910-08-03 00:00:00.000,Farman Biplane,se desconoce,private (N.Kinet),1,"Woluwe-Saint-Pierre, Brussels"
+1910-08-20 00:00:00.000,Farman Biplane,se desconoce,Ugolino Vivaldi Pasqua,1,Magliana near Rome
+1910-08-25 00:00:00.000,Savary Biplane,se desconoce,Private,1,"Chartres, Eure-et-Loir"
+1910-08-27 00:00:00.000,Sommer Biplane,se desconoce,Clement van Maasdijk,1,"Warnsborn, Arnhem, Gelderland"
+1910-09-23 00:00:00.000,Blériot XI,se desconoce,Private,1,Domodossola
+1910-09-29 00:00:00.000,Aviatik Biplane,se desconoce,Aviatik Flying School,1,Muehlhausen
+1910-10-01 00:00:00.000,Wright Biplane,se desconoce,Private,1,Wellen
+1910-10-23 00:00:00.000,Wright Biplane,se desconoce,Fliegertruppe,1,"near Magdeburg, Sachsen-Anhalt"
+1910-10-23 00:00:00.000,Breguet Biplane,se desconoce,French Air Force,1,Douai
+1910-10-26 00:00:00.000,Bleriot Monoplane,se desconoce,Fernand Blanchard,1,Issy-les-Molineux
+1910-10-27 00:00:00.000,Asteria Biplane,se desconoce,Italian Army (?),1,Centocelle near Rome
+1910-11-17 00:00:00.000,Wright-B Biplane,se desconoce,Wright Exhibition Team,1,Denver
+1910-12-04 00:00:00.000,Wright Biplane (?),se desconoce,Private,1,"Salida, Colorado"
+1910-12-24 00:00:00.000,Bleriot Monoplane,se desconoce,Giulio Carlo Piccolo,1,"São Paulo, SP"
+1910-12-30 00:00:00.000,Nieuport III Monoplane,se desconoce,French Army Aviation Corps,1,Versailles
+1910-12-31 00:00:00.000,Wright Biplane,se desconoce,Wright Exhibition Team,1,"Los Angeles, California"
+1910-12-31 00:00:00.000,Blériot XI monoplane,se desconoce,John Moisant,1,"Harahan near New Orleans, Louisiana"
+1910-01-04 00:00:00.000,Blériot XI,se desconoce,Private,1,"Croix d'Hins, near Bordeaux"
+1910-04-02 00:00:00.000,Blériot XI,se desconoce,Private,1,Bay of Biscay off  San Sebastian
+1910-05-13 00:00:00.000,Levavasseur Antoinette Monoplane,se desconoce,Private,1,Lyon
+1910-06-02 00:00:00.000,Zoselley Model 1910,se desconoce,Private,1,Budapest
+1910-06-18 00:00:00.000,Farman Biplane,se desconoce,Thaddäus Robl,1,"near Stettin, Pommern (now Szczecin, PL)"
+1910-07-03 00:00:00.000,Levavasseur Antoinette Monoplane,se desconoce,Private,1,Rheims
+1910-08-03 00:00:00.000,Farman Biplane,se desconoce,private (N.Kinet),1,"Woluwe-Saint-Pierre, Brussels"
+1910-08-20 00:00:00.000,Farman Biplane,se desconoce,Ugolino Vivaldi Pasqua,1,Magliana near Rome
+1910-08-25 00:00:00.000,Savary Biplane,se desconoce,Private,1,"Chartres, Eure-et-Loir"
+1910-08-27 00:00:00.000,Sommer Biplane,se desconoce,Clement van Maasdijk,1,"Warnsborn, Arnhem, Gelderland"
+1910-09-23 00:00:00.000,Blériot XI,se desconoce,Private,1,Domodossola
+1910-09-29 00:00:00.000,Aviatik Biplane,se desconoce,Aviatik Flying School,1,Muehlhausen
+1910-10-01 00:00:00.000,Wright Biplane,se desconoce,Private,1,Wellen
+1910-10-23 00:00:00.000,Wright Biplane,se desconoce,Fliegertruppe,1,"near Magdeburg, Sachsen-Anhalt"
+1910-10-23 00:00:00.000,Breguet Biplane,se desconoce,French Air Force,1,Douai
+1910-10-26 00:00:00.000,Bleriot Monoplane,se desconoce,Fernand Blanchard,1,Issy-les-Molineux
+1910-10-27 00:00:00.000,Asteria Biplane,se desconoce,Italian Army (?),1,Centocelle near Rome
+1910-11-17 00:00:00.000,Wright-B Biplane,se desconoce,Wright Exhibition Team,1,Denver
+1910-12-04 00:00:00.000,Wright Biplane (?),se desconoce,Private,1,"Salida, Colorado"
+1910-12-24 00:00:00.000,Bleriot Monoplane,se desconoce,Giulio Carlo Piccolo,1,"São Paulo, SP"
+1910-12-30 00:00:00.000,Nieuport III Monoplane,se desconoce,French Army Aviation Corps,1,Versailles
+1910-12-31 00:00:00.000,Wright Biplane,se desconoce,Wright Exhibition Team,1,"Los Angeles, California"
+1910-12-31 00:00:00.000,Blériot XI monoplane,se desconoce,John Moisant,1,"Harahan near New Orleans, Louisiana"
+1920-01-11 00:00:00.000,Dayton-Wright (Airco) DH.4,se desconoce,104th Aero Sqn USAAC,1,"Silver Creek, Arizona"
+1920-01-24 00:00:00.000,Farman,se desconoce,se desconoce,1,se desconoce
+1920-02-26 00:00:00.000,Avro 504K,se desconoce,T.K. Wong Ltd,1,"Kuala Lumpur Racecourse, Ampang Road, Kuala Lumpur"
+1920-03-15 00:00:00.000,Spad,se desconoce,Army Aviation,1,Smyrne
+1920-04-12 00:00:00.000,Curtiss JN-4 Canuck,se desconoce,Private,1,"Sioux Falls, SD"
+1920-05-23 00:00:00.000,Bauhaus B-3 (Home Built Airplane),se desconoce,W K Bauhaus,1,"Carpinteria, CA"
+1920-05-27 00:00:00.000,Nieuport 21E.1,se desconoce,Aviação Militar,1,"near Villa Proletaria, RJ"
+1920-06-11 00:00:00.000,Sopwith Camel,se desconoce,Hellenic Army Air Force,1,Sarahanli
+1930-01-10 00:00:00.000,Airplane,se desconoce,Armée de l'Air,1,Istres
+1930-01-10 00:00:00.000,Airplane,se desconoce,Armée de l'Air,1,Istres Airfield
+1930-01-12 00:00:00.000,Bäumer B VI Libelle,se desconoce,Bäumer Aero GmbH,1,Hamburg-Fuhlsbüttel
+1930-01-18 00:00:00.000,Savoia-Marchetti S.65,se desconoce,Regia Aeronautica,1,Lake Garda
+1930-01-27 00:00:00.000,Airplane,se desconoce,Fuerza Aérea Mexicana (FAM),1,Balbuena
+1930-01-28 00:00:00.000,Morane-Saulnier MS.130ET.2,se desconoce,Aviação Militar,1,"Campo dos Afonsos, RJ"
+1930-02-06 00:00:00.000,Airplane,se desconoce,Regia Aeronautica,1,Cinisello airfield
+1930-01-10 00:00:00.000,Airplane,se desconoce,Armée de l'Air,1,Istres
+1930-01-10 00:00:00.000,Airplane,se desconoce,Armée de l'Air,1,Istres Airfield
+1930-01-12 00:00:00.000,Bäumer B VI Libelle,se desconoce,Bäumer Aero GmbH,1,Hamburg-Fuhlsbüttel
+1930-01-18 00:00:00.000,Savoia-Marchetti S.65,se desconoce,Regia Aeronautica,1,Lake Garda
+1930-01-27 00:00:00.000,Airplane,se desconoce,Fuerza Aérea Mexicana (FAM),1,Balbuena
+1930-01-28 00:00:00.000,Morane-Saulnier MS.130ET.2,se desconoce,Aviação Militar,1,"Campo dos Afonsos, RJ"
+1930-02-06 00:00:00.000,Airplane,se desconoce,Regia Aeronautica,1,Cinisello airfield
+1940-01-10 00:00:00.000,Messerschmitt Bf 109E-3,se desconoce,3./JG 76 Luftwaffe,1,"Metterich, 5 km East of Bitburg, Rheinland-Pfalz"
+1940-01-10 00:00:00.000,Messerschmitt Bf 109E-3,se desconoce,I./JG 54 Luftwaffe,1,"Hirtzfelden, Haut-Rhin"
+1940-01-12 00:00:00.000,Hawker Hart (B4A),se desconoce,Swedish Air Force,1,Märkäjärvi (Finland)
+1940-01-10 00:00:00.000,Messerschmitt Bf 109E-3,se desconoce,3./JG 76 Luftwaffe,1,"Metterich, 5 km East of Bitburg, Rheinland-Pfalz"
+1940-01-10 00:00:00.000,Messerschmitt Bf 109E-3,se desconoce,I./JG 54 Luftwaffe,1,"Hirtzfelden, Haut-Rhin"
+1940-01-12 00:00:00.000,Hawker Hart (B4A),se desconoce,Swedish Air Force,1,Märkäjärvi (Finland)
+1950-01-09 00:00:00.000,North American AT-6 Texan,se desconoce,Republic of China Air Force (ROCAF),1,se desconoce
+1960-01-07 00:00:00.000,MiG-15SB,se desconoce,Czechoslovak Air Force,1,se desconoce
+1960-01-12 00:00:00.000,Airplane,se desconoce,United States Navy (USN),1,"14 mi S of Cecil Field, FL"
+1960-01-12 00:00:00.000,MiG-15,se desconoce,Chinese PLAAF,1,near Manao
+1960-01-20 00:00:00.000,Grumman F9F-8B Cougar,se desconoce,United States Navy (USN),1,"NAS Kingsville, TX"
+1960-01-22 00:00:00.000,North American T-6G Texan,se desconoce,Armée de l'Air,1,Géryville
+1970-01-04 00:00:00.000,MFI-9B,se desconoce,Biafra Air Force,1,Awka
+1970-01-08 00:00:00.000,Douglas A-4 Skyhawk,se desconoce,US Navy,1,Off the coast of Sardinia
+1970-01-12 00:00:00.000,Dassault Mystère IVA,se desconoce,Indian Air Force (IAF),1,se desconoce
+1990-01-02 00:00:00.000,Airborne Edge Trike,se desconoce,Private,1,"14km N of Coleambally, NSW"
+1990-01-04 00:00:00.000,Fiat G.91T-1,se desconoce,Aeronautica Militare Italiana (AMI),1,near Foggia (FG)
+1990-01-10 00:00:00.000,Airplane,se desconoce,Indian Air Force (IAF),1,Jodhpur AFS
+2000-01-04 00:00:00.000,Mikoyan-Gurevich MiG-21bis,se desconoce,Indian Air Force (IAF),1,near Chandigarh
+2000-01-10 00:00:00.000,Mikoyan-Gurevich MiG-27M,se desconoce,Indian Air Force (IAF),1,Jaisalmer
+1910-04-21 00:00:00.000,Parseval PL 1,se desconoce,se desconoce,,se desconoce
+1910-04-21 00:00:00.000,Parseval PL 1,se desconoce,se desconoce,,se desconoce
+1920-01-19 00:00:00.000,Curtiss JN-4D,AS-47506,se desconoce,,"Kelly Field, TX"
+1920-02-01 00:00:00.000,Royal Aircraft Factory S.E.5,AS-8137,se desconoce,,"Kelly Field # 2, TX"
+1920-02-10 00:00:00.000,Fokker D-8,AS-7786,se desconoce,,"Kelly Field, TX"
+1920-02-10 00:00:00.000,Royal Aircraft Factory S.E.5A,AS-8118,se desconoce,,"near Kelly Field, TX"
+1920-02-22 00:00:00.000,de Havilland DH-4,AS-39408,se desconoce,,"Brownsville, TX"
+1920-02-23 00:00:00.000,Royal Aircraft Factory S.E.5,#19,se desconoce,,"Eagle Pass Airdrome, TX"
+1920-02-27 00:00:00.000,de Havilland DH-4,AS-32466,se desconoce,,"Calexico, CA"
+1920-02-28 00:00:00.000,Bristol F.2b,H1512,28 Sqn RAF,,"east of Ambala, India"
+1920-03-05 00:00:00.000,de Havilland DH-4,AS-32404,se desconoce,,"Venice, CA"
+1920-03-05 00:00:00.000,Curtiss JN-6H,AS-44957,se desconoce,,"Main Field, March Field, CA"
+1920-03-05 00:00:00.000,Airco DH.4,se desconoce,United States Army Air Service (USAAS),,"near Nacozari, Sonora"
+1920-03-17 00:00:00.000,RAF S E 5A,C1063,Royal Aircraft Establishment,,"Laffans Plain, Farnborough, Hampshire"
+1920-03-26 00:00:00.000,Handley Page O/400,E9744,216 Sqn RAF,,"Kantara, Egypt"
+1920-04-01 00:00:00.000,Curtiss JN-4D,AS-34114,se desconoce,,"Kelly Field, TX"
+1920-04-15 00:00:00.000,Royal Aircraft Factory R.E.8,E1241,30 Sqn RAF,,Iraq
+1920-04-20 00:00:00.000,Royal Aircraft Factory S.E.5A,se desconoce,se desconoce,,"Near Soldier's Home, Washington, DC"
+1920-04-22 00:00:00.000,de Havilland DH-4M,AS-32562,se desconoce,,"Bolling Field, DC"
+1920-04-23 00:00:00.000,Curtiss JN-6H,AS-41912,se desconoce,,"Crandall Ranch, ½ mi N of Perris High School,CA"
+1920-04-23 00:00:00.000,unknown,se desconoce,se desconoce,,"March Field, CA"
+1920-04-24 00:00:00.000,Curtiss JN-4D,SC-1708,se desconoce,,"Call Field, TX"
+1920-05-11 00:00:00.000,Curtiss JN-6H,AS-44789,se desconoce,,"Dorr Field, Arcadia, FL"
+1920-05-15 00:00:00.000,Royal Aircraft Factory R.E.8,F3561,6 Sqn RAF,,se desconoce
+1920-05-15 00:00:00.000,Royal Aircraft Factory R.E.8,F1696,6 Sqn RAF,,"Bushire, Iran"
+1920-05-19 00:00:00.000,Curtiss 18T-2 Wasp,se desconoce,Escuela Militar de Aviación,,near Sica Sica
+1920-05-20 00:00:00.000,Maagen (F.B.V),8,Flyvevåbnet,,Kongedybet/Øresund
+1920-05-21 00:00:00.000,unknown,se desconoce,se desconoce,,"Carlstrom Field, Arcadia, FL"
+1920-05-21 00:00:00.000,de Havilland DH-4B,AS-63123,se desconoce,,"Mather Field, CA"
+1920-05-22 00:00:00.000,de Havilland DH-4B,AS-63385,se desconoce,,"Post Field, OK"
+1920-06-08 00:00:00.000,de Havilland DH-4B,AS-62973,se desconoce,,"West end of Kelly Field, TX"
+1920-06-09 00:00:00.000,de Havilland DH-4B,AS-63169,se desconoce,,"Red Bluff, CA"
+1920-06-10 00:00:00.000,Royal Arcraft Factory R.E. 8,A3804,6 Sqn RAF,,"10 miles west of Alqaim, Iraq"
+1920-01-19 00:00:00.000,Curtiss JN-4D,se desconoce,se desconoce,,"Kelly Field, TX"
+1920-02-01 00:00:00.000,Royal Aircraft Factory S.E.5,se desconoce,se desconoce,,"Kelly Field # 2, TX"
+1920-02-10 00:00:00.000,Fokker D-8,se desconoce,se desconoce,,"Kelly Field, TX"
+1920-02-10 00:00:00.000,Royal Aircraft Factory S.E.5A,se desconoce,se desconoce,,"near Kelly Field, TX"
+1920-02-22 00:00:00.000,de Havilland DH-4,se desconoce,se desconoce,,"Brownsville, TX"
+1920-02-23 00:00:00.000,Royal Aircraft Factory S.E.5,se desconoce,se desconoce,,"Eagle Pass Airdrome, TX"
+1920-02-27 00:00:00.000,de Havilland DH-4,se desconoce,se desconoce,,"Calexico, CA"
+1920-02-28 00:00:00.000,Bristol F.2b,se desconoce,28 Sqn RAF,,"east of Ambala, India"
+1920-03-05 00:00:00.000,de Havilland DH-4,se desconoce,se desconoce,,"Venice, CA"
+1920-03-05 00:00:00.000,Curtiss JN-6H,se desconoce,se desconoce,,"Main Field, March Field, CA"
+1920-03-05 00:00:00.000,Airco DH.4,se desconoce,United States Army Air Service (USAAS),,"near Nacozari, Sonora"
+1920-03-17 00:00:00.000,RAF S E 5A,se desconoce,Royal Aircraft Establishment,,"Laffans Plain, Farnborough, Hampshire"
+1920-03-26 00:00:00.000,Handley Page O/400,se desconoce,216 Sqn RAF,,"Kantara, Egypt"
+1920-04-01 00:00:00.000,Curtiss JN-4D,se desconoce,se desconoce,,"Kelly Field, TX"
+1920-04-15 00:00:00.000,Royal Aircraft Factory R.E.8,se desconoce,30 Sqn RAF,,Iraq
+1920-04-20 00:00:00.000,Royal Aircraft Factory S.E.5A,se desconoce,se desconoce,,"Near Soldier's Home, Washington, DC"
+1920-04-22 00:00:00.000,de Havilland DH-4M,se desconoce,se desconoce,,"Bolling Field, DC"
+1920-04-23 00:00:00.000,Curtiss JN-6H,se desconoce,se desconoce,,"Crandall Ranch, ½ mi N of Perris High School,CA"
+1920-04-23 00:00:00.000,unknown,se desconoce,se desconoce,,"March Field, CA"
+1920-04-24 00:00:00.000,Curtiss JN-4D,se desconoce,se desconoce,,"Call Field, TX"
+1920-05-11 00:00:00.000,Curtiss JN-6H,se desconoce,se desconoce,,"Dorr Field, Arcadia, FL"
+1920-05-15 00:00:00.000,Royal Aircraft Factory R.E.8,se desconoce,6 Sqn RAF,,se desconoce
+1920-05-15 00:00:00.000,Royal Aircraft Factory R.E.8,se desconoce,6 Sqn RAF,,"Bushire, Iran"
+1920-05-19 00:00:00.000,Curtiss 18T-2 Wasp,se desconoce,Escuela Militar de Aviación,,near Sica Sica
+1920-05-20 00:00:00.000,Maagen (F.B.V),se desconoce,Flyvevåbnet,,Kongedybet/Øresund
+1920-05-21 00:00:00.000,unknown,se desconoce,se desconoce,,"Carlstrom Field, Arcadia, FL"
+1920-05-21 00:00:00.000,de Havilland DH-4B,se desconoce,se desconoce,,"Mather Field, CA"
+1920-05-22 00:00:00.000,de Havilland DH-4B,se desconoce,se desconoce,,"Post Field, OK"
+1920-06-08 00:00:00.000,de Havilland DH-4B,se desconoce,se desconoce,,"West end of Kelly Field, TX"
+1920-06-09 00:00:00.000,de Havilland DH-4B,se desconoce,se desconoce,,"Red Bluff, CA"
+1920-06-10 00:00:00.000,Royal Arcraft Factory R.E. 8,se desconoce,6 Sqn RAF,,"10 miles west of Alqaim, Iraq"
+1930-01-06 00:00:00.000,Consolidated PT-3A,29-94,United States Army Air Corps (USAAC),,"Galveston, TX"
+1930-01-06 00:00:00.000,Consolidated PT-3A,29-90,United States Army Air Corps (USAAC),,"Galveston, TX"
+1930-01-10 00:00:00.000,Armstrong Whitworth Atlas TM,J9466,3 FTS RAF,,"RAF Grantham (Spittlegate), Lincolnshire"
+1930-01-24 00:00:00.000,Boeing PW-9C,28-38,United States Army Air Corps (USAAC),,"¼ mi S of Ft Ringgold, TX"
+1930-01-24 00:00:00.000,Curtiss P-1C Hawk,29-242,United States Army Air Corps (USAAC),,"Beach, ND"
+1930-01-25 00:00:00.000,Curtiss A-3 Falcon,27-316,United States Army Air Corps (USAAC),,"4 mi N of New Braunfels, TX"
+1930-01-26 00:00:00.000,Douglas O-2H,28-154,United States Army Air Corps (USAAC),,"6 mi E of Topeka, KS"
+1930-01-28 00:00:00.000,Consolidated PT-1 Trusty,25-245,United States Army Air Corps (USAAC),,"Mitchel Field, NY"
+1930-01-28 00:00:00.000,Avro 504N,J9267,3 FTS RAF,,"RAF Grantham (Spittlegate), Lincolnshire"
+1930-02-06 00:00:00.000,de Havilland DH-4M,23-410,United States Army Air Corps (USAAC),,"1 mi E of Sorento, CA"
+1930-02-06 00:00:00.000,de Havilland DH-4M,22-981,United States Army Air Corps (USAAC),,"4 mi SE of Brooks Field, TX"
+1930-02-06 00:00:00.000,Douglas O-2H,28-157,United States Army Air Corps (USAAC),,"Von Ormy, TX"
+1930-02-07 00:00:00.000,de Havilland DH-4M,30-066,United States Army Air Corps (USAAC),,"Kelly Field, TX"
+1930-02-07 00:00:00.000,Douglas O-2C,26-405,United States Army Air Corps (USAAC),,"Kelly Field, TX"
+1930-02-08 00:00:00.000,Armstrong Whitworth Siskin IIIDC,J9212,3 FTS RAF,,"near Grantham, Lincolnshire"
+1930-02-08 00:00:00.000,Avro 504N,J8708,3 FTS RAF,,"near Grantham, Lincolnshire"
+1930-02-19 00:00:00.000,Fairchild FC-2W2,G-CAVN,Canadian Airways,,"Riverside, NB"
+1930-02-19 00:00:00.000,Consolidated PT-1 Trusty,26-322,United States Army Air Corps (USAAC),,"2 mi NW of Maxwell Field, AL"
+1930-02-27 00:00:00.000,Savoia-Marchetti S.59bis,HR-4,Aviación Naval Argentina,,se desconoce
+1930-03-05 00:00:00.000,Handley Page Hyderabad Mk I,J8319,503 Sqn RAF,,"near Waddington, Lincolnshire"
+1930-01-06 00:00:00.000,Consolidated PT-3A,29-94,United States Army Air Corps (USAAC),,"Galveston, TX"
+1930-01-06 00:00:00.000,Consolidated PT-3A,29-90,United States Army Air Corps (USAAC),,"Galveston, TX"
+1930-01-10 00:00:00.000,Armstrong Whitworth Atlas TM,J9466,3 FTS RAF,,"RAF Grantham (Spittlegate), Lincolnshire"
+1930-01-24 00:00:00.000,Boeing PW-9C,28-38,United States Army Air Corps (USAAC),,"¼ mi S of Ft Ringgold, TX"
+1930-01-24 00:00:00.000,Curtiss P-1C Hawk,29-242,United States Army Air Corps (USAAC),,"Beach, ND"
+1930-01-25 00:00:00.000,Curtiss A-3 Falcon,27-316,United States Army Air Corps (USAAC),,"4 mi N of New Braunfels, TX"
+1930-01-26 00:00:00.000,Douglas O-2H,28-154,United States Army Air Corps (USAAC),,"6 mi E of Topeka, KS"
+1930-01-28 00:00:00.000,Consolidated PT-1 Trusty,25-245,United States Army Air Corps (USAAC),,"Mitchel Field, NY"
+1930-01-28 00:00:00.000,Avro 504N,J9267,3 FTS RAF,,"RAF Grantham (Spittlegate), Lincolnshire"
+1930-02-06 00:00:00.000,de Havilland DH-4M,23-410,United States Army Air Corps (USAAC),,"1 mi E of Sorento, CA"
+1930-02-06 00:00:00.000,de Havilland DH-4M,22-981,United States Army Air Corps (USAAC),,"4 mi SE of Brooks Field, TX"
+1930-02-06 00:00:00.000,Douglas O-2H,28-157,United States Army Air Corps (USAAC),,"Von Ormy, TX"
+1930-02-07 00:00:00.000,de Havilland DH-4M,30-066,United States Army Air Corps (USAAC),,"Kelly Field, TX"
+1930-02-07 00:00:00.000,Douglas O-2C,26-405,United States Army Air Corps (USAAC),,"Kelly Field, TX"
+1930-02-08 00:00:00.000,Armstrong Whitworth Siskin IIIDC,J9212,3 FTS RAF,,"near Grantham, Lincolnshire"
+1930-02-08 00:00:00.000,Avro 504N,J8708,3 FTS RAF,,"near Grantham, Lincolnshire"
+1930-02-19 00:00:00.000,Fairchild FC-2W2,G-CAVN,Canadian Airways,,"Riverside, NB"
+1930-02-19 00:00:00.000,Consolidated PT-1 Trusty,26-322,United States Army Air Corps (USAAC),,"2 mi NW of Maxwell Field, AL"
+1930-02-27 00:00:00.000,Savoia-Marchetti S.59bis,HR-4,Aviación Naval Argentina,,se desconoce
+1930-03-05 00:00:00.000,Handley Page Hyderabad Mk I,J8319,503 Sqn RAF,,"near Waddington, Lincolnshire"
+1940-01-03 00:00:00.000,North American BT-9C,37-413,United States Army Air Corps (USAAC),,"Near Randolph Field, TX"
+1940-01-07 00:00:00.000,Grunau 9,LN-FAI,Bergen Aeroklubb,,se desconoce
+1940-01-10 00:00:00.000,GAL Monospar ST.25 Jubilee,G-AEDY,Utility Airways Ltd,,"Hanworth Aerodrome, Hanworth, Middlesex"
+1940-01-20 00:00:00.000,Boeing P-12E,31-571,United States Army Air Corps (USAAC),,"Russell City, CA"
+1940-01-03 00:00:00.000,North American BT-9C,37-413,United States Army Air Corps (USAAC),,"Near Randolph Field, TX"
+1940-01-07 00:00:00.000,Grunau 9,LN-FAI,Bergen Aeroklubb,,se desconoce
+1940-01-10 00:00:00.000,GAL Monospar ST.25 Jubilee,G-AEDY,Utility Airways Ltd,,"Hanworth Aerodrome, Hanworth, Middlesex"
+1940-01-20 00:00:00.000,Boeing P-12E,31-571,United States Army Air Corps (USAAC),,"Russell City, CA"
+1950-01-01 00:00:00.000,Republic F-47N Thunderbolt,44-88818,United States Air Force (USAF),,5 Mi NE Henando
+1950-01-05 00:00:00.000,Vought F4U-5N Corsair,123155,United States Navy; VC-4,,"NAS Atlantic City, 8mi. NNE, NJ"
+1950-01-06 00:00:00.000,Douglas VC-47A (DC-3),42-93509,USAF,,Ankara
+1950-01-07 00:00:00.000,Boeing 247D,XA-CAB,Líneas Aéreas Guerrero Oaxaca (LAGOSA),,"near Los Pajaritos, VER"
+1950-01-07 00:00:00.000,Lockheed F-80B Shooting Star,45-8536,United States Air Force (USAF),,Ie Shima Island
+1950-01-07 00:00:00.000,Beechcraft UC-45 Expeditor,F-BECE,Sté des Avions Taxis d'Indochine,,Phanthiet
+1950-01-07 00:00:00.000,Republic F-84E Thunderjet,49-2026,U.S. Air Force (USAF),,"near Watson Lake, Yukon Territory, Canada"
+1950-01-10 00:00:00.000,Douglas C-47B (DC-3),F-BEFQ,Air Nolis,,near Zinder
+1950-01-11 00:00:00.000,Lockheed F-80A Shooting Star,45-8340,United States Air Force (USAF),,8 Mi ESE Mt Clemens
+1950-01-11 00:00:00.000,Lockheed F-80A Shooting Star,44-85119,United States Air Force (USAF),,North of Okinawa
+1950-01-12 00:00:00.000,Beechcraft T-7 Navigator,41-21080,United States Air Force (USAF),,1 Mi W Long Beach Airport
+1950-01-12 00:00:00.000,North American F-51D Mustang,44-73599,United States Air Force (USAF),,Yokota AB
+1950-01-13 00:00:00.000,North American F-82G Twin Mustang,46-0381,United States Air Force (USAF),,Yokota AB
+1950-01-13 00:00:00.000,North American TF-51D Mustang,44-74556,United States Air Force (USAF),,10 Ni NE Las Vegas
+1950-01-14 00:00:00.000,Vought F4U-4 Corsair,81898,United States Navy; CNART,,se desconoce
+1950-01-15 00:00:00.000,Lockheed F-80C Shooting Star,47-214,U.S. Air Force (USAF),,"near Opa Locka, FL"
+1950-01-16 00:00:00.000,Douglas A-26C Invader,44-35543,United States Air Force (USAF),,9 Mi W Sumter
+1950-01-16 00:00:00.000,North American F-82H Twin Mustang,46-0497,United States Air Force (USAF),,10 Mi S Fairbanks
+1950-01-17 00:00:00.000,FMA I.Ae.24 Calquín,A-48,Fuerza Aérea Argentina,,BA El Plumerillo-Mendoza
+1950-01-17 00:00:00.000,Vought F4U-4 Corsair,81602,United States Navy; VF ATU #4,,"Cabaniss, 9mi. SSW, TX"
+1950-01-18 00:00:00.000,Grumman TBM-3E Avenger,86170,US Navy,,se desconoce
+1950-01-18 00:00:00.000,Lockheed P-80A Shooting Star,44-85118,U.S. Air Force (USAF),,se desconoce
+1950-01-19 00:00:00.000,Vought F4U-4 Corsair,97343,United States Marine Corps (USMC); VMF-223,,USS Leyte (CV-32)
+1950-01-21 00:00:00.000,Vought F4U-4 Corsair,81857,United States Navy; VF-32,,"NAAS Charlestown, RI"
+1950-01-22 00:00:00.000,de Havilland DH.104 Dove 1,VP-YER,Central African Airways,,"Livingstone, Southern Province"
+1950-01-23 00:00:00.000,Vought F4U-5 Corsair,122036,United States Navy; VF-41,,USS Midway (CVB-41)
+1950-01-24 00:00:00.000,Vought F4U-4 Corsair,81606,US Navy,,se desconoce
+1950-01-06 00:00:00.000,Douglas VC-47A (DC-3),42-93509,USAF,,Ankara
+1950-01-10 00:00:00.000,Douglas C-47B (DC-3),F-BEFQ,Air Nolis,,near Zinder
+1960-01-05 00:00:00.000,Convair F-102A Delta Dagger,56-1070,U.S. Air Force (USAF),,"near Lockbourne AFB, OH"
+1960-01-09 00:00:00.000,Gloster Meteor T7,22-266,Flyvevåbnet,,Karup AB (KRP)
+1960-01-11 00:00:00.000,McDonnell F3H-2 Demon,143431,U.S. Navy,,se desconoce
+1960-01-11 00:00:00.000,Republic RF-84F Thunderflash,5614,Republic of China Air Force (ROCAF),,se desconoce
+1960-01-14 00:00:00.000,Lockheed T-33A Shooting Star,51-16979,U.S. Air Force (USAF),,"near Williams AFB, AZ"
+1960-01-14 00:00:00.000,Lockheed T-33A Shooting Star,52-9493,U.S. Air Force (USAF),,"near Williams AFB, AZ"
+1960-01-14 00:00:00.000,Douglas F4D-1 Skyray,139049,United States Marine Corps (USMC),,se desconoce
+1960-01-16 00:00:00.000,Grumman CS2F-1 Tracker,1517,Royal Canadian Navy (RCN),,se desconoce
+1960-01-18 00:00:00.000,North American F-86D Sabre,se desconoce,United States Air Force (USAF),,20 km NE of BA Torrejón
+1960-01-20 00:00:00.000,MKEK 4 Uğur,5120,Türk Hava Kuvvetleri,,se desconoce
+1960-01-20 00:00:00.000,MKEK 4 Uğur,5125,Türk Hava Kuvvetleri,,se desconoce
+1970-01-01 00:00:00.000,Dornier Do-28A-1,ST-ACM,se desconoce,,"Aliet, Al Buhayrat"
+1970-01-02 00:00:00.000,McDonnell Douglas F-4D Phantom II,66-8784,United States Air Force (USAF),,se desconoce
+1970-01-03 00:00:00.000,McDonnell Douglas F-4D Phantom II,66-7628,United States Air Force (USAF),,se desconoce
+1970-01-04 00:00:00.000,Mikojan-Gurjevič MiG-21,se desconoce,Egyptian Air Force (EAF),,se desconoce
+1970-01-04 00:00:00.000,MiG-21,se desconoce,Egyptian Air Force (EAF),,se desconoce
+1970-01-04 00:00:00.000,Piper J3C-65 (L-4H),D-EGUL,se desconoce,,se desconoce
+1970-01-06 00:00:00.000,Bell 47G,YV-E-DPF,Aerotecníca S.A.,,se desconoce
+1970-01-08 00:00:00.000,Mikojan-Gurjevič MiG-21,se desconoce,Syrian Arab Air Force (SyAAF),,se desconoce
+1970-01-08 00:00:00.000,Mikojan-Gurjevič MiG-21,se desconoce,Syrian Arab Air Force (SyAAF),,se desconoce
+1970-01-08 00:00:00.000,Mikojan-Gurjevič MiG-21,se desconoce,Syrian Arab Air Force (SyAAF),,se desconoce
+1970-01-08 00:00:00.000,Convair F-106A Delta Dart,57-2500,United States Air Force - USAF,,32 NM WNW Kwangju
+1970-01-09 00:00:00.000,Mil Mi-2,627,Polish Air Force,,se desconoce
+1970-01-09 00:00:00.000,Vought DF-8F Crusader,143730,United States Navy (USN),,se desconoce
+1970-01-10 00:00:00.000,HAL HF-24 Marut,se desconoce,Indian Air Force,,se desconoce
+1970-01-10 00:00:00.000,Boeing CH-47C Chinook,67-18524,US Army,,"Unknown, S. Vietnam"
+1970-01-12 00:00:00.000,Dornier Do-28B-1,NAF-172,Nigerian Air Force,,Lagos
+1980-01-06 00:00:00.000,Shenyang F-6,se desconoce,Pakistan Air Force,,se desconoce
+1980-01-13 00:00:00.000,Cessna 182K Skylane,OY-EGY,Private,,Sönderborg (EKSB)
+1980-01-14 00:00:00.000,Vought A-7D Corsair II,72-0181,USAF,,se desconoce
+1980-01-14 00:00:00.000,Martin WB-57B Canberra,52-1503,United States Air Force - USAF,,"Plattsburgh, NY"
+1980-01-14 00:00:00.000,North American T-28A Trojan,se desconoce,Fuerza Aérea Mexicana (FAM),,se desconoce
+1980-01-16 00:00:00.000,North American T-6G Texan,E.16-78,Ejército del Aire,,se desconoce
+1990-01-04 00:00:00.000,Sikorsky UH-60A Black Hawk,89-26144,United States Navy (USN),,se desconoce
+1990-01-05 00:00:00.000,MiG-23MF,C408,Angolan Air Force,,se desconoce
+1990-01-09 00:00:00.000,Antonov An-24TV,se desconoce,Sudan AF,,Kajo Kaji
+1990-01-10 00:00:00.000,Bell 212,EHBR-1179,Fuerza Aérea Mexicana (FAM),,se desconoce
+1990-01-10 00:00:00.000,Mil Mi-35,se desconoce,Angolan Air Force,,near Chipeta
+1990-01-12 00:00:00.000,Bell 212,30928,Royal Thai Army Aviation (RTAA),,"near Ban Klang, Pattani"
+1990-01-16 00:00:00.000,Mudry CAARP Cap 10B,EC-DVH,se desconoce,,se desconoce
+1990-01-21 00:00:00.000,Cessna F150H,F-BPEE,Private,,se desconoce
+1990-01-21 00:00:00.000,Bell AH-1E Cobra,77-22794,US Army,,se desconoce
+1990-01-21 00:00:00.000,Beech 300 Super King Air,HI-578SP,Private,,Santo Domingo
+1990-01-09 00:00:00.000,Antonov An-24TV,se desconoce,Sudan AF,,Kajo Kaji
+1990-01-21 00:00:00.000,Beech 300 Super King Air,HI-578SP,Private,,Santo Domingo
+2000-01-01 00:00:00.000,MiG-23,se desconoce,Angolan Air Force,,Huambo
+2000-01-03 00:00:00.000,Mil Mi-24P,48,Russian Air Force,,"Gudauta, Abkhazia"
+2000-01-03 00:00:00.000,Beech 200 Super King Air,A2-AEZ,Kalahari Air Services & Charter,,unknown location
+2000-01-14 00:00:00.000,Pilatus PC-7,HBHOO,Pilatus Aircraft Ltd.,,"BROOMFIELD, Colorado"
+2000-01-18 00:00:00.000,IPTN/MBB Bo 105CB,HS-70..,TNI-AD (Indonesian Army),,"near Putussibau, West Kalimantan"
+1902-05-12 00:00:00.000,Airship,Unregistered,Augusto Severo de Albuquerque Maranhão,2,"81 Avenue de Maine, Paris"
+1910-12-03 00:00:00.000,Farman Biplane,se desconoce,Italian Army (?),2,Centocelle near Rome
+1910-12-28 00:00:00.000,Antoinette VII,se desconoce,Mario Pola,2,Issy-les-Moulineaux
+1910-12-03 00:00:00.000,Farman Biplane,se desconoce,Italian Army (?),2,Centocelle near Rome
+1910-12-28 00:00:00.000,Antoinette VII,se desconoce,Mario Pola,2,Issy-les-Moulineaux
+1920-02-05 00:00:00.000,Albatros (SW12),618,Swedish Air Force,2,"Lambohov, Espetorp, nära Malmslätt (Östergötland)"
+1920-03-05 00:00:00.000,de Havilland DH-4,SC-23961,US Army Air Service,2,"3 mi Sw of Eglin, OK, on Ft Sill Res, OK"
+1920-03-11 00:00:00.000,Albatros C. III,se desconoce,Finnish Air Force,2,Utti
+1920-04-16 00:00:00.000,de Havilland DH-4B,se desconoce,US Army Air Service,2,"Sanderson, TX"
+1920-05-03 00:00:00.000,Standard J-1,se desconoce,Private,2,"Near Vallejo, CA"
+1920-05-21 00:00:00.000,de Havilland DH-4A,AS-24158,US Army Air Service,2,"Kelly Field, TX"
+1920-05-24 00:00:00.000,Savoia S.16,CH-4,Ad Astra Aero,2,Romanshorn
+1920-05-27 00:00:00.000,Bristol F.2b,D7927,70 Sqn RAF,2,"Almaza, Egypt"
+1920-02-05 00:00:00.000,Albatros (SW12),se desconoce,Swedish Air Force,2,"Lambohov, Espetorp, nära Malmslätt (Östergötland)"
+1920-03-05 00:00:00.000,de Havilland DH-4,se desconoce,US Army Air Service,2,"3 mi Sw of Eglin, OK, on Ft Sill Res, OK"
+1920-03-11 00:00:00.000,Albatros C. III,se desconoce,Finnish Air Force,2,Utti
+1920-04-16 00:00:00.000,de Havilland DH-4B,se desconoce,US Army Air Service,2,"Sanderson, TX"
+1920-05-03 00:00:00.000,Standard J-1,se desconoce,Private,2,"Near Vallejo, CA"
+1920-05-21 00:00:00.000,de Havilland DH-4A,se desconoce,US Army Air Service,2,"Kelly Field, TX"
+1920-05-24 00:00:00.000,Savoia S.16,se desconoce,Ad Astra Aero,2,Romanshorn
+1920-05-27 00:00:00.000,Bristol F.2b,se desconoce,70 Sqn RAF,2,"Almaza, Egypt"
+1930-01-07 00:00:00.000,Loening OL-8A,A-8072,US Navy,2,"San Diego Bay near National City, CA"
+1930-01-10 00:00:00.000,I.V.L. A.22 Hansa,IL-61,Finnish Air Force,2,Laatokka
+1930-01-10 00:00:00.000,Fairchild 71,NC,Fairchild,2,Amston CT
+1930-01-21 00:00:00.000,Fairey IIIF,J9637,207 Sqn RAF,2,"near Maldon Grey Public House, Childon, near Sudbury, Suffolk"
+1930-01-23 00:00:00.000,Canadian Vickers Vedette,N°5,Fuerza Aérea de Chile,2,Puerto Aysén - Región de Aysén
+1930-01-25 00:00:00.000,Latécoère 26-6,F-AJCL,Aéropostale,2,Mediterranean Sea
+1930-02-16 00:00:00.000,de Havilland DH.60G Moth,C-39,SCADTA,2,Cali
+1930-01-07 00:00:00.000,Loening OL-8A,A-8072,US Navy,2,"San Diego Bay near National City, CA"
+1930-01-10 00:00:00.000,I.V.L. A.22 Hansa,IL-61,Finnish Air Force,2,Laatokka
+1930-01-10 00:00:00.000,Fairchild 71,NC,Fairchild,2,Amston CT
+1930-01-21 00:00:00.000,Fairey IIIF,J9637,207 Sqn RAF,2,"near Maldon Grey Public House, Childon, near Sudbury, Suffolk"
+1930-01-23 00:00:00.000,Canadian Vickers Vedette,N°5,Fuerza Aérea de Chile,2,Puerto Aysén - Región de Aysén
+1930-01-25 00:00:00.000,Latécoère 26-6,F-AJCL,Aéropostale,2,Mediterranean Sea
+1930-02-16 00:00:00.000,de Havilland DH.60G Moth,C-39,SCADTA,2,Cali
+1940-01-02 00:00:00.000,Miles Magister Mk I,P2508,79 Sqn RAF,2,"Garlinge, near Margate, Kent"
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,1./6 DBAP Soviet Air Force,2,Heinoja
+1940-01-09 00:00:00.000,Vickers Vildebeest Mark III,K4156,273 Sqn RAF,2,18 miles off Colombo
+1940-01-09 00:00:00.000,North American Harvard Mk I,P5848,15 FTS RAF,2,"Gordon Castle, near Fochabers, Moray, Scotland"
+1940-01-11 00:00:00.000,Blackburn Skua Mk II,L2946,803 Sqn FAA RN,2,"Tor Ness Point on the Island of Stronsay, Orkney, Scotland"
+1940-01-13 00:00:00.000,De Havilland DH.82A Tiger Moth,T1778,Risalpur SF RAF,2,"RAF Kohat, Khyber-Pakhtunkhwa, British India."
+1940-01-15 00:00:00.000,CAC CA-5 Wirraway,A20-20,21 Sqn RAAF,2,"2 miles N of RAAF Laverton, VIC"
+1940-01-17 00:00:00.000,Airplane,se desconoce,RAF,2,near Kohat
+1940-01-18 00:00:00.000,Bristol Blenheim Mk IV,BL-127,Suomen ilmavoimat,2,"North Sea, between Perth, Scotland, and Stavanger, Norway"
+1940-01-18 00:00:00.000,Supermarine Walrus Mk I,P5648,712 Sqn FAA RN,2,"Bishop Briggs, 3 miles north of Glasgow, Scotland,"
+1940-01-02 00:00:00.000,Miles Magister Mk I,P2508,79 Sqn RAF,2,"Garlinge, near Margate, Kent"
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,1./6 DBAP Soviet Air Force,2,Heinoja
+1940-01-09 00:00:00.000,Vickers Vildebeest Mark III,K4156,273 Sqn RAF,2,18 miles off Colombo
+1940-01-09 00:00:00.000,North American Harvard Mk I,P5848,15 FTS RAF,2,"Gordon Castle, near Fochabers, Moray, Scotland"
+1940-01-11 00:00:00.000,Blackburn Skua Mk II,L2946,803 Sqn FAA RN,2,"Tor Ness Point on the Island of Stronsay, Orkney, Scotland"
+1940-01-13 00:00:00.000,De Havilland DH.82A Tiger Moth,T1778,Risalpur SF RAF,2,"RAF Kohat, Khyber-Pakhtunkhwa, British India."
+1940-01-15 00:00:00.000,CAC CA-5 Wirraway,A20-20,21 Sqn RAAF,2,"2 miles N of RAAF Laverton, VIC"
+1940-01-17 00:00:00.000,Airplane,se desconoce,RAF,2,near Kohat
+1940-01-18 00:00:00.000,Bristol Blenheim Mk IV,BL-127,Suomen ilmavoimat,2,"North Sea, between Perth, Scotland, and Stavanger, Norway"
+1940-01-18 00:00:00.000,Supermarine Walrus Mk I,P5648,712 Sqn FAA RN,2,"Bishop Briggs, 3 miles north of Glasgow, Scotland,"
+1950-01-01 00:00:00.000,Miles M.14A Hawk Trainer III,OO-PAB,Club d'Aviation de Bruxelles,2,Villens
+1950-01-03 00:00:00.000,Fieseler K-65 Cáp (Fi 156),se desconoce,Czechoslovak Air Force,2,Chocen
+1950-01-03 00:00:00.000,Avro 652A Anson C.19,VR-TAT,United Air Services,2,"Kazimzumbwi Pwani Region, 20 km SW of Dar es-Salaam"
+1950-01-04 00:00:00.000,Fairey Firefly AS Mk 5,WB287,812 Sqn FAA RN,2,"Mediterranean Sea, near HMS Glory, off Delimara Point, Malta"
+1950-01-05 00:00:00.000,Boeing B-50A-10-BO Superfortress,46-021,3200th BTSqn /3200th PTGp /APGC USAF,2,"Choctawhatchee Bay, 2miles NNE of Okaloosa, Florida"
+1950-01-05 00:00:00.000,North American AT-16 Harvard IIB,FT376,7 FTS RAF,2,"Normanby by Spital, 4 miles North of Scunthorpe, Lincolnshire"
+1950-01-08 00:00:00.000,Fairey Firefly FR Mk 1,PP566,1830 Sqn FAA RN VR,2,"Meikle Bin, Campsie Fells, Stirlingshire"
+1950-01-10 00:00:00.000,Percival Prentice T Mk I,VS287,3 FTS RAF,2,"Blackdyke Farm, Hockwold, 1.5 miles SE of RAF Feltwell, Norfolk"
+1950-01-11 00:00:00.000,Lockheed T-33A Shooting Star,49-0915,United States Air Force (USAF),2,"1,5 mi SW of Perris, CA"
+1950-01-17 00:00:00.000,Airplane,se desconoce,RAF,2,near Remscheid
+1950-01-22 00:00:00.000,Piper J3C Cub,N92421,Private,2,"15 miles northeast of Taft, TX"
+1950-01-24 00:00:00.000,Arado Ar 96 (Avia C.2),795,Czechoslovak Air Force,2,Prostejov
+1960-01-02 00:00:00.000,North American T-6 Texan,se desconoce,Private,2,"Lake Havasu City, AZ"
+1960-01-03 00:00:00.000,Piper PA-20 Pacer,N6979K,Private,2,"San Antonio, TX"
+1960-01-03 00:00:00.000,Lockheed T-33A,se desconoce,United States Air Force (USAF),2,Hahn AB
+1960-01-13 00:00:00.000,Lockheed 18 Learstar,N672,Utah Construction & Mining Co.,2,"near Minersville, UT"
+1960-01-14 00:00:00.000,Boeing B-47E Stratojet,52-0498,United States Air Force (USAF),2,"Eielson AFB, AK"
+1960-01-15 00:00:00.000,Lockheed T-33A,DP-S,Luftforsvaret (RNoAF),2,near Kvitsøy
+1960-01-19 00:00:00.000,Avro Canada CF-100 Canuck Mk 5,18682,Royal Canadian Air Force (RCAF),2,"Strait of Georgia, Comox, British Columbia"
+1960-01-20 00:00:00.000,Auster AOP.9,WZ728,656 Sqn /11 Flt AAC,2,near Seremban
+1960-01-20 00:00:00.000,de Havilland DH.112 Sea Venom FAW.21,XG658,766 Sqn FAA RN,2,"Manor Farm, 1 mile east of Tockenham, Wiltshire"
+1960-01-21 00:00:00.000,English Electric Canberra PR.3,WF926,39 Sqn RAF,2,"Mediterranean Sea, 19 miles ENE of Luqa"
+1960-01-21 00:00:00.000,Cessna 180,N....,Private,2,near Caicos
+1960-01-13 00:00:00.000,Lockheed 18 Learstar,N672,Utah Construction & Mining Co.,2,"near Minersville, UT"
+1970-01-01 00:00:00.000,North American A-5A Vigilante,148928,US Navy,2,near Clark AB
+1970-01-01 00:00:00.000,Cessna 180H Skywagon 6,N3472Y,Galena Air Ser,2,"Nulato, AK"
+1970-01-02 00:00:00.000,Piper PA-22,N5339Z,se desconoce,2,"Livermore, CA"
+1970-01-02 00:00:00.000,Cessna 172 Skyhawk,N7104A,se desconoce,2,"Rollinsville, CO"
+1970-01-02 00:00:00.000,Cessna 337B Super Skymaster,N5497S,Perma-Parts Co,2,"Cedar Key, FL"
+1970-01-02 00:00:00.000,Grumman A-6A Intruder,152937,"VA-196, US Navy",2,"near Ban Na Phao/Mu Gia Pass, Khammouan Province, Laos"
+1970-01-03 00:00:00.000,Folland Gnat T.1,XR997,4 FTS  RAF,2,"Ty Mawr, Anglesey"
+1970-01-03 00:00:00.000,Socata MS.893 Rallye Commodore 180,F-BPBH,Aero Club Du Finistere,2,"Bavilliers, Territoire de Belfort 90"
+1970-01-04 00:00:00.000,Piper PA-24,N8485P,Audubon Electr,2,"near Cape May, Nj"
+1970-01-05 00:00:00.000,McDonnell Douglas F-4B Phantom II,152283,US Navy,2,se desconoce
+1970-01-05 00:00:00.000,Piper PA-18,N109BC,Buckeye Cellul,2,"Perry, FL"
+1970-01-05 00:00:00.000,Cessna 411A,SE-FBA,Saab,2,Linköping
+1970-01-09 00:00:00.000,Dassault Mirage IVA,22,Armée de l'Air,2,Val-d'Ajol (Vosges)
+1970-01-10 00:00:00.000,Cessna 150F,N8714S,China Lake Nav,2,"Inyokern, CA"
+1970-01-10 00:00:00.000,Bell 47J-2 Ranger,N944NA,Anchorage Heli,2,"near Healy, AK"
+1970-01-10 00:00:00.000,Cessna 150H,N22390,Aviation Caree,2,"Topanga, CA"
+1970-01-12 00:00:00.000,McDonnell Douglas F-4C Phantom II,63-7619,United States Air Force (USAF),2,se desconoce
+1980-01-01 00:00:00.000,Cessna TU206G,HK-2353-P,se desconoce,2,Neiva
+1980-01-03 00:00:00.000,Cessna 172G,N4290L,se desconoce,2,"N Coalinga, CA"
+1980-01-06 00:00:00.000,Macchi MB.308,I-AIAY,Aeroclub Bolzano,2,San Genesio (BZ)
+1980-01-08 00:00:00.000,Beechcraft D18S,N641E,Poly.Air Inc.,2,"N Honolulu, HI"
+1980-01-08 00:00:00.000,Piper PA-23 Apache,N2021P,"Aero Leasing,I",2,"Ft Worth, TX"
+1980-01-08 00:00:00.000,Grumman A-6E Intruder,158050,"VA-75, US Navy",2,"USS Saratoga (CVA-60) 100 miles E of Jacksonville, Florida"
+1980-01-11 00:00:00.000,Cessna 441 Conquest II,N441NC,Nichols Construction Corporation,2,Atlantic Ocean
+1980-01-12 00:00:00.000,McDonnell Douglas F-4E Phantom II,se desconoce,Islamic Republic of Iran Air Force (IRIAF),2,southern Bushehr province
+1980-01-14 00:00:00.000,de Havilland Canada Beaver AL1,XP819,British Army Air Corps (AAC),2,"Dummer Hill, Hampshire"
+1980-01-14 00:00:00.000,McDonnell F-101B Voodoo,59-0414,U.S. Air Force (USAF),2,"near Niagara Falls APT, NY"
+1980-01-15 00:00:00.000,IAI Arava 201,3D-DAB,Swaziland AF,2,Zomba Air Base
+1980-01-15 00:00:00.000,Cessna A152,N7393L,se desconoce,2,"Lomax, TX"
+1980-01-16 00:00:00.000,Cessna 310Q,N40AK,se desconoce,2,"Winthrop Hbr, IL"
+1980-01-19 00:00:00.000,Beechcraft B19 Musketeer Sport,N1946W,Suburban Aviation,2,"Bogota, Nj"
+1980-01-19 00:00:00.000,Culver LCA,N41701,se desconoce,2,"Mojave, CA"
+1980-01-21 00:00:00.000,Grumman G-44 Widgeon,ZK-BGQ,Sea Bee Air Ltd,2,"Kaipara Harbour, Northland"
+1980-01-22 00:00:00.000,Piper PA-18,N3580Z,se desconoce,2,"N East Machias,Me"
+1980-01-15 00:00:00.000,IAI Arava 201,3D-DAB,Swaziland AF,2,Zomba Air Base
+1990-01-06 00:00:00.000,helicopter,se desconoce,Indian Air Force,2,SE of Delhi
+1990-01-16 00:00:00.000,MDH 500MD ASW,690.,Republic of China Navy,2,se desconoce
+1990-01-16 00:00:00.000,Mudry CAP 10B,HB-SAZ,Groupement de Vol à moteur Lausanne,2,"Tavernes, VD"
+1990-01-18 00:00:00.000,Mil Mi-2,CCCP-14356,Aeroflot/Central Region,2,se desconoce
+1990-01-18 00:00:00.000,Piper PA-32R-300,N38389,Air East,2,"Great Barrngton, MA"
+1990-01-20 00:00:00.000,Piper PA-18,N7216K,Ronald Mcdonald,2,"Longmire, WA"
+1990-01-20 00:00:00.000,Piper J3 Cub,N88125,Private,2,"Clewiston, FL"
+2000-01-01 00:00:00.000,Bellanca 17-30A Super Viking 300A,N8821V,Private,2,"Monteagle, TN"
+2000-01-08 00:00:00.000,Beechcraft 23,N2336Z,Private,2,"Macon, GA"
+2000-01-10 00:00:00.000,Ted Smith Aerostar 601P,N905DK,N3193X BONANZA CORP,2,"Coatesville, PA"
+2000-01-11 00:00:00.000,Bell OH-58A Kiowa,N901SF,San Francisco Police Dept.,2,"3 miles SW of Crows Landing, California"
+2000-01-17 00:00:00.000,McDonnell Douglas F-4E Phantom II,01519,Elliniki Polemikí Aeroporía,2,Xerovouni Arachova
+2010-01-02 00:00:00.000,Cessna F172P Skyhawk II (Reims),OO-TRB,Private,2,"Drongengoedbos, near Ursel, East Flanders"
+2010-01-14 00:00:00.000,MiG-29,se desconoce,Algerian Air Force,2,"Djebel Bouras hamlet, Boudjebha region"
+2010-01-15 00:00:00.000,Piper PA-31P Pressurized Navajo,N95RS,Southern Aircraft Consultancy Inc.,2,"Near the A4095 Grove Road in Bladon, near Oxford-Kidlington Airport"
+2020-01-01 00:00:00.000,Monnett Sonerai II-LS,LV-X393,Private,2,"AD Esperanza, Santa Fe"
+2020-01-03 00:00:00.000,Cessna 172R Skyhawk,VT-CAF,Chimes Aviation Academy,2,"near Dhana Airport, Madhya Pradesh, Sagar district"
+2020-01-04 00:00:00.000,DTA Voyageur,se desconoce,Private,2,"Vista Hermosa Aerodrome, Puente de Ixtla"
+2020-01-05 00:00:00.000,Van's RV-6,N420PW,Private,2,"Cullman Regional Airport-Folsom Field (KCMD), Cullman, AL"
+2020-01-07 00:00:00.000,Chengdu FT-7PG,90-611,Pakistan Air Force (PAF),2,"near Chah Miana, Mianwali district, Punjab province"
+2020-01-08 00:00:00.000,Mil Mi-35,se desconoce,Afghan National Army (ANA),2,"Porchaman district, Farah province"
+2020-01-09 00:00:00.000,Robinson R66,N450MC,Redmark Capital LLC,2,"Mechanicsburg, PA"
+1910-04-03 00:00:00.000,Gas Balloon “Pommern”,Unregistered,Private,3,"Sassnitz, Jasmund peninsula, Rügen Island, State of Mecklenburg"
+1910-04-17 00:00:00.000,Gas Balloon “Delitzsch”,Unregistered,Private,4,"Reichensachsen, Wehretal, Werra-Meißner-Kreis, Hesse"
+1910-07-13 00:00:00.000,Airship  “Erbslöh”,se desconoce,Rheinisch-Westfälische Motorluftschiff-Gesellschaft,5,Pattscheid
+1910-08-01 00:00:00.000,Henry Farman biplane,Unregistered,G.W. Parkinson,0+1,"Boldon Flats Racecourse, Cleadon, near Sunderland, County Durham"
+1910-04-03 00:00:00.000,Gas Balloon “Pommern”,Unregistered,Private,3,"Sassnitz, Jasmund peninsula, Rügen Island, State of Mecklenburg"
+1910-04-17 00:00:00.000,Gas Balloon “Delitzsch”,Unregistered,Private,4,"Reichensachsen, Wehretal, Werra-Meißner-Kreis, Hesse"
+1910-07-13 00:00:00.000,Airship  “Erbslöh”,se desconoce,Rheinisch-Westfälische Motorluftschiff-Gesellschaft,5,Pattscheid
+1910-08-01 00:00:00.000,Henry Farman biplane,Unregistered,G.W. Parkinson,0+1,"Boldon Flats Racecourse, Cleadon, near Sunderland, County Durham"
+1920-02-03 00:00:00.000,Junkers F13,se desconoce,Junkers Flugzeugwerk AG,4,"Kleinkühnau, Dessau"
+1920-02-21 00:00:00.000,Bristol F.2b,H1567,2 Sqn RAF,1+2,"Irish Sea, en route between Shotwick and Baldonnel"
+1920-03-09 00:00:00.000,Airplane,se desconoce,Private,3,"Cunningham, KS"
+1920-03-11 00:00:00.000,Nieuport 82E.2,8070,Aviação Militar,1+1,"Campo dos Afonsos, RJ"
+1920-03-11 00:00:00.000,Nieuport 83E.2,8909,Aviação Militar,1+1,"Campo dos Afonsos, RJ"
+1920-03-11 00:00:00.000,George-Levy GL 40,se desconoce,Aeronáutica Militar,3,portuguese coast
+1920-04-01 00:00:00.000,Handley Page 0/400,F302,216 Sqn RAF,4,"Dagesh near Abu Hamed, 345 north of Khartoum"
+1920-04-29 00:00:00.000,Felixstowe F.5,N4044,230 Sqn RAF,4,"North sea, off Fexlistowe, Suffolk"
+1920-02-03 00:00:00.000,Junkers F13,se desconoce,Junkers Flugzeugwerk AG,4,"Kleinkühnau, Dessau"
+1920-02-21 00:00:00.000,Bristol F.2b,se desconoce,2 Sqn RAF,1+2,"Irish Sea, en route between Shotwick and Baldonnel"
+1920-03-09 00:00:00.000,Airplane,se desconoce,Private,3,"Cunningham, KS"
+1920-03-11 00:00:00.000,Nieuport 82E.2,se desconoce,Aviação Militar,1+1,"Campo dos Afonsos, RJ"
+1920-03-11 00:00:00.000,Nieuport 83E.2,se desconoce,Aviação Militar,1+1,"Campo dos Afonsos, RJ"
+1920-03-11 00:00:00.000,George-Levy GL 40,se desconoce,Aeronáutica Militar,3,portuguese coast
+1920-04-01 00:00:00.000,Handley Page 0/400,se desconoce,216 Sqn RAF,4,"Dagesh near Abu Hamed, 345 north of Khartoum"
+1920-04-29 00:00:00.000,Felixstowe F.5,se desconoce,230 Sqn RAF,4,"North sea, off Fexlistowe, Suffolk"
+1930-01-02 00:00:00.000,Stinson SM-1F Detroiter,NC8420,Tanner Air Tours,5+5,"off Point San Vicente, CA"
+1930-01-02 00:00:00.000,Stinson SM-1F Detroiter,NC9691,Tanner Air Tours,5+5,"off Point San Vicente, CA"
+1930-01-06 00:00:00.000,Wackett Widgeon II,20,1 FTS RAAF,3,"One mile off RAAF Point Cook, Melbourne, VIC"
+1930-01-08 00:00:00.000,Avro 504N,J8981,4 FTS RAF,2+2,"near RAF Abu Sueir, Ismailia"
+1930-01-08 00:00:00.000,Avro 504N,J8716,4 FTS RAF,2+2,"near RAF Abu Sueir, Ismailia"
+1930-01-13 00:00:00.000,Farman F.190,F-AJJK,Societe General Aeronautique,3,"Dibaya, Lulua District, Kasai-Occidental"
+1930-01-18 00:00:00.000,Kalinin K-4,CCCP-225,Dobrolet,3,Baku
+1930-01-19 00:00:00.000,Ryan B-5,NC,Florida Airways,3,Lake Worth FL
+1930-01-19 00:00:00.000,se desconoce,F-,se desconoce,5,Puys near Dieppe
+1930-01-27 00:00:00.000,Travel Air A6000A,NC8178,Central Airlines subsidiary of Universal Airlines,5,"Kansas City, KS"
+1930-01-28 00:00:00.000,airplane (2x),se desconoce,Danish Air Force,1+1,"near Gjedser, Falster"
+1930-02-07 00:00:00.000,Junkers R-42 (G.24),J6,Chilean AF,3,SE off Punta Arenas
+1930-02-09 00:00:00.000,CAMS 56,F-AIOY,Aéropostale,3,near Cape de Creus
+1930-02-23 00:00:00.000,Miami Maid Seaplane,NC178N,Miami Aircraft Company,3,Miami FL
+1930-02-23 00:00:00.000,Fokker F.10A,NC279E,Western Air Express,3,"25 km NE of San Bernardino, CA"
+1930-02-24 00:00:00.000,airplane (2x),se desconoce,Cuerpo de Aviación del Ejército de Cuba (CAEC),1+1,Machado Airfield
+1930-03-04 00:00:00.000,Travel Air 2000,NC3978,Morey Johnson,3,Beverly Hills CA
+1930-01-02 00:00:00.000,Stinson SM-1F Detroiter,NC8420,Tanner Air Tours,5+5,"off Point San Vicente, CA"
+1930-01-02 00:00:00.000,Stinson SM-1F Detroiter,NC9691,Tanner Air Tours,5+5,"off Point San Vicente, CA"
+1930-01-06 00:00:00.000,Wackett Widgeon II,20,1 FTS RAAF,3,"One mile off RAAF Point Cook, Melbourne, VIC"
+1930-01-08 00:00:00.000,Avro 504N,J8981,4 FTS RAF,2+2,"near RAF Abu Sueir, Ismailia"
+1930-01-08 00:00:00.000,Avro 504N,J8716,4 FTS RAF,2+2,"near RAF Abu Sueir, Ismailia"
+1930-01-13 00:00:00.000,Farman F.190,F-AJJK,Societe General Aeronautique,3,"Dibaya, Lulua District, Kasai-Occidental"
+1930-01-18 00:00:00.000,Kalinin K-4,CCCP-225,Dobrolet,3,Baku
+1930-01-19 00:00:00.000,Ryan B-5,NC,Florida Airways,3,Lake Worth FL
+1930-01-19 00:00:00.000,se desconoce,F-,se desconoce,5,Puys near Dieppe
+1930-01-27 00:00:00.000,Travel Air A6000A,NC8178,Central Airlines subsidiary of Universal Airlines,5,"Kansas City, KS"
+1930-01-28 00:00:00.000,airplane (2x),se desconoce,Danish Air Force,1+1,"near Gjedser, Falster"
+1930-02-09 00:00:00.000,CAMS 56,F-AIOY,Aéropostale,3,near Cape de Creus
+1930-02-23 00:00:00.000,Miami Maid Seaplane,NC178N,Miami Aircraft Company,3,Miami FL
+1930-02-24 00:00:00.000,airplane (2x),se desconoce,Cuerpo de Aviación del Ejército de Cuba (CAEC),1+1,Machado Airfield
+1930-03-04 00:00:00.000,Travel Air 2000,NC3978,Morey Johnson,3,Beverly Hills CA
+1940-01-01 00:00:00.000,Handley Page Hampden Mk I,P1260,7 Sqn RAF,3,"Snaefell mountain, Isle of Man"
+1940-01-01 00:00:00.000,Lockheed Hudson Mk I,N7232,220 Sqn RAF,4+4,"20 miles E of St Abbs Head, Berwickshire, Scotland"
+1940-01-02 00:00:00.000,Vickers Wellington Mk 1c,N2943,149 Sqn RAF,6,"North Sea, at 54°27' N 05°47' E."
+1940-01-04 00:00:00.000,Messerschmitt Bf 110C,se desconoce,13.(Z)/LG 1 Luftwaffe,2+1,"Randersacker, Bayern"
+1940-01-04 00:00:00.000,Messerschmitt Bf 110C,se desconoce,13.(Z)/LG 1 Luftwaffe,1+2,"Randersacker, Bayern"
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,1./6 DBAP Soviet Air Force,3,Koukkulankangas
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,1./6 DBAP Soviet Air Force,3,Seivässuo
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,4,near the village of Turkia
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,3,Tolppasuo
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,4,Juurikorpi
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,3,near the village of Metso
+1940-01-06 00:00:00.000,Avro Anson Mk I,K6246,48 Sqn RAF,3,"The Hermitage, St. Catherines Down, near Whitwell, Isle of Wight"
+1940-01-07 00:00:00.000,Lockheed Hudson Mk I,N7256,233 Sqn RAF,5,"Mynydd Maendy, near Nant-y-Moel, Ogmore, Glamorgan, Wales"
+1940-01-10 00:00:00.000,Potez 637,n° 184,GR II/55 Armée de l'Air,3,"Blotzheim, Haut-Rhin"
+1940-01-11 00:00:00.000,Lockheed Hudson Mk I,N7262,224 Sqn RAF,4,"North Sea, near Horns Reef, 10 miles off Blåvands Huk"
+1940-01-12 00:00:00.000,Lioré et Olivier LéO 45,17,Armée de l'Air,5,Arles-le-Sambouc
+1940-01-12 00:00:00.000,Beechcraft D17S,NC20768,Maycock Charter Service,4,"Casey, IL"
+1940-01-18 00:00:00.000,Hawker Hurricane Mk 1,L1734,43 Sqn RAF,1+1,"Liddles Field, Red Row, South Broomhill, Northumberland"
+1940-01-19 00:00:00.000,Avro Anson Mk I,N5050,502 (Ulster) Sqn RAF,3,"on the foreshore, some 4 miles east of Rhyl, Denbeighshire"
+1940-01-19 00:00:00.000,Heinkel He 111 H-2,T5+UH,1.(F)/ Aufkl.Gr.O.b.d. Luftwaffe,4,"North Sea, 60 miles east of Aberdeen"
+1940-01-01 00:00:00.000,Handley Page Hampden Mk I,P1260,7 Sqn RAF,3,"Snaefell mountain, Isle of Man"
+1940-01-01 00:00:00.000,Lockheed Hudson Mk I,N7232,220 Sqn RAF,4+4,"20 miles E of St Abbs Head, Berwickshire, Scotland"
+1940-01-02 00:00:00.000,Vickers Wellington Mk 1c,N2943,149 Sqn RAF,6,"North Sea, at 54°27' N 05°47' E."
+1940-01-04 00:00:00.000,Messerschmitt Bf 110C,se desconoce,13.(Z)/LG 1 Luftwaffe,2+1,"Randersacker, Bayern"
+1940-01-04 00:00:00.000,Messerschmitt Bf 110C,se desconoce,13.(Z)/LG 1 Luftwaffe,1+2,"Randersacker, Bayern"
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,1./6 DBAP Soviet Air Force,3,Koukkulankangas
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,1./6 DBAP Soviet Air Force,3,Seivässuo
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,4,near the village of Turkia
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,3,Tolppasuo
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,4,Juurikorpi
+1940-01-06 00:00:00.000,Ilyushin DB-3,se desconoce,3./6 DBAP Soviet Air Force,3,near the village of Metso
+1940-01-06 00:00:00.000,Avro Anson Mk I,K6246,48 Sqn RAF,3,"The Hermitage, St. Catherines Down, near Whitwell, Isle of Wight"
+1940-01-07 00:00:00.000,Lockheed Hudson Mk I,N7256,233 Sqn RAF,5,"Mynydd Maendy, near Nant-y-Moel, Ogmore, Glamorgan, Wales"
+1940-01-10 00:00:00.000,Potez 637,n° 184,GR II/55 Armée de l'Air,3,"Blotzheim, Haut-Rhin"
+1940-01-11 00:00:00.000,Lockheed Hudson Mk I,N7262,224 Sqn RAF,4,"North Sea, near Horns Reef, 10 miles off Blåvands Huk"
+1940-01-12 00:00:00.000,Lioré et Olivier LéO 45,17,Armée de l'Air,5,Arles-le-Sambouc
+1940-01-12 00:00:00.000,Beechcraft D17S,NC20768,Maycock Charter Service,4,"Casey, IL"
+1940-01-18 00:00:00.000,Hawker Hurricane Mk 1,L1734,43 Sqn RAF,1+1,"Liddles Field, Red Row, South Broomhill, Northumberland"
+1940-01-19 00:00:00.000,Avro Anson Mk I,N5050,502 (Ulster) Sqn RAF,3,"on the foreshore, some 4 miles east of Rhyl, Denbeighshire"
+1940-01-19 00:00:00.000,Heinkel He 111 H-2,T5+UH,1.(F)/ Aufkl.Gr.O.b.d. Luftwaffe,4,"North Sea, 60 miles east of Aberdeen"
+1950-01-05 00:00:00.000,Lisunov Li-2,42 red,Soviet AF,19,Sverdlovsk-Koltsovo Airport (SVX)
+1950-01-12 00:00:00.000,Avro Lancaster B Mk III GR,SW363,236 OCU RAF,5,"Tarras Farm, 2 miles SSW of RAF Kinloss, Scotland"
+1950-01-13 00:00:00.000,Waco G-15A,45-5548,United States Air Force (USAF),13,"Lawson AFB, GA"
+1950-01-13 00:00:00.000,de Havilland DH.98 Mosquito PR Mk 34,PF624,81 Sqn RAF,2+2,"near Jesselton, sea off Seria."
+1950-01-13 00:00:00.000,de Havilland DH.98 Mosquito PR Mk 34,RG254,81 Sqn RAF,2+2,"near Jesselton, sea off Seria."
+1950-01-15 00:00:00.000,Stinson 108-1,N8832K,E L Collins,4,"Sterrett near Leeds, AL"
+1950-01-18 00:00:00.000,CASA 352 (Ju-52),T.2-143,Spanish AF,16,6 km NE of Tobarra
+1950-01-21 00:00:00.000,Douglas C-47 (DC-3),TAM-10,TAM,32+1,near Vacas
+1950-01-22 00:00:00.000,Piper PA-11 Cub Special,N4545M,Sunny South Aircraft Service,1+2,"Sunny South Airport, FL"
+1950-01-22 00:00:00.000,Cessna 140,N2923N,Hicks-Kessler Flying Service,2+1,"Sunny South Airport, FL"
+1950-01-05 00:00:00.000,Lisunov Li-2,42 red,Soviet AF,19,Sverdlovsk-Koltsovo Airport (SVX)
+1950-01-18 00:00:00.000,CASA 352 (Ju-52),T.2-143,Spanish AF,16,6 km NE of Tobarra
+1950-01-21 00:00:00.000,Douglas C-47 (DC-3),TAM-10,TAM,32+1,near Vacas
+1960-01-01 00:00:00.000,Airplane,N....,Private,4,"15 mi E of Tallahassee, FL"
+1960-01-01 00:00:00.000,Beechcraft A35 Bonanza,N8417A,Private,4,"near Wetumpka, AL"
+1960-01-02 00:00:00.000,Beechcraft F35 Bonanza,N4262B,Private,4,"Near Opelika, AL"
+1960-01-03 00:00:00.000,Airplane,N....,Private,3,se desconoce
+1960-01-03 00:00:00.000,Douglas C-47A (DC-3),VT-CGG,Indian Airlines,9,"6,5 km NW of Taksing"
+1960-01-04 00:00:00.000,Douglas A3D-1 Skywarrior,135408,United States Navy (USN),4,"off Lopez Island, WA"
+1960-01-05 00:00:00.000,Boeing B-47E Stratojet,52-566,40th BWg USAF,3,"north of Hugoton, Stevens County, Kansas"
+1960-01-06 00:00:00.000,Airplane,N....,Private,3,Texas
+1960-01-09 00:00:00.000,Lockheed Neptune,se desconoce,United States Navy (USN)4,4,"S of Laguna Beach, CA"
+1960-01-12 00:00:00.000,Vought F8U-2 Crusader,145437,United States Navy (USN),0+1,"14 mi S of Cecil Field, FL"
+1960-01-13 00:00:00.000,Fiat G.59-4B ?,se desconoce,Aeronautica Militare Italiana (AMI),0+1,20 km from Cagliari
+1960-01-15 00:00:00.000,Nord 2501 Noratlas,102,French AF,5,12 km S of Ghardaïa
+1960-01-19 00:00:00.000,Martin P4M-1Q Mercator,124365,United States Navy (USN),16,Mt Karanfil
+1960-01-20 00:00:00.000,Douglas C-47 (DC-3),MM61770,Italian AF,5,off Brindisi
+1960-01-21 00:00:00.000,Republic F-84G Thunderjet,MU-R,Luftforsvaret (RNoAF),0+1,Kåsa/Holøydal
+1960-01-21 00:00:00.000,Lockheed L-1049E-55 Super Constellation,HK-177,Avianca,37,Montego Bay Airport (MBJ)
+1960-01-22 00:00:00.000,helicopter (2x),se desconoce,United States Army Aviation,1+1,"2,5 mi S of Camp Wolters, TX"
+1960-01-03 00:00:00.000,Douglas C-47A (DC-3),VT-CGG,Indian Airlines,9,"6,5 km NW of Taksing"
+1960-01-15 00:00:00.000,Nord 2501 Noratlas,102,French AF,5,12 km S of Ghardaïa
+1960-01-20 00:00:00.000,Douglas C-47 (DC-3),MM61770,Italian AF,5,off Brindisi
+1960-01-21 00:00:00.000,Lockheed L-1049E-55 Super Constellation,HK-177,Avianca,37,Montego Bay Airport (MBJ)
+1970-01-02 00:00:00.000,Douglas DC-3,XW-PGJ,"Bird & Sons, opf. Xieng Khouang Air Transport",4,near Long Tieng Airstrip
+1970-01-03 00:00:00.000,Piper PA-24 Comanche,PT-DDT,Private,4,"Taió, SC"
+1970-01-06 00:00:00.000,Mikoyan-Gurevich MiG-21PFM,4311,Czechoslovak Air Force,0+1,Ceské Budejovice
+1970-01-09 00:00:00.000,Piper PA-28-180,N7960W,Private,3,"Trinity Ctr, CA"
+1970-01-09 00:00:00.000,Piper PA-28R,N3035R,Valley Airpark,4,"Stonewall, TX"
+1970-01-10 00:00:00.000,Cessna 172K,N78393,se desconoce,3,"Benson, NC"
+1980-01-02 00:00:00.000,BN-2A-21 Islander,HH-CNC,Haiti Air Inter,9,Grande-Rivière-du-Nord
+1980-01-03 00:00:00.000,Mil Mi-8T,se desconoce,Afghan Air Force,4,near Faizabad
+1980-01-10 00:00:00.000,Aérospatiale SA 341F Gazelle,1176,Aviation Légère de l'Armée de Terre (ALAT),3,Nevers (Niévre)
+1980-01-10 00:00:00.000,Beechcraft 95-B55 Baron,N4643A,Shannon Drilli,4,"N Duncan, OK"
+1980-01-10 00:00:00.000,Piper PA-28R,N3839M,se desconoce,4,"N Kalispell,Mt"
+1980-01-10 00:00:00.000,Mil Mi-8TVK,824,HG18 Volksmarine,3+3,Prohn
+1980-01-10 00:00:00.000,Mil Mi-8TVK,820,HG18 Volksmarine,3+3,Prohn
+1980-01-13 00:00:00.000,Cessna T207A,N73173,se desconoce,6,"near Santa Barbara, CA"
+1980-01-14 00:00:00.000,Bell 206B JetRanger II,HB-XCP,Heliswiss,4,Gruyéres - LSGT
+1980-01-14 00:00:00.000,Cessna 185A,N1690Z,Ambler Air Ser,7,"Shungnak, AK"
+1980-01-17 00:00:00.000,Cessna 182Q,N94839,se desconoce,4,"N Murphy, Id"
+1980-01-18 00:00:00.000,Douglas C-47A (DC-3),L2-13/96,Thai AF,5,off Sri Racha
+1980-01-22 00:00:00.000,Bell OH-58A Kiowa,se desconoce,"'A' Company, 227th Aviation Batallion, US Army",3,"Engineer Lake, Fort Hood, Texas"
+1980-01-02 00:00:00.000,BN-2A-21 Islander,HH-CNC,Haiti Air Inter,9,Grande-Rivière-du-Nord
+1980-01-18 00:00:00.000,Douglas C-47A (DC-3),L2-13/96,Thai AF,5,off Sri Racha
+1990-01-02 00:00:00.000,CASA/Nurtanio NC-212 Aviocar,PK-PCM,Pelita Air Service,9,"Banten Bay, Java Sea"
+1990-01-10 00:00:00.000,Cessna 210M Centurion,CC-LLD,Club Aéreo del Personal de Carabineros (CAPC),5,near Copiapó
+1990-01-12 00:00:00.000,Cessna 182P,N5831J,Private,3,"Tom's Place, CA"
+1990-01-13 00:00:00.000,Tupolev Tu-134A,CCCP-65951,"Aeroflot, North Kavkaz",27,3 km E of Pervouralsk
+1990-01-16 00:00:00.000,Cessna 310R,N5115J,Malcolm French,3,"Burlington, VT"
+1990-01-17 00:00:00.000,MBB Bo 105C,C-09,Carabineros de Chile,5,"Río Cuervo, Aysén"
+1990-01-18 00:00:00.000,Piper PA-28-161,N8251B,Daniel Tompkins,4,"Burbank, CA"
+1990-01-20 00:00:00.000,Robin DR.400-180R Remorqueur,OE-KHP,Fliegerclub St. Johann in Tirol,4,"Schartenkogel, St. Jakob in Haus"
+1990-01-02 00:00:00.000,CASA/Nurtanio NC-212 Aviocar,PK-PCM,Pelita Air Service,9,"Banten Bay, Java Sea"
+1990-01-13 00:00:00.000,Tupolev Tu-134A,CCCP-65951,"Aeroflot, North Kavkaz",27,3 km E of Pervouralsk
+2000-01-03 00:00:00.000,Piper PA-28-161 Cadet,F-GKBR,se desconoce,4,"Abreschwiller, Moselle 57"
+2000-01-05 00:00:00.000,Cessna 172M Skyhawk,PT-KLB,Private,4,"Poconé, MT"
+2000-01-05 00:00:00.000,Embraer EMB-110P1A Bandeirante,5N-AXL,Skypower Express,1+1,Abuja International Airport (ABV)
+2000-01-05 00:00:00.000,Beechcraft E55 Baron,PT-KMB,Private,5,"Pico dos Três Estados, Mantiqueira Mountains"
+2000-01-13 00:00:00.000,Shorts 360-300,HB-AAM,"Avisto, opf. Sirte Oil Company",22,5 km off Marsa el-Brega
+2000-01-14 00:00:00.000,Lockheed C-130B Hercules,TAM60,Bolivian AF,5,Chimore Airport
+2000-01-15 00:00:00.000,Let L-410UVP-E,YS-09-C,TACSA,5,San José
+2000-01-18 00:00:00.000,Beechcraft C90 King Air,N74CC,Hart Corp. Delaware Div.,4,"Somerset, KY"
+2000-01-19 00:00:00.000,Mil Mi-8,se desconoce,Armenian Air Force,6,southeastern Armenia
+2010-01-06 00:00:00.000,Cessna 206 Stationair,AEE 165,Grupo Aéreo del Ejército /  GAE-44,6,"Shell, provincia de Pastaza, near Mamayak"
+2010-01-10 00:00:00.000,Mooney M20F Executive,CC-PRM,Private,4,"La Cachimba, 22 km to La Serena"
+2010-01-10 00:00:00.000,Agusta A109E Power,XA-LSA,AeroSaba SA,5,"San Lorenzo Acopilco, Mexico City"
+2020-01-02 00:00:00.000,Antonov An-12A,-,Sudan AF,18,5 km from Geneina Airport (EGN)
+2020-01-02 00:00:00.000,Sikorsky UH-60M Black Hawk,933,Republic of China Air Force (ROCAF),8,"Wulei District, New Taipei City"
+2020-01-03 00:00:00.000,Harbin Yunshuji Y-12 II,SCL-857,Sri Lanka AF,4,near Haputale
+2020-01-04 00:00:00.000,Mooney M20J 205 MSE,F-OIAT,Private,4,"Hnatalo, Lifou"
+2020-01-02 00:00:00.000,Antonov An-12A,-,Sudan AF,18,5 km from Geneina Airport (EGN)
+2020-01-03 00:00:00.000,Harbin Yunshuji Y-12 II,SCL-857,Sri Lanka AF,4,near Haputale
+1902-02-01 00:00:00.000,Parseval-Sigsfeld Drache,se desconoce,Luftschiffers Bataillon,1,"Zwijndrecht, Antwerp"
+1902-05-20 00:00:00.000,Lieut George Philip Lempriere Gas Balloon,Unregistered,Lieut George Philip Lempriere,1,"Sheffield Wednesday FC Ground, Owlerton, Sheffield, South Yorkshire"
+1910-06-09 00:00:00.000,Bleriot XI,Unregistered,"Ernest Charles Clayden, alias 'Captain Cecil Clayton'",0+1,"Agricultural Showground, Worcester, Worcestershire."
+1910-07-09 00:00:00.000,"Gas balloon, Spencer Bros.",Unregistered,Spencer Brothers,1,"Coventry, Warwickshire"
+1910-12-22 00:00:00.000,Shorts S.27,Unregistered,Cecil Stanley Grace,1,"English Channel, about 6 miles offshore, near the Goodwin Sands"
+1910-06-09 00:00:00.000,Bleriot XI,Unregistered,"Ernest Charles Clayden, alias 'Captain Cecil Clayton'",0+1,"Agricultural Showground, Worcester, Worcestershire."
+1910-07-09 00:00:00.000,"Gas balloon, Spencer Bros.",Unregistered,Spencer Brothers,1,"Coventry, Warwickshire"
+1910-12-22 00:00:00.000,Shorts S.27,Unregistered,Cecil Stanley Grace,1,"English Channel, about 6 miles offshore, near the Goodwin Sands"
+1920-04-05 00:00:00.000,Royal Aircraft Factory R.E.8,D6709,6 Sqn RAF,,Iraq
+1920-05-03 00:00:00.000,Curtiss JN-4,G-CAAB,se desconoce,,"Saskatoon, SK"
+1920-04-05 00:00:00.000,Royal Aircraft Factory R.E.8,se desconoce,6 Sqn RAF,,Iraq
+1920-05-03 00:00:00.000,Curtiss JN-4,se desconoce,se desconoce,,"Saskatoon, SK"
+1930-01-19 00:00:00.000,Ford 5-AT-C Tri-Motor,NC9689,Maddux Airlines,16,"Oceanside, CA"
+1930-02-10 00:00:00.000,Farman F.63bis Goliath,F-FHMY,Air Union,2,"Marden, Kent"
+1930-02-18 00:00:00.000,Vickers Virginia Mk X,J7420,7 Sqn RAF,,"RAF Worthy Down, Hampshire"
+1930-02-19 00:00:00.000,Caudron C.60,CA-74,Finnish Air Force,2,unspecified
+1930-02-18 00:00:00.000,Vickers Virginia Mk X,J7420,7 Sqn RAF,,"RAF Worthy Down, Hampshire"
+1930-02-19 00:00:00.000,Caudron C.60,CA-74,Finnish Air Force,2,unspecified
+1940-01-08 00:00:00.000,Hawker Audax Mk I,K5151,5 FTS RAF,1,"Irish Sea, off the Isle of Man"
+1940-01-08 00:00:00.000,Hawker Audax Mk I,K5151,5 FTS RAF,1,"Irish Sea, off the Isle of Man"
+1950-01-01 00:00:00.000,Lockheed 414-08 Hudson IVA,VH-SMK,John Fairfax & Sons,2,"near Camden Airport, NSW (CDU)"
+1950-01-05 00:00:00.000,de Havilland DH.98 Mosquito B Mk 35,VP199,109 Sqn RAF,2,"Mickle Fell, Co.Durham, North Yorkshire, England."
+1950-01-10 00:00:00.000,Nord 1203 Norécrin,se desconoce,se desconoce,,se desconoce
+1950-01-01 00:00:00.000,Lockheed 414-08 Hudson IVA,VH-SMK,John Fairfax & Sons,2,"near Camden Airport, NSW (CDU)"
+1960-01-04 00:00:00.000,U-1A Otter (DHC-3),55-2974,US Army,10,Gulf of Sirte
+1960-01-06 00:00:00.000,Douglas DC-6B,N8225H,National Airlines,34,"2,4 km NW of Bolivia, NC"
+1960-01-18 00:00:00.000,Vickers 745D Viscount,N7462,Capital Airlines,50,"11 km ENE of Charles City, VA"
+1960-01-19 00:00:00.000,SE-210 Caravelle I,OY-KRB,SAS,42,ca 10 km SW of Ankara-Esenboga Airport (ESB)
+1960-01-04 00:00:00.000,U-1A Otter (DHC-3),55-2974,US Army,10,Gulf of Sirte
+1960-01-06 00:00:00.000,Douglas DC-6B,N8225H,National Airlines,34,"2,4 km NW of Bolivia, NC"
+1960-01-18 00:00:00.000,Vickers 745D Viscount,N7462,Capital Airlines,50,"11 km ENE of Charles City, VA"
+1960-01-19 00:00:00.000,SE-210 Caravelle I,OY-KRB,SAS,42,ca 10 km SW of Ankara-Esenboga Airport (ESB)
+1970-01-04 00:00:00.000,Boeing 707-340C,AP-AUN,PIA,,Brussel-Zaventem Airport (BRU)
+1970-01-05 00:00:00.000,Convair CV-990,EC-BNM,Spantax,5,ca 1 km SW of Stockholm-Arlanda Airport (ARN)
+1970-01-09 00:00:00.000,Douglas C-47 (DC-3),se desconoce,RAPSA,1,David City
+1970-01-10 00:00:00.000,Piper PA-25-235 Pawnee,ZK-BZE,se desconoce,,"Ararata, Taranaki"
+1970-01-10 00:00:00.000,Grumman G-21A Goose,N329,Catalina Seaplanes,0+2,"Avalon, CA"
+1970-01-11 00:00:00.000,Cessna 337 Super Skymaster,N2254X,se desconoce,1,"Apalachin, NY"
+1970-01-01 00:00:00.000,1/1/1970,SE-210 Caravelle VI-R,PP-PDZ,Cruzeiro do Sul,0
+1970-01-02 00:00:00.000,2/1/1970,Douglas DC-3,XW-PGJ,"Bird & Sons, opf. Xieng Khouang Air Transport",4
+1970-01-02 00:00:00.000,2/1/1970,Lockheed 18 Learstar II,N13VV,Sky King,0
+1970-01-03 00:00:00.000,3/1/1970,Fairchild C-123K Provider,54-688,USAF,0
+1970-01-05 00:00:00.000,5/1/1970,Fokker F-27 Friendship 600,EC-BOD,Iberia,0
+1970-01-05 00:00:00.000,5/1/1970,Convair CV-990,EC-BNM,Spantax,5
+1970-01-06 00:00:00.000,7/1/1970,DC-9,se desconoce,Delta Air Lines,0
+1970-01-07 00:00:00.000,8/1/1970,Convair CV-440-62,EC-ATG,Iberia,0
+1970-01-08 00:00:00.000,8/1/1970,Boeing 707,se desconoce,TWA,0
+1970-01-09 00:00:00.000,9/1/1970,Douglas C-47 (DC-3),se desconoce,RAPSA,1
+1970-01-09 00:00:00.000,9/1/1970,Vickers 768D Viscount,VT-DJB,Indian Airlines,0
+1970-01-11 00:00:00.000,11/1/1970,DC-9-31,N1308T,Texas International,0
+1980-01-01 00:00:00.000,Cessna 210,ZS-FCL,Private,,FACT
+1980-01-05 00:00:00.000,ERCO 415-C Ercoupe,N87156,se desconoce,1,"Mooreville,Ms"
+1980-01-06 00:00:00.000,Maule M-4-210C,ZK-DON,T Laver,,"Makarora, Otago"
+1980-01-07 00:00:00.000,Antonov An-12BP,se desconoce,Soviet AF,1,Kabul Airport (KBL)
+1980-01-09 00:00:00.000,Slingsby T.41 Skylark 2B,ZK-GCE,Taranaki Gliding Club,,"German Hill, Taranaki"
+1980-01-09 00:00:00.000,Maule M-5-210C,ZK-DVF,Southern Alps Air Charter Ltd,,"near Makarora, Otago"
+1980-01-12 00:00:00.000,Piper PA-28-180,N9388J,Private,4,"N Logan, UT"
+1980-01-13 00:00:00.000,Hughes 269C,ZK-HJS,Astro Helicopters Ltd,,"Raupunga, Hawke's Bay"
+1980-01-19 00:00:00.000,Piper PA-18,N3351A,se desconoce,1,"N Kelton, Vt"
+1980-01-21 00:00:00.000,Boeing 727-86,EP-IRD,Iran Air,128,29 km N of Tehran-Mehrabad Airport (THR)
+1980-01-07 00:00:00.000,Antonov An-12BP,se desconoce,Soviet AF,1,Kabul Airport (KBL)
+1980-01-21 00:00:00.000,Boeing 727-86,EP-IRD,Iran Air,128,29 km N of Tehran-Mehrabad Airport (THR)
+1990-01-05 00:00:00.000,Mil Mi-8T,CCCP-24202,Aeroflot/Georgia,1,near Gudauri
+1990-01-06 00:00:00.000,Lockheed L-1329 JetStar 731,N96GS,Grecoair,1,"Miami International Airport, FL (MIA)"
+1990-01-14 00:00:00.000,Boeing 747,se desconoce,British Airways,0+1,"Piarco Int Airport, Trinidad"
+1990-01-15 00:00:00.000,CASA C-212 Aviocar 200,TI-SAB,SANSA,23,16 km SSE of San José-Juan Santamaria International Airport (SJO)
+1990-01-17 00:00:00.000,Cessna 208A Cargomaster,N835FE,Federal Express,1,"17 km SW of Leadville, CO"
+1990-01-18 00:00:00.000,Learjet 23,N331DP,Aeroflite Services,2,"Ansonia, OH"
+1990-01-18 00:00:00.000,Beech A100 King Air,N44UE,Epps Air Service,1,"Atlanta-William B. Hartsfield International Airport, GA (ATL)"
+1990-01-18 00:00:00.000,Boeing 727-225,N8867E,Eastern Air Lines,0+1,"Atlanta-William B. Hartsfield International Airport, GA (ATL)"
+1990-01-19 00:00:00.000,Gulfstream American G-1159 Gulfstream II,N46TE,Eastman Kodak,7,"Little Rock National Airport, AR (LIT)"
+1990-01-06 00:00:00.000,Lockheed L-1329 JetStar 731,N96GS,Grecoair,1,"Miami International Airport, FL (MIA)"
+1990-01-15 00:00:00.000,CASA C-212 Aviocar 200,TI-SAB,SANSA,23,16 km SSE of San José-Juan Santamaria International Airport (SJO)
+1990-01-17 00:00:00.000,Cessna 208A Cargomaster,N835FE,Federal Express,1,"17 km SW of Leadville, CO"
+1990-01-18 00:00:00.000,Learjet 23,N331DP,Aeroflite Services,2,"Ansonia, OH"
+1990-01-18 00:00:00.000,Beech A100 King Air,N44UE,Epps Air Service,1,"Atlanta-William B. Hartsfield International Airport, GA (ATL)"
+1990-01-18 00:00:00.000,Boeing 727-225,N8867E,Eastern Air Lines,0+1,"Atlanta-William B. Hartsfield International Airport, GA (ATL)"
+1990-01-19 00:00:00.000,Gulfstream American G-1159 Gulfstream II,N46TE,Eastman Kodak,7,"Little Rock National Airport, AR (LIT)"
+2000-01-01 00:00:00.000,se desconoce,se desconoce,se desconoce,,se desconoce
+2000-01-01 00:00:00.000,Helibras AS 350 B2,PT-HZQ,se desconoce,,"Brasília, DF"
+2000-01-03 00:00:00.000,Piper PA-24-180,N5703P,Private,2,"Cordesville, SC"
+2000-01-06 00:00:00.000,Embraer EMB-201 Ipanema,PT-GHV,Rondon Aviação Agrícola Ltda,1,"Campos de Júlio, MT"
+2000-01-06 00:00:00.000,Cessna 310N,N70CM,Tech Aviation,2,"Old Forge, PA"
+2000-01-07 00:00:00.000,Antonov An-26,D2-FBR,Unknown,,se desconoce
+2000-01-07 00:00:00.000,Cessna 150G,N3721J,Private,1,"Marysville, WA"
+2000-01-09 00:00:00.000,Cessna 172,HK-2573-P,se desconoce,,Vaupés
+2000-01-10 00:00:00.000,Saab 340B,HB-AKK,Crossair,10,near Nassenwil
+2000-01-13 00:00:00.000,de Havilland Canada DHC-2 Beaver,C-FIVA,Cargair,3,"Lac Adonis, Québec"
+2000-01-16 00:00:00.000,Beechcraft P35 Bonanza,N9740Y,Private,1,"Rogersville, TN"
+2000-01-18 00:00:00.000,Cessna 195,N3448V,Private,1,"Willard, KY"
+2000-01-03 00:00:00.000,3/1/2000,Beech 200 Super King Air,A2-AEZ,Kalahari Air Services & Charter,se desconoce
+2000-01-05 00:00:00.000,5/1/2000,Embraer EMB-110P1A Bandeirante,5N-AXL,Skypower Express,1+1
+2000-01-07 00:00:00.000,7/1/2000,Antonov An-26,D2-FBR,Unknown,se desconoce
+2000-01-09 00:00:00.000,9/1/2000,Boeing 747-230F,HL7441,Korean Air,0
+2000-01-10 00:00:00.000,10/1/2000,Saab 340B,HB-AKK,Crossair,10
+2000-01-13 00:00:00.000,13/1/2000,Shorts 360-300,HB-AAM,"Avisto, opf. Sirte Oil Company",22
+2000-01-14 00:00:00.000,14/1/2000,Lockheed C-130B Hercules,TAM60,Bolivian AF,5
+2000-01-14 00:00:00.000,14/1/2000,Hawker Siddeley HS-748,HC-BEY,TAME Ecuador,0
+2000-01-15 00:00:00.000,16/1/2000,Let L-410UVP-E,YS-09-C,TACSA,5
+2010-01-04 00:00:00.000,Cessna 172S Skyhawk SP,N5118J,"American King Air Services, Inc.",1,"In a river off Olamon Island near Greenbush , ME"
+2010-01-05 00:00:00.000,Bell 206B-3 JetRanger III,N5016U,California Department of Fish and Game,4,"Near Redinger Lake, California"
+2010-01-05 00:00:00.000,Learjet 35A,N720RA,Royal Air Freight,2,"ca 2,5 km S of Chicago-Executive Airport, IL (PWK)"
+2010-01-06 00:00:00.000,Airbus A319-112,EI-DFP,Meridiana,,Firenze
+2010-01-08 00:00:00.000,Van's RV-8,N747CL,Private,2,"near Sequim Valley Airport (KW28), WA"
+2010-01-09 00:00:00.000,Airborne Streak 2,N155TD,Private,2,"Near Lake Isabella, about 40 miles east of Bakersfield, CA"
+2010-01-10 00:00:00.000,Helibras AS 350 B3,PP-MAW,se desconoce,,"São Paulo, SP"
+2010-01-10 00:00:00.000,Piper PA-32-300 Cherokee Six,N8934N,Private,2,"On the mountaintop above Wilhemina Rise, East Oahu, Hawaii"
+2010-01-11 00:00:00.000,Neiva EMB-202A,PT-UTM,se desconoce,,"Primavera do Leste, MT"
+2010-01-11 00:00:00.000,British Aerospace ATP-F(LFD),SE-MAP,West Air Sweden,,Helsinki-Vantaa Airport (HEL/EFHK)
+2010-01-12 00:00:00.000,Neiva EMB-720C,PT-EOS,se desconoce,,"Gurupá, PA"
+2010-01-13 00:00:00.000,Glasair III,N540WF,Private,1,"Near Christian Street, southwest of Waterbury-Oxford Airport, CT"
+2010-01-13 00:00:00.000,Cessna,VH-,se desconoce,,"Ngukurr, NT"
+2010-01-14 00:00:00.000,Boeing 737-8AS (WL),EI-EBL,Ryanair,,Girona-Costa Brava Airport (GRO/LEGE)
+2010-01-14 00:00:00.000,Quad City Challenger II,Unreg,se desconoce,1,"Palmetto, Florida"
+2010-01-15 00:00:00.000,Van's RV-4,N107SS,Private,2,"600 feet from Lake Cypress Drive, Leetown, Hancock County, MS"
+2010-01-05 00:00:00.000,Learjet 35A,N720RA,Royal Air Freight,2,"ca 2,5 km S of Chicago-Executive Airport, IL (PWK)"
+2020-01-05 00:00:00.000,Beech B300 King Air 350,se desconoce,L3 Technologies,2,Manda Bay-Camp Simba Air Base
+2020-01-08 00:00:00.000,Boeing 737-8KV (WL),UR-PSR,Ukraine International Airlines,176,near Sabashahr
+2020-01-10 00:00:00.000,Air Creation Tanarg,se desconoce,Livingstone’s Adventure Grp/Batoka Sky Adventures,1,"Livingstone, Southern Province"
+2020-01-05 00:00:00.000,Beech B300 King Air 350,se desconoce,L3 Technologies,2,Manda Bay-Camp Simba Air Base
+2020-01-08 00:00:00.000,Boeing 737-8KV (WL),UR-PSR,Ukraine International Airlines,176,near Sabashahr
+1910-04-10 00:00:00.000,Curtis Biplane,se desconoce,"J. C, Mars {pilot}",0,Memphis Tenn
+1910-04-10 00:00:00.000,Curtis Biplane,se desconoce,"J. C, Mars {pilot}",0,Memphis Tenn
+1930-02-03 00:00:00.000,De Havilland DH-60G Gipsy Moth,G-EBZY,N S Chalmers,0,"Suva, Viti Levu"
+1930-02-04 00:00:00.000,Breguet 19,se desconoce,Private,0,Rome
+1930-02-03 00:00:00.000,De Havilland DH-60G Gipsy Moth,G-EBZY,N S Chalmers,0,"Suva, Viti Levu"
+1930-02-04 00:00:00.000,Breguet 19,se desconoce,Private,0,Rome
+1940-01-05 00:00:00.000,Fokker D.XXI,234,LVA,0,"Graft, Noord-Holland"
+1940-01-08 00:00:00.000,Supermarine Spitfire Mk I,K9948,616 (South Yorkshire) Sqn RAF,0,"RAF Church Fenton, Yorkshire"
+1940-01-09 00:00:00.000,Supermarine Spitfire Mk I,K9933,602 (City of Glasgow) Sqn RAF,0,"RAF Drem, East Lothian"
+1940-01-16 00:00:00.000,Supermarine Spitfire Mk I,K9928,72 Sqn RAF,0,"RAF Church Fenton, Yorkshire"
+1940-01-05 00:00:00.000,Fokker D.XXI,234,LVA,0,"Graft, Noord-Holland"
+1940-01-08 00:00:00.000,Supermarine Spitfire Mk I,K9948,616 (South Yorkshire) Sqn RAF,0,"RAF Church Fenton, Yorkshire"
+1940-01-09 00:00:00.000,Supermarine Spitfire Mk I,K9933,602 (City of Glasgow) Sqn RAF,0,"RAF Drem, East Lothian"
+1940-01-16 00:00:00.000,Supermarine Spitfire Mk I,K9928,72 Sqn RAF,0,"RAF Church Fenton, Yorkshire"
+1950-01-05 00:00:00.000,de Havilland DH.98 Mosquito FB Mk VI/B-36,MM430,Letecký pluk 25 ČsL,0,"Praha - Kbely airfield, ČSR."
+1960-01-07 00:00:00.000,Vickers 802 Viscount,G-AOHU,BEA,0,London Airport (LHR)
+1960-01-09 00:00:00.000,Auster J/1B Aiglet,ZK-AWI,se desconoce,0,"Ardmore Aerodrome, Auckland"
+1960-01-09 00:00:00.000,Piper PA-23-160 Apache E,PZ-TAI,Surinaamse Luchtvaart Maatschappij,0,"Zorg en Hoop, Paramaribo"
+1960-01-13 00:00:00.000,Piper PA-18,ZK-APJ,se desconoce,0,Duplicate Record
+1960-01-07 00:00:00.000,Vickers 802 Viscount,G-AOHU,BEA,0,London Airport (LHR)
+1970-01-01 00:00:00.000,SE-210 Caravelle VI-R,PP-PDZ,Cruzeiro do Sul,0,Havana-José Martí International Airport (HAV)
+1970-01-03 00:00:00.000,Piper PA-28-140 Cherokee,ZK-CEQ,Waitemata Aero Club,0,"Ardmore Aerodrome, Auckland"
+1970-01-06 00:00:00.000,DC-9,se desconoce,Delta Air Lines,0,"Jacksonville International Airport, FL (JAX)"
+1970-01-07 00:00:00.000,Convair CV-440-62,EC-ATG,Iberia,0,Zaragoza Airport (ZAZ)
+1970-01-08 00:00:00.000,Boeing 707,se desconoce,TWA,0,Beirut International Airport (BEY)
+1970-01-10 00:00:00.000,Piper PA-18A-150 Super Cub,ZK-BPA,se desconoce,0,"Dannevirke Aerodrome, Hawke's Bay"
+1980-01-13 00:00:00.000,Hughes 269C,ZK-HJM,Marine Helicopters Ltd,0,"Ardmore Aerodrome, Auckland"
+1980-01-14 00:00:00.000,DC-9-32,I-DIZI,Alitalia,0,Palermo-Punta Raisi Airport (PMO)
+1980-01-17 00:00:00.000,NZAI Fletcher FU24-950,ZK-EGI,se desconoce,0,"Stirling, Otago"
+1980-01-18 00:00:00.000,Boeing 720,se desconoce,MEA,0,Beirut International Airport (BEY)
+1980-01-14 00:00:00.000,DC-9-32,I-DIZI,Alitalia,0,Palermo-Punta Raisi Airport (PMO)
+1980-01-18 00:00:00.000,Boeing 720,se desconoce,MEA,0,Beirut International Airport (BEY)
+1990-01-01 00:00:00.000,Aérospatiale / BAC Concorde 101,se desconoce,Air France,0,"New York-John F. Kennedy International Airport, NY (JFK)"
+1990-01-07 00:00:00.000,Curtiss C-46A-5-CU,CP-746,Transportes Aéreos Universal,0,El Alto International Airport (LPB)
+1990-01-16 00:00:00.000,Boeing 737-300,se desconoce,America West,0,"Austin-Robert Mueller Municipal, TX (AUS)"
+1990-01-18 00:00:00.000,McDonnell Douglas DC-9-51,N405EA,Eastern Airlines,0,"Philadelphia, PA"
+1990-01-16 00:00:00.000,Boeing 737-300,se desconoce,America West,0,"Austin-Robert Mueller Municipal, TX (AUS)"
+2000-01-10 00:00:00.000,Cessna 310H,ZS-CZB,se desconoce,0,Nelspruit Runway 22
+2000-01-16 00:00:00.000,Robin DR.400,F-GBIY,se desconoce,0,Ussel - 19
+2010-01-03 00:00:00.000,McDonnell Douglas MD-82,I-SMEB,Meridiana,0,Torino-Caselle
+2010-01-03 00:00:00.000,Boeing 737-86J (WL),D-ABKF,Air Berlin plc & Co KG,0,Dortmund
+2010-01-03 00:00:00.000,Boeing 767-346,JA8299,Japan Airlines,0,New Chitose Airport (RJCC/CTS)
+2010-01-03 00:00:00.000,Boeing 737-8K5 (WL),PH-TFB,Arkefly/TUI Airlines,0,Rovaniemi
+2010-01-04 00:00:00.000,Boeing 737-8AS,EI-EFW,Ryanair,0,Liverpool-John Lennon International Airport (LPL/EGGP)
+2010-01-07 00:00:00.000,Convair CV-580,VH-PDW,Pionair Australia,0,"74 km S of Tamworth (BWU), NSW"
+2010-01-08 00:00:00.000,Boeing 737-82R,D-ABKA,Air Berlin,0,Nürnberg Airport (NUE)
+2010-01-09 00:00:00.000,Ilyushin Il-76TD,EP-GOM,Yas Air Iran,0,Kyiv-Boryspil
+2010-01-10 00:00:00.000,ATR 72-500 (72-212A),PP-PTO,TRIP,0,"Foz do Iguaçu/Cataratas Airport, PR (IGU/SBFI)"
+2010-01-10 00:00:00.000,Boeing 737-8AS,EI-EBC,Ryanair,0,Stockholm-Skavsta Airport (NYO/ESKN)
+2010-01-12 00:00:00.000,Chincul (Piper) PA-A-25-235 Pawnee,LV-MRB,se desconoce,0,"Ex Estación El Día- Piedritas, BA"
+2010-01-13 00:00:00.000,Cessna 177B Cardinal,CF-ZGS,Private,0,"Trans-Can. Highway/Lewvan Drive Intersection, Regina, Saskatchewan"
+2010-01-14 00:00:00.000,Bell 206L-1 LongRanger II,N258AE,Air Evac EMS Inc.,0,"Springfield, Illinois"
+2010-01-15 00:00:00.000,Piper PA-28-161 Cadet,N9225N,Euro American School of Aviation,0,"East of Crescent Lake, south of State Road 100, Flagler County, FL"
+2010-01-15 00:00:00.000,Helibras HB.350B Esquilo,PT-HLE,JVC Aero Taxi,0,"Missing, near Canatuma, between Manaus and Lábrea"
+2020-01-01 00:00:00.000,de Havilland Canada DHC-8-402Q Dash 8,VH-LQM,QantasLink,0,"Rockhampton, QLD"
+2020-01-01 00:00:00.000,Boeing 757-232 (WL),N687DL,Delta Air Lines,0,Mexico City-Benito Juárez International Airport (MEX/MMMX)
+2020-01-01 00:00:00.000,Bombardier CRJ-1000ER,F-HMLL,"HOP!, opf Air France",0,"In flight, passing Alpes"
+2020-01-01 00:00:00.000,Gulfstream G IV,N962SS,Executive Charters Inc,0,"Van Nuys, CA"
+2020-01-01 00:00:00.000,Airbus A350-941,HS-THF,Thai Airways International,0,Frankfurt International Airport (FRA/EDDF)
+2020-01-01 00:00:00.000,Airbus A320-271N,VT-IVS,IndiGo,0,On its Way to Singapore
+2020-01-01 00:00:00.000,Balloon,se desconoce,Red Rock Balloon Adventures,0,"North of Sedona Airport (SEZ/KSEZ), Sedona, AZ"
+2020-01-02 00:00:00.000,Airbus A340-343,TC-JNI,THY Turkish Airlines,0,Cape Town International (FACT)
+2020-01-02 00:00:00.000,Cessna 525C CitationJet CJ4,N8GQ,Private,0,"Heber City Municipal Airport, UT (HCR)"
+2020-01-02 00:00:00.000,Airbus A320-232,G-EUYM,British Airways,0,"near London-Heathrow Airport, Hounslow, Middlesex"
+2020-01-03 00:00:00.000,de Havilland Canada DHC-8-311 Dash 8,C-FSOU,Air Canada Jazz,0,Montreal Pierre Elliot Trudeau Airport
+2020-01-03 00:00:00.000,Maxair Drifter XP-R503L,JR0251,Private,0,"Nagama, Gusukube, Miyako city, Okinawa prefecture"
+2020-01-03 00:00:00.000,Cessna 172S Skyhawk SP,LN-AZA,OSM Aviation Academy AS,0,"Sola TMA (ENZV), between Lysefjorden and Hunnedalen"
+2020-01-03 00:00:00.000,Cessna 501 Citation 1/SP,VH-FCS,Aust. Corp Jet Centres,0,"Moorabbin Airport (MBW/YMMB), VIC"
+2020-01-03 00:00:00.000,Mooney M22 Mustang,HB-DVY,Private,0,Aerodrom Portorož
+2020-01-04 00:00:00.000,helicopter,se desconoce,MONUSCO,0,around Camp Madina (40 km NE of Beni)
+2020-01-04 00:00:00.000,Airbus A320-232 (WL),HA-LYD,Wizz Air Hungary,0,Debrecen Airport
+2020-01-04 00:00:00.000,Mil Mi-8T,RA-22495,Vitiaz-Aero,0,"Mutnovskiy volcano, Kamchatka Region"
+2020-01-04 00:00:00.000,Boeing 717-2BD,N946AT,Delta Air Lines,0,"Green Bay-Austin-Straubel Airport, WI"
+2020-01-04 00:00:00.000,Airbus A319-114,C-GAPY,Air Canada,0,"87 nm ENE of Kelowna, BC"
+2020-01-05 00:00:00.000,DHC-8-202Q,N8200L,USSOCOM,0,Manda Bay-Camp Simba Air Base
+2020-01-05 00:00:00.000,Pipistrel Virus SW 121,OH-VAK,Private,0,Haukkanevantie Jalasjärvi
+2020-01-05 00:00:00.000,Boeing 737-8CT (WL),C-FUJR,WestJet,0,"Halifax-Stanfield International Airport, NS (YHZ/CYHZ)"
+2020-01-06 00:00:00.000,Mil Mi-35,HS-7154,Indonesian National Disaster Management Agency,0,"Gesit Field,  Sawangbendar Village, Tahuna District"
+2020-01-06 00:00:00.000,Cessna 172S Skyhawk SP,EI-DDX,Atlantic Flight Training Academy,0,Cork Airport (ORK/EICK)
+2020-01-07 00:00:00.000,Airbus A320-271N,VT-WGC,GoAir,0,Delhi Airport
+2020-01-07 00:00:00.000,Globe GC-1B Swift,N3762K,Private,0,"Aurora State Airport (KUAO), Aurora, OR"
+2020-01-07 00:00:00.000,Viking Air DHC-6 Twin Otter 400,9M-SSE,MASwings,0,Miri Airport (MYY/WBGR)
+2020-01-08 00:00:00.000,MQ-1 Predator,se desconoce,United States Air Force (USAF),0,Ain al-Assad Airbase
+2020-01-08 00:00:00.000,Cessna 172S Skyhawk SP,N536ND,Phoenix East Aviation,0,"Palm Coast, Florida"
+2020-01-08 00:00:00.000,ATR 42-600,JA07JC,Japan Air Commuter,0,Amami Airport (ASJ/RJKA)
+2020-01-08 00:00:00.000,Bell 212,CC-ATN,se desconoce,0,"Victoria, La Auracania"
+2020-01-09 00:00:00.000,Boeing 737-760 (WL),ET-ALN,Ethiopian Airlines,0,Dire Dawa-Aba Tenna D Yilma Airport (DIR/HADR)
+2020-01-09 00:00:00.000,Fokker 100,VH-NHY,"QantasLink, op by Network Aviation",0,"Newman Airport, WA (ZNE/YNWN)"
+2020-01-10 00:00:00.000,Light plane,fake reg.,Unknown,0,"Concordia, SC"
+2020-01-10 00:00:00.000,Mil Mi-8T,RA-22901,KrasAvia,0,"Krasnoyarsk Krai, Siberia"
+2020-01-10 00:00:00.000,Hawker Siddeley HS-748 Series 2A,C-FFFS,Wasaya Airways,0,"Kingfisher Lake Airport (CNM5), ON"
+2020-01-11 00:00:00.000,Bombardier CRJ-200ER,HI-1033,Air Century,0,La Isabela Dr Joaquin Balaguer International Airport (JBQ/MDJB)
+2020-01-05 00:00:00.000,DHC-8-202Q,N8200L,USSOCOM,0,Manda Bay-Camp Simba Air Base
+1910-04-23 00:00:00.000,Curtiss Biplane,se desconoce,F E van Riemsdijk,0,Mediterranean Sea near Cap Ferrat
+1910-08-09 00:00:00.000,Bleriot Monoplane,se desconoce,Ernest Archer,0,"Molenheide, Rijen, Noord-Brabant"
+1910-10-04 00:00:00.000,"Harold H. Piffard No.2 ""Hummingbird"" Biplane",Unregistered,Harold H. Piffard,0,"Sussex Pad Hotel, Shoreham, West Sussex"
+1910-10-23 00:00:00.000,Blériot XI,se desconoce,se desconoce,0,"Belmont Park, NY"
+0,Blériot XI,-,John B Moisant,0,Belmont Park racetrack in New York
+1910-04-23 00:00:00.000,Curtiss Biplane,se desconoce,F E van Riemsdijk,0,Mediterranean Sea near Cap Ferrat
+1910-08-09 00:00:00.000,Bleriot Monoplane,se desconoce,Ernest Archer,0,"Molenheide, Rijen, Noord-Brabant"
+1910-10-04 00:00:00.000,"Harold H. Piffard No.2 ""Hummingbird"" Biplane",Unregistered,Harold H. Piffard,0,"Sussex Pad Hotel, Shoreham, West Sussex"
+1910-10-23 00:00:00.000,Blériot XI,se desconoce,se desconoce,0,"Belmont Park, NY"
+0,Blériot XI,-,John B Moisant,0,Belmont Park racetrack in New York
+1920-03-07 00:00:00.000,H. D. Hanriot - Biplano,se desconoce,se desconoce,0,"Hipódromo del Paraíso - Caracas, Venezuela"
+1920-03-29 00:00:00.000,Curtiss NC-2,A2292,US Navy,0,"Atlantic Ocean off Atlantic City, NJ"
+1920-05-13 00:00:00.000,De Havilland DH-6,Unreg,New Zealand Flying School,0,"Gisborne, East Coast"
+1920-03-07 00:00:00.000,H. D. Hanriot - Biplano,se desconoce,se desconoce,0,"Hipódromo del Paraíso - Caracas, Venezuela"
+1920-03-29 00:00:00.000,Curtiss NC-2,se desconoce,US Navy,0,"Atlantic Ocean off Atlantic City, NJ"
+1920-05-13 00:00:00.000,De Havilland DH-6,se desconoce,New Zealand Flying School,0,"Gisborne, East Coast"
+1930-01-01 00:00:00.000,Avro Ten (Fokker F.VIIb/3m),VH-UMH,Australian National Airways (1930),0,"near Bonalbo, Nsw"
+1930-01-09 00:00:00.000,Fokker C.I,F-13,MLD,0,"De Kooy NAS, Noord-Holland"
+1930-01-11 00:00:00.000,Boeing 95,NC420E,Western Air Express,0,"Cedar City, UT"
+1930-02-09 00:00:00.000,de Havilland DH.60G Gipsy Moth,G-CAUR,Flying & Services Ltd.,0,"Cornwall, Ontario"
+1930-01-01 00:00:00.000,Avro Ten (Fokker F.VIIb/3m),VH-UMH,Australian National Airways (1930),0,"near Bonalbo, Nsw"
+1930-01-09 00:00:00.000,Fokker C.I,F-13,MLD,0,"De Kooy NAS, Noord-Holland"
+1930-01-11 00:00:00.000,Boeing 95,NC420E,Western Air Express,0,"Cedar City, UT"
+1930-02-09 00:00:00.000,de Havilland DH.60G Gipsy Moth,G-CAUR,Flying & Services Ltd.,0,"Cornwall, Ontario"
+1940-01-02 00:00:00.000,Supermarine Spitfire Mk I,K9835,41 Sqn RAF,0,"RAF Thornaby, North Yorkshire"
+1940-01-02 00:00:00.000,Gloster Gladiator II,N5637,263 Sqn RAF,0,"Pen Pound Farm, outskirts of Rhos, between Neath and Pontardawe"
+1940-01-05 00:00:00.000,Armstrong Whitworth Whitley Mk IV,K9020,78 Sqn RAF,0,"RAF Dishforth, North Yorkshire"
+1940-01-08 00:00:00.000,Supermarine Spitfire Mk I,K9945,616 (South Yorkshire) Sqn RAF,0,"RAF Leconfield, Yorkshire"
+1940-01-12 00:00:00.000,Supermarine Spitfire I,K9847,41 Sqn RAF,0,"RAF Catterick, North Yorkshire"
+1940-01-13 00:00:00.000,Supermarine Spitfire Mk I,L1061,603 (City of Edinburgh) Sqn RAF,0,"RAF Prestwick, Ayrshire"
+1940-01-15 00:00:00.000,Lockheed Hudson Mk I,N7339,CCP RAF,0,"RAF Silloth, Cumberland"
+1940-01-18 00:00:00.000,Fairey Battle Mk I,L5056,7 B&GS RAF,0,"near Cardiff, Glamorgan"
+1940-01-02 00:00:00.000,Supermarine Spitfire Mk I,K9835,41 Sqn RAF,0,"RAF Thornaby, North Yorkshire"
+1940-01-02 00:00:00.000,Gloster Gladiator II,N5637,263 Sqn RAF,0,"Pen Pound Farm, outskirts of Rhos, between Neath and Pontardawe"
+1940-01-05 00:00:00.000,Armstrong Whitworth Whitley Mk IV,K9020,78 Sqn RAF,0,"RAF Dishforth, North Yorkshire"
+1940-01-08 00:00:00.000,Supermarine Spitfire Mk I,K9945,616 (South Yorkshire) Sqn RAF,0,"RAF Leconfield, Yorkshire"
+1940-01-12 00:00:00.000,Supermarine Spitfire I,K9847,41 Sqn RAF,0,"RAF Catterick, North Yorkshire"
+1940-01-13 00:00:00.000,Supermarine Spitfire Mk I,L1061,603 (City of Edinburgh) Sqn RAF,0,"RAF Prestwick, Ayrshire"
+1940-01-15 00:00:00.000,Lockheed Hudson Mk I,N7339,CCP RAF,0,"RAF Silloth, Cumberland"
+1940-01-18 00:00:00.000,Fairey Battle Mk I,L5056,7 B&GS RAF,0,"near Cardiff, Glamorgan"
+1960-01-01 00:00:00.000,De Havilland DH.82A Tiger Moth,PH-NIK,J.M. Smeets,0,"Genk-Zwartberg Airfield, Genk, Limburg"
+1960-01-03 00:00:00.000,Taylorcraft Auster 5D,ZK-BMD,Wairarapa & Ruahine Aero Club,0,"Homewood, Wairarapa"
+1960-01-03 00:00:00.000,Lockheed L-749A Constellation,N110A,Eastern Air Lines,0,"Philadelphia International Airport, PA (PHL)"
+1960-01-06 00:00:00.000,McDonnell F2H-3 Banshee,127510,Royal Canadian Navy (RCN),0,"HMCS Shearwater, NS"
+1960-01-15 00:00:00.000,Fletcher FU24,ZK-BHZ,se desconoce,0,"Woodville, Hawke's Bay"
+1960-01-03 00:00:00.000,Lockheed L-749A Constellation,N110A,Eastern Air Lines,0,"Philadelphia International Airport, PA (PHL)"
+1970-01-02 00:00:00.000,De Havilland DH-82A Tiger Moth,VH-BXF,Darling Down Aero Club,0,"Toowoomba Aerodrome, Toowoomba, QLD"
+1970-01-05 00:00:00.000,De Havilland DH-82A Tiger Moth,VH-TIG,Groupair Pty Ltd,0,"Berwick Airport, Berwick, VIC"
+1970-01-08 00:00:00.000,Beechcraft A23A,VH-RWA,Royal Aero Club of Western Australia,0,"Jandakot Airport, Perth, WA"
+1970-01-09 00:00:00.000,Vickers 768D Viscount,VT-DJB,Indian Airlines,0,Patna Airport (PAT)
+1970-01-11 00:00:00.000,DC-9-31,N1308T,Texas International,0,"Harlingen-Valley International Airport, TX (HRL)"
+1980-01-01 00:00:00.000,Boeing 737-2A8,VT-EAH,Indian Airlines,0,Ahmedabad Airport (AMD)
+1980-01-22 00:00:00.000,Grumman American AA-5A Cheetah,9V-...,SGAS/SPPTS,0,near Batu Pahat
+1980-01-01 00:00:00.000,Boeing 737-2A8,VT-EAH,Indian Airlines,0,Ahmedabad Airport (AMD)
+1990-01-02 00:00:00.000,Bell 206B,VH-AZD,se desconoce,0,"Tuart Hill, WA"
+1990-01-02 00:00:00.000,Cessna 182P,VH-WLX,se desconoce,0,"Roeta Station, 60km W of Hillston, NSW"
+1990-01-04 00:00:00.000,Boeing 727-251,N280US,Northwest Airlines,0,"over Madison, Florida"
+1990-01-05 00:00:00.000,Grumman G-164B Ag-Cat,VH-HCR,se desconoce,0,"12km E of Griffith, NSW"
+1990-01-05 00:00:00.000,Piper PA-28-161,VH-WHA,se desconoce,0,"Bendigo Airport (YBDG), Bendigo, VIC"
+1990-01-07 00:00:00.000,Grumman G-164B Ag-Cat,VH-HIT,se desconoce,0,"Finley, NSW"
+1990-01-09 00:00:00.000,PADC/BN-2A-21 Islander,VH-SBD,Sunbird Airlines,0,"Yorke Island Airport, QLD (OKR)"
+1990-01-10 00:00:00.000,Piper PA-28R-180 Cherokee Arrow,VH-CJN,se desconoce,0,"Dunk Island Airport (YDKI), Dunk Island, QLD"
+1990-01-13 00:00:00.000,Cessna 172E,VH-FRG,se desconoce,0,"Braeside Station, WA"
+1990-01-13 00:00:00.000,Grob - Burkhart Flugzeugbau G102,VH-GHF,se desconoce,0,"Cunderdin, WA"
+1990-01-15 00:00:00.000,Beechcraft E18S,N900TH,Troy Air,0,"Anchorage International Airport, 4 nm SW of Anchorage, Alaska"
+1990-01-15 00:00:00.000,Fairchild SA227-AC Metro III,N2721M,SkyWest Airlines,0,"6,6 km ENE of Elko Airport, NV (EKO)"
+1990-01-15 00:00:00.000,Beechcraft 95-55 Baron,VH-TSM,se desconoce,0,"Brisbane Airport (YBBN), Brisbane, QLD"
+1990-01-17 00:00:00.000,Cessna 404 Titan,N335GP,Geodatos,0,"Boca Raton, FL"
+1990-01-17 00:00:00.000,Beech Beechjet 400A,N3121B,Sara Lee Corporation,0,"McCharen Field, 2 miles W of West Point, Mississippi"
+1990-01-19 00:00:00.000,Hughes 369HS,ZK-HJC,Alpine Enterprises Ltd,0,"Mt Cann, West Coast"
+1990-01-19 00:00:00.000,Mitsubishi MU-2B-25,N99SR,Cosco E Associates Inc.,0,"Jefferson County Airport, Broomfield, Colorado"
+1990-01-09 00:00:00.000,PADC/BN-2A-21 Islander,VH-SBD,Sunbird Airlines,0,"Yorke Island Airport, QLD (OKR)"
+1990-01-15 00:00:00.000,Fairchild SA227-AC Metro III,N2721M,SkyWest Airlines,0,"6,6 km ENE of Elko Airport, NV (EKO)"
+1990-01-17 00:00:00.000,Beech Beechjet 400A,N3121B,Sara Lee Corporation,0,"McCharen Field, 2 miles W of West Point, Mississippi"
+2000-01-01 00:00:00.000,Cessna 550 Citation II,N752CC,US Customs Service,0,"HOMESTEAD, Florida"
+2000-01-02 00:00:00.000,CAP-4 Paulistinha,PT-LQT,Air Vision Publicidade Aérea Ltda,0,"Capão da Canoa, RS"
+2000-01-02 00:00:00.000,Cessna 172G,N3690L,Riverside Air Service,0,"VICTORVILLE, California"
+2000-01-03 00:00:00.000,Robinson R44,N233MP,Avietch,0,"Cayey, San Juan"
+2000-01-04 00:00:00.000,RotorWay Exec 90,N89678,Cobb International,0,"CHANDLER, Arizona"
+2000-01-05 00:00:00.000,Bell 206A JetRanger,N206GR,Aviation Services Unlimited,0,"near Brutus, New York"
+2000-01-07 00:00:00.000,Cessna 177B,N34021,George Coutrakon,0,"RIALTO, California"
+2000-01-08 00:00:00.000,Cessna 172P,N65710,Utah State University,0,"HUNTSVILLE, Utah"
+2000-01-08 00:00:00.000,Hawker Hunter F Mk 51,N72602,Jetech Leasing Inc,0,"Chino, California"
+2000-01-08 00:00:00.000,Piper PA-28R-201,N2292M,Peterson Afb Flying Club,0,"PUEBLO, Colorado"
+2000-01-09 00:00:00.000,Swearingen SX300,N54SX,Jim Kennedy,0,"JEKYLL ISLAND, Georgia"
+2000-01-09 00:00:00.000,Bellanca 7ECA,N2735Z,Eagle-1 Aviation,0,"WAYNESBURG, Pennsylvania"
+2000-01-09 00:00:00.000,Wassmer WA-41 Baladou,G-ATZS,Temporal Songs Ltd,0,Calais - 62
+2000-01-09 00:00:00.000,Boeing 747-230F,HL7441,Korean Air,0,near Penang International Airport (PEN)
+2000-01-09 00:00:00.000,Piper PA-32-300,N8954N,"Eagle Air Service, Ltd.",0,"SWEENEY, Texas"
+2000-01-10 00:00:00.000,Cessna 172R,N8292,"Gulf Coast Helicopters, Inc.",0,"ANGLETON, Texas"
+2000-01-10 00:00:00.000,Beechcraft D18,N1827M,Methow Aviation,0,"Pain Field, Everett, WA"
+2000-01-11 00:00:00.000,Piper PA-46-310P Malibu,N9103N,Robert T Harris,0,"BRADFORD, Pennsylvania"
+2000-01-11 00:00:00.000,Beechcraft F-33A,N1565A,Airline Training Center Arizon,0,"MOBILE, Arizona"
+2000-01-11 00:00:00.000,Bell OH-58C Kiowa,N31JA,Jicarilla Apache Police Dept.,0,"near Lindrith, NM"
+2000-01-14 00:00:00.000,Hawker Siddeley HS-748,HC-BEY,TAME Ecuador,0,Guayaquil-Simon Bolivar Airport (GYE)
+2000-01-14 00:00:00.000,Piper PA-38-112 Tomahawk,LV-MOH,Three Rio Aeroclub,0,"Aeródromo Río Tercero, Rio Tercero - Córdoba"
+2000-01-14 00:00:00.000,Piper PA-38-112,N2572N,Mazzie's Flying Service,0,"KERNVILLE, California"
+2000-01-17 00:00:00.000,Cessna 172M,N12654,Frank Leasing LLC,0,"LIBERAL, Kansas"
+2000-01-17 00:00:00.000,Cessna 340A,XBBJU,Luis Carlos Alanis Fernandez,0,"BROWNSVILLE, Texas"
+2000-01-17 00:00:00.000,Cessna 210M,VH-NOK,se desconoce,0,"Croker Island Airport (YCKI), Croker Island, NT"
+2000-01-18 00:00:00.000,Hughes 269,N9297F,Helicopter Specialist Inc,0,"3 miles south of Sherwood, Oregon"
+2000-01-18 00:00:00.000,Cessna 182J,N3369F,Curtis Flying Inc.,0,"STANLEY, North Dakota"
+2000-01-18 00:00:00.000,Bell OH-58C Kiowa,N436SD,AG FLITE INC.,0,"Brawley, CA"
+2010-01-01 00:00:00.000,Hiller UH-12E,N440NR,Costa Spraying Inc,0,"Tulare, near Tipton, California"
+2010-01-01 00:00:00.000,Maule M-4-220C,N2028U,Candlerock International Corp,0,"Pearsall, TX"
+2010-01-02 00:00:00.000,Boeing 727-231F Super 27,9Q-CAA,CAA,0,Kinshasa-N'Djili Airport (FIH)
+2010-01-02 00:00:00.000,Swearingen SA227-AC Metro III,N227ML,Locair,0,"Somerset-Lake Cumberland Regional Airport, KY (SME)"
+2010-01-04 00:00:00.000,De Havilland DH.82A Tiger Moth,VH-FAH,Laurence [Laurie] Peter Brown,0,"Bendigo Airport, Bendigo, VIC"
+2010-01-05 00:00:00.000,Cessna 172M Skyhawk,C-GEBK,Ursus Aviation,0,"Tulita Airport (CFZN), Northwest Territories"
+2010-01-05 00:00:00.000,Bell 206L 1,C-FALC,Alpine Helicopters,0,"20 NM South of Golden, BC"
+2010-01-06 00:00:00.000,Cessna 208B Grand Caravan,A2-AKG,Mack Air,0,"Piajo Airstrip, Chief's Island, Okavango Delta"
+2010-01-06 00:00:00.000,Beech C99,N206AV,Ameriflight,0,"Kearney Regional Airport, NE (EAR)"
+2010-01-06 00:00:00.000,Cessna 172R,N35414,Pinnacle Aviation Services Inc,0,"Ramona Airport, CA"
+2010-01-06 00:00:00.000,Schweizer 269C-1 (300CB),N3275M,Chesapeake Bay Helicopters,0,"Near Amish Road and Route 68, Grantsville, MD"
+2010-01-07 00:00:00.000,Saab 340A,C6-SBE,SkyBahamas Airlines,0,Nassau-Lynden Pindling International Airport (NAS)
+2010-01-07 00:00:00.000,Bell 206B,N127TP,"N127TP, LLC",0,"Kalispell, MT"
+2010-01-08 00:00:00.000,Piper PA-28-181,N29285,Midfield Aviation,0,"Apple Valley, CA"
+2010-01-08 00:00:00.000,Hughes 500D (369D),N500LW,Idaho Fish and Game,0,"Kelly Creek area, Northern Idaho wilderness"
+2010-01-08 00:00:00.000,Dassault Falcon 20C,XA-PCC,Aerotaxis Dos Mil,0,"Vail-Eagle County Airport, CO (EGE)"
+2010-01-08 00:00:00.000,Piper PA-31-350 Chieftain,C-FVWY,Superior Airways Ltd.,0,"Bloodvein River Airport, Manitoba"
+2010-01-09 00:00:00.000,Cessna 140,N3160N,Samuel D McGowan,0,"North of Ranchaero Airport, CA"
+2010-01-09 00:00:00.000,DINFIA IA 46 Super Ranquel,LV-JEW,se desconoce,0,"Rufino, SF"
+2010-01-10 00:00:00.000,Airbus A319-131,N816UA,United Airlines,0,"Newark-Liberty International Airport, NJ (EWR)"
+2010-01-11 00:00:00.000,Robinson R44,SE-JGA,Skärgårdsflyg i Stockholm,0,"NW Näsudden, Ornö"
+2010-01-12 00:00:00.000,Young Dee C KITFOX II,N345DY,se desconoce,0,"St. Anthony, Idaho"
+2010-01-13 00:00:00.000,Mil Mi-8AMT,RA-22428,UTair,0,Kabul Airport (KBL/OAKB)
+2010-01-13 00:00:00.000,DHC-8-102,5Y-EMD,"CMC Aviation, opf. ECHO Flight",0,Moba Airport (BDV)
+2010-01-13 00:00:00.000,Cessna 140A,N5353C,John Tillotson,0,"Urbana, Illinois"
+2010-01-14 00:00:00.000,Piper PA-28-140 Cherokee Cruiser,N43421,Gospel Ministries International,0,"Silver street, near Collegedale Municipal Airport, TN"
+2010-01-14 00:00:00.000,Cessna 208B Grand Caravan,VH-NTQ,Broome Aviation,0,"Beagle Bay Airport, WA (BEE)"
+2010-01-14 00:00:00.000,Piper PA-12,N3233M,Copper Valley Air Service LLC,0,"Gulkana, Alaska"
+2010-01-15 00:00:00.000,Fokker 100,EP-IDA,Iran Air,0,Isfahan - ( OIFM )
+2010-01-15 00:00:00.000,Cirrus SR22,N155SR,se desconoce,0,"Fredericksburg, Texas"
+2010-01-02 00:00:00.000,Boeing 727-231F Super 27,9Q-CAA,CAA,0,Kinshasa-N'Djili Airport (FIH)
+2010-01-02 00:00:00.000,Swearingen SA227-AC Metro III,N227ML,Locair,0,"Somerset-Lake Cumberland Regional Airport, KY (SME)"
+2010-01-06 00:00:00.000,Cessna 208B Grand Caravan,A2-AKG,Mack Air,0,"Piajo Airstrip, Chief's Island, Okavango Delta"
+2010-01-06 00:00:00.000,Beech C99,N206AV,Ameriflight,0,"Kearney Regional Airport, NE (EAR)"
+2010-01-07 00:00:00.000,Saab 340A,C6-SBE,SkyBahamas Airlines,0,Nassau-Lynden Pindling International Airport (NAS)
+2010-01-08 00:00:00.000,Dassault Falcon 20C,XA-PCC,Aerotaxis Dos Mil,0,"Vail-Eagle County Airport, CO (EGE)"
+2010-01-10 00:00:00.000,Airbus A319-131,N816UA,United Airlines,0,"Newark-Liberty International Airport, NJ (EWR)"
+2010-01-13 00:00:00.000,DHC-8-102,5Y-EMD,"CMC Aviation, opf. ECHO Flight",0,Moba Airport (BDV)
+2010-01-14 00:00:00.000,Cessna 208B Grand Caravan,VH-NTQ,Broome Aviation,0,"Beagle Bay Airport, WA (BEE)"
+2020-01-01 00:00:00.000,Beechcraft A36 Bonanza,CC-PEN,Turismo Aéreo Chile Limitada,0,"Aeródromo de San Fernando, SCSD"
+2020-01-02 00:00:00.000,MikroKopter,se desconoce,se desconoce,0,"Rockhampton Aerodrome, 230° T 22Km (Stanwell Qld), QLD"
+2020-01-02 00:00:00.000,Cirrus SR22 GTS,N323SR,Cornerstone Aviation LLC,0,"Kenansville, NC"
+2020-01-02 00:00:00.000,Gippsland GA-8 Airvan,VH-BNX,Air Fraser Island,0,"Cornwell’s ALA, Fraser Island, QLD"
+2020-01-03 00:00:00.000,Hawker 900XP,N805D,Million Air San Juan,0,San Juan-Fernando Luis Ribas Dominicci Airport (SIG)
+2020-01-03 00:00:00.000,Cessna U206A Stationair,HP-569CP,Cielos del Pacífico,0,Veracruz
+2020-01-03 00:00:00.000,Neiva EMB-202A Ipanema,PT-UTS,Aeromaj Aviação Agrícola,0,"Fazenda Cajú, Leme, SP"
+2020-01-04 00:00:00.000,Beech B200 King Air,N200HF,"L.C. Whitford Co., Inc.",0,"Morristown Municipal Airport, NJ (MMU)"
+2020-01-04 00:00:00.000,Cessna 172RG,8Q-GAD,Asian Aviation Academy,0,"Gan Int Airport, Gan, Addu Atoll"
+2020-01-04 00:00:00.000,SZD-42-2 Jantar 2B,LV-DPA,Private operator,0,"Esperanza Aerodrome, Santa Fe"
+2020-01-05 00:00:00.000,Tecnam P2010,RP-C8230,First Aviation Academy,0,Subic Bay International Airport
+2020-01-06 00:00:00.000,Cessna 172H,N1658F,Mondo Beyondo Thrill Squadron,0,"El Monte, California"
+2020-01-06 00:00:00.000,Cessna P210N Pressurized Centurion,N711BG,EFlight Inc,0,"near Salinas Municipal Airport (KSNS), Salinas, CA"
+2020-01-07 00:00:00.000,Boeing 737-82R (WL),TC-CCK,Pegasus Airlines,0,Istanbul Sabiha Gokcen International Airport
+2020-01-08 00:00:00.000,Boeing 737-823 (WL),N929NN,American Airlines,0,"New York-La Guardia Airport, NY (LGA)"
+2020-01-08 00:00:00.000,Hughes OH-6A,N6186U,US Dept of Agriculture,0,"Preston, Georgia"
+2020-01-09 00:00:00.000,ATMOS UAV Marlyn,se desconoce,se desconoce,0,"142 Rex Road, Walkamin, QLD"
+2020-01-09 00:00:00.000,Lockheed C-130BZ Hercules,403,South African AF,0,Goma Airport (GOM)
+2020-01-09 00:00:00.000,multiple F-16s,se desconoce,Israeli Defence Force (IDF),0,Hatzor airbase
+2020-01-09 00:00:00.000,Piper PA-44-180 Seminole,C-FTUU,Moncton Flight College,0,"Bathurst Airport (CZBF), NB"
+2020-01-09 00:00:00.000,Bell-Garlick UH-1H Iroquois,VH-ONZ,Fleet Helicopters,0,"Ben Boyd National Park, NSW"
+2020-01-10 00:00:00.000,Airbus A321-231 (WL),VQ-BRS,Nordwind Airlines,0,Antalya Airport (AYT)
+2020-01-10 00:00:00.000,Cessna 180A,LV-ZKQ,Private operator,0,"Junin Aerodrome (SAAJ), Buenos Aires"
+2020-01-10 00:00:00.000,Schweizer 300C,LV-AFB,Aeroclub Casilda,0,Casilda
+2020-01-03 00:00:00.000,Hawker 900XP,N805D,Million Air San Juan,0,San Juan-Fernando Luis Ribas Dominicci Airport (SIG)
+2020-01-04 00:00:00.000,Beech B200 King Air,N200HF,"L.C. Whitford Co., Inc.",0,"Morristown Municipal Airport, NJ (MMU)"
+2020-01-08 00:00:00.000,Boeing 737-823 (WL),N929NN,American Airlines,0,"New York-La Guardia Airport, NY (LGA)"
+2020-01-09 00:00:00.000,Lockheed C-130BZ Hercules,403,South African AF,0,Goma Airport (GOM)
+2020-01-10 00:00:00.000,Airbus A321-231 (WL),VQ-BRS,Nordwind Airlines,0,Antalya Airport (AYT)
+1910-10-23 00:00:00.000,Bleriot XI,se desconoce,Private,0,"Etterstad, Oslo"
+1910-12-03 00:00:00.000,Farman Biplane,se desconoce,Private,0,Issy-les-Moulineaux
+1910-10-23 00:00:00.000,Bleriot XI,se desconoce,Private,0,"Etterstad, Oslo"
+1910-12-03 00:00:00.000,Farman Biplane,se desconoce,Private,0,Issy-les-Moulineaux
+1950-01-02 00:00:00.000,Airplane,PP-RZE,Private,0,"Congonhas, SP"
+1970-01-03 00:00:00.000,Piper PA-28-140 Cherokee Cruiser,N8242N,Private,0,"West Chicago, IL"
+1970-01-03 00:00:00.000,Piper PA-22,N1651A,Private,0,"Springdale, Arkansas"
+1970-01-03 00:00:00.000,Cessna 140,N2369V,Private,0,"Pacoima, California"
+1970-01-03 00:00:00.000,Luscombe 8A,N45672,Private,0,"Drexel, MO"
+1970-01-03 00:00:00.000,Cessna 170B,N8202A,Private,0,"Tewksbury, MA"
+1970-01-03 00:00:00.000,Cessna 172A,N7574T,Private,0,"Houston, TX"
+1970-01-03 00:00:00.000,Cessna 150H,N7295S,Private,0,"Fort Worth, TX"
+1970-01-04 00:00:00.000,Cessna 182A,N5199D,Private,0,"Sycamore, IL"
+1970-01-04 00:00:00.000,Cessna 182G,N2309R,Private,0,"Lawrenceville, IL"
+1980-01-10 00:00:00.000,Eiri-Avion PIK-20,ZK-GKG,Private,0,"Killermont, Canterbury"
+1980-01-19 00:00:00.000,Schweizer SGS 1-26E,N2994H,Private,0,"Benton, TN"
+1990-01-01 00:00:00.000,Glasflügel 206 Hornet,VH-GMW,Private,0,"3km NE of Walla Walla, NSW"
+1990-01-08 00:00:00.000,Schweizer SGS 2-33A,N2637H,Private,0,"Kutztown, PA"
+1990-01-09 00:00:00.000,Mitsubishi MU-2B-25,N666HB,Private,0,"Craig Municipal Airport Jacksonville, Florida"
+1990-01-14 00:00:00.000,Scheibe SF 28A Tandem-Falke,G-BARZ,Private,0,"1 nm west of RAF Dishforth, North Yorkshire"
+2000-01-02 00:00:00.000,Cessna 172A,N7249T,Private,0,"DOS PALOS, California"
+2000-01-02 00:00:00.000,Piper PA-46-310P Malibu,N4389W,Private,0,"near Odessa, TX"
+2000-01-02 00:00:00.000,Piper PA-46-310P Malibu,N87NF,Private,0,"1.5 miles southeast of Corning, AR"
+2000-01-03 00:00:00.000,Cessna A185F,N999SW,Private,0,"HOUSTON, Texas"
+2000-01-04 00:00:00.000,Beechcraft B200 Super King Air,N895TT,Private,0,"JACKSON, Wyoming"
+2000-01-04 00:00:00.000,Zenith CH 601,N229FF,Private,0,"KISSIMMEE, Florida"
+2000-01-08 00:00:00.000,Piper PA-23-250,N128Y,Private,0,"ROCK SPRINGS, Wyoming"
+2000-01-08 00:00:00.000,Piper PA-32R-301T,N8463X,Private,0,"HARPSWELL, Maine"
+2000-01-10 00:00:00.000,Taylorcraft DCO-65,N48634,Private,0,"SHERMAN, Texas"
+2000-01-13 00:00:00.000,Beechcraft K35,N9500R,Private,0,"FILLMORE, Utah"
+2000-01-14 00:00:00.000,Cessna 150F,N6691F,Private,0,"LIVINGSTON, Texas"
+2000-01-16 00:00:00.000,Dana A. Moore DANAMITE,N6407C,Private,0,"SMYRNA, Tennessee"
+2000-01-17 00:00:00.000,Cessna 340A,XB-BJU,Private,0,"Brownsville International Airport, Brownsville, Texas"
+2000-01-18 00:00:00.000,Cessna 172,N6445B,Private,0,"TOOELE, Utah"
+2010-01-01 00:00:00.000,Cessna 150G,N4026J,Private,0,"Church School Rd / Cold Spring Creamery Rd , Bucks County, PA"
+2010-01-03 00:00:00.000,Cessna 182P,N7417N,Private,0,"Fallbrook Community Airpark, Fallbrook, San Diego County, California"
+2010-01-03 00:00:00.000,Tecnam P2002-JF,PH-VHC,Private,0,"Hilversum Aerodrome, Noord-Holland"
+2010-01-04 00:00:00.000,Robinson R44 Raven II,LV-BZU,Private,0,"Fiambala, Catamarca province"
+2010-01-04 00:00:00.000,Embraer/NEIVA EMB-202 Ipanema,PT-URT,Private,0,"Irmaos Minaretto Farm, Lucas Do Rio Verde, MT"
+2010-01-05 00:00:00.000,Grumman American AA-5B Tiger,N28446,Private,0,"Santa Fe, NM"
+2010-01-05 00:00:00.000,Cessna 150L,N10401,Private,0,"Brownstown, IL"
+2010-01-06 00:00:00.000,Cessna 182J,N48ZZ,Private,0,"Metaline Falls, WA"
+2010-01-06 00:00:00.000,Piper PA-32R-301T Turbo Saratoga SP,N8448Y,Private,0,"Auburn, AL"
+2010-01-07 00:00:00.000,Cessna 195B,N2171C,Private,0,"Jacqueline Cochran Regional Airport (KTRM), CA"
+2010-01-08 00:00:00.000,Piper PA-46-310P Malibu,N825WS,Private,0,Libourne (33) Airport
+2010-01-09 00:00:00.000,Stinson 108 Voyager,N97223,Private,0,"About 30 feet off the Sayville shore, Long Island, NY"
+2010-01-09 00:00:00.000,Marabou Stork,ZU-CWW,Private,0,"Rhinopark Airfield, Gauteng"
+2010-01-09 00:00:00.000,Jabiru J400,ZU-CTD,Private,0,"Warner Beach, south of Durban, KZN"
+2010-01-10 00:00:00.000,Piper PA-28-140 Cherokee,VH-ACR,Private,0,"Old South Rd, Mittagong, southern highlands of NSW"
+2010-01-10 00:00:00.000,ERCO 415-CD Ercoupe,N94670,Private,0,"Poppy's Flying Acres private airfield,  Faskell Road, naer Mukwa,"
+2010-01-13 00:00:00.000,Robinson R44 II,RA-04145,Private,0,"Tala distriict, Irkutsk region"
+2010-01-13 00:00:00.000,Cessna R182 Skylane RG,VH-WCO,Private,0,"Tyabb Airport, Tyabb, VIC"
+2010-01-14 00:00:00.000,ERCO 415-D Ercoupe,N2332H,Private,0,"In a field just south of Napa County Airport, CA"
+2020-01-01 00:00:00.000,Van's RV-8,N122AD,Private,0,"Yolo County Airport (KDWA/DWA), CA"
+2020-01-01 00:00:00.000,Cessna T210L Turbo Centurion,N94227,Private,0,"Ada, OK"
+2020-01-03 00:00:00.000,European Air Wings Spring Bok,28EW,Private,0,"Montesquieu-des-Albères, Pyrénées-Orientales 66"
+2020-01-03 00:00:00.000,Cessna 150M,N45069,Private,0,"West of Twentynine Palms Airport (TNP/KTNP ), Twentynine Palms, CA"
+2020-01-04 00:00:00.000,Aérospatiale SE 3130 Alouette II,N92785,Private,0,"Dell’ Orto air landing strip , Mokelumne Hill, Calaveras County, CA"
+2020-01-04 00:00:00.000,Aero Commander 100,N5573M,Private,0,"Mullin, TX"
+2020-01-05 00:00:00.000,Rans S-12 Airaile,EC-CA1,Private,0,4 km NE of Ulldecona
+2020-01-05 00:00:00.000,Grumman American AA-5A Cheetah,N9593U,Private,0,"Rutherford County, NC"
+2020-01-06 00:00:00.000,Glasair I RG,N118CV,Private,0,"Mount Sterling, Montgomery County, KY"
+2020-01-07 00:00:00.000,Beechcraft C23 Sundowner,N24690,Private,0,"Norfolk, VA"
+2020-01-07 00:00:00.000,Cirrus SR22,N779LB,Private,0,"Kapolei-Kalaeloa Airport, HI (JRF/PHJR)"
+2020-01-08 00:00:00.000,DJI Inspire 2,Unregistered,Private,0,"Sampson House, 64 Hopton Street, Southwark, London, SE1 9JH"
+2020-01-08 00:00:00.000,Piper PA-23-250 Aztec,N1428P,Private,0,"Helena, MT"
+2020-01-09 00:00:00.000,Cessna 172A Skyhawk,PT-BHF,Private,0,"Rondonópolis, MT"
+2020-01-10 00:00:00.000,Piper PA-28-181,N8408E,Private,0,"Santa Barbara, California"
